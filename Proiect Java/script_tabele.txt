@@ -1,0 +1,12 @@
+CREATE TABLE studenti (
+	id int PRIMARY KEY,
+	nr_matricol VARCHAR2(7),
+	nume VARCHAR2(50),
+	prenume VARCHAR2(50),
+	an	NUMBER(2,0),
+	grupa	VARCHAR2(3),
+	data_nastere	VARCHAR2(15),
+	email	VARCHAR2(50),
+	medie	NUMBER(6,2),
+	inregistrat	BOOLEAN DEFAULT 'f'
+);
