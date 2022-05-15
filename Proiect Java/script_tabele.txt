@@ -5,8 +5,8 @@ CREATE TABLE studenti (
     prenume VARCHAR(50),
     an int,
     grupa VARCHAR(3),
-    data_nastere TIMESTAMP,
+    data_nastere VARCHAR(11),
     email VARCHAR(50),
-    medie NUMERIC(2, 2),
+    medie NUMERIC(3, 2),
     inregistrat BOOLEAN DEFAULT 'f'
 );
