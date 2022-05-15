@@ -10,3 +10,15 @@ CREATE TABLE studenti (
     medie NUMERIC(3, 2),
     inregistrat BOOLEAN DEFAULT 'f'
 );
+
+
+CREATE TABLE camine (
+    id int PRIMARY KEY,
+    denumire VARCHAR(50),
+    pret_RON NUMERIC(3, 0),
+    capacitate_totala NUMERIC(3, 0),
+    capacitate_per_camera NUMERIC(3, 0),
+    nr_camere_total NUMERIC(3, 0),
+    nr_camere_baieti NUMERIC(3, 0),
+    nr_camere_fete NUMERIC(3, 0)
+);
