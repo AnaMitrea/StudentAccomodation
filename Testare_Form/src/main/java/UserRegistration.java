@@ -50,7 +50,10 @@ public class UserRegistration extends JFrame {
     public UserRegistration() {
         setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\User\\Desktop\\STDM.jpg"));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        //TODO de cautat cum se iau proportiile ecranului pt a pune la width si height
         setBounds(450, 190, 1014, 597);
+
         setResizable(false);
         contentPane = new JPanel();
         contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
