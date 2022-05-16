@@ -1,0 +1,1026 @@
+ID,ID_CAMIN,NR_MATRICOL,NUME,PRENUME,GEN,AN,GRUPA,DATA_NASTERE,EMAIL,MEDIE,INREGISTRAT
+388,0,169OX8,Simionesei,Sergiu,M,1,A1,30-SEP-74,simionesei.sergiu@info.ro,6.58,FALSE
+389,0,813JD4,Moisa,Victor Giulio,M,2,B1,07-APR-74,moisa.victor@info.ro,7.31,FALSE
+390,0,432AT3,Diaconu,Cristina Sanziana,F,2,A3,06-OCT-74,diaconu.cristina@gmail.com,7,FALSE
+391,0,356TF1,Morosanu,Sabina,F,2,A4,13-JAN-74,morosanu.sabina@gmail.com,8,FALSE
+392,0,573NE4,Adascalitei,Catalin Constantin,M,1,A6,04-MAY-74,adascalitei.catalin@gmail.com,6.63,FALSE
+393,0,613IF4,Acasandrei,Larisa Eleonora,F,1,B4,01-OCT-74,acasandrei.larisa@gmail.com,7.5,FALSE
+394,0,356AK8,Hardon,Malina Ioana,F,3,B4,18-JUN-74,hardon.malina@gmail.com,6.81,FALSE
+395,0,810CG2,Hodoreanu,Daniel,M,2,A5,04-DEC-74,hodoreanu.daniel@info.ro,6.38,FALSE
+396,0,617DM6,Zamosteanu,Damian,M,1,B6,17-JAN-74,zamosteanu.damian@info.ro,8.13,FALSE
+397,0,859IW8,Piriu,Vladut,M,3,B1,23-FEB-74,piriu.vladut@gmail.com,7.06,FALSE
+398,0,668CU8,Bursuc,Elisa,F,3,B3,04-NOV-74,bursuc.elisa@info.ro,6.92,FALSE
+399,0,866QY7,Otrocol,Alin Denise,M,3,B6,12-AUG-74,otrocol.alin@info.ro,6.75,FALSE
+400,0,632OF7,Andronic,Ilona Andreea,F,3,B3,08-NOV-74,andronic.ilona@info.ro,6.75,FALSE
+401,0,318YC0,Scurtu,Mirela,F,1,A5,15-JUN-74,scurtu.mirela@gmail.com,6.42,FALSE
+402,0,886CS0,Juravle,Anda Gabriela,F,3,B4,30-SEP-74,juravle.anda@gmail.com,7.5,FALSE
+403,0,745FG6,Ilie,Xena,F,3,A2,27-JUN-74,ilie.xena@info.ro,8.13,FALSE
+404,0,756GO5,Avram,Diana Tamara,F,3,B4,12-JUN-74,avram.diana@info.ro,6.13,FALSE
+405,0,900MP6,Dodan,Iuliana,F,1,B3,13-SEP-74,dodan.iuliana@info.ro,6.71,FALSE
+406,0,935GR2,Melniciuc-puica,Paula,F,2,A1,14-OCT-74,melniciuc-puica.paula@gmail.com,6.81,FALSE
+407,0,172ES0,Herdes,Nicolae Dorian,M,2,A4,22-APR-74,herdes.nicolae@gmail.com,7.5,FALSE
+408,0,497ON1,Corneanu,Petrut Emil,M,1,A4,22-SEP-74,corneanu.petrut@info.ro,6.54,FALSE
+409,0,635NO3,Chirila,Claudiu Emil,M,2,A3,03-FEB-74,chirila.claudiu@gmail.com,7.44,FALSE
+410,0,261PF2,Ursachi,Iustin Andreas,M,2,B4,06-JAN-74,ursachi.iustin@info.ro,6.42,FALSE
+411,0,781EG7,Miron,Loredana,F,2,B6,19-SEP-74,miron.loredana@gmail.com,5.5,FALSE
+412,0,106TI8,Jecu,Aurelian Octavian,M,3,B3,01-AUG-74,jecu.aurelian@gmail.com,6.25,FALSE
+413,0,824FO3,Gavriliuc,Theodora,F,3,A3,18-MAR-74,gavriliuc.theodora@info.ro,7.38,FALSE
+414,0,644OZ3,Cristea,Mirela Elisa,F,3,B1,08-MAY-74,cristea.mirela@gmail.com,7.04,FALSE
+415,0,747JH4,Martinas,Sabina,F,2,B3,22-APR-74,martinas.sabina@info.ro,6.54,FALSE
+416,0,130HP7,Apetrei,Malina,F,1,B1,22-SEP-74,apetrei.malina@gmail.com,6.5,FALSE
+417,0,172FO8,Harabula,Mirela,F,3,B4,27-APR-74,harabula.mirela@info.ro,7.06,FALSE
+418,0,903CF8,Curca,Paula,F,1,B1,07-AUG-74,curca.paula@gmail.com,7.31,FALSE
+419,0,845OJ7,Stefanita,Gabriel Cosmin,M,3,B1,13-FEB-74,stefanita.gabriel@gmail.com,8.13,FALSE
+420,0,520YF8,Turcu,Mihai Marius,M,1,B6,21-AUG-74,turcu.mihai@gmail.com,6.46,FALSE
+421,0,816MK6,Ichim,Elisa,F,3,A6,21-SEP-74,ichim.elisa@info.ro,6.29,FALSE
+422,0,331NU7,Andrian,Paula,F,1,B3,23-DEC-74,andrian.paula@info.ro,5.5,FALSE
+423,0,759UV4,Dascalescu,Gabriela Daniela,F,3,B4,28-MAY-74,dascalescu.gabriela@gmail.com,6.25,FALSE
+424,0,325DI3,Ferestraoaru,Danut,M,1,B1,18-SEP-74,ferestraoaru.danut@info.ro,7.19,FALSE
+425,0,256PP4,Motroi,Gheorghe Ciprian,M,2,B5,24-JAN-74,motroi.gheorghe@gmail.com,6.75,FALSE
+426,0,656PL2,Ivascu,Razvan Andreas,M,1,B6,29-DEC-74,ivascu.razvan@info.ro,6.42,FALSE
+427,0,804UC8,Minea,Loredana,F,3,B5,21-SEP-74,minea.loredana@gmail.com,6.29,FALSE
+428,0,691ID1,Minuti,Camelia,F,3,A2,16-JAN-74,minuti.camelia@gmail.com,7.19,FALSE
+429,0,603EE0,Ciofu,Bianca,F,1,B4,05-MAY-74,ciofu.bianca@info.ro,6.5,FALSE
+430,0,224IZ7,Arteni,Ilie,M,2,A2,29-OCT-74,arteni.ilie@info.ro,6.33,FALSE
+431,0,621HW4,Diaconu,Vasilica,F,3,B5,31-DEC-74,diaconu.vasilica@info.ro,6.5,FALSE
+432,0,983TJ0,Damian,Oana Gabriela,F,1,A2,28-MAY-74,damian.oana@gmail.com,6.21,FALSE
+433,0,322QL1,Agape,Bianca,F,2,A4,08-MAY-74,agape.bianca@info.ro,7.88,FALSE
+434,0,506GI1,Botezatu,Damian,M,3,A4,20-NOV-74,botezatu.damian@gmail.com,7.56,FALSE
+435,0,933AB4,Varlan,Eleonora Loredana,F,1,B2,19-SEP-74,varlan.eleonora@info.ro,6.96,FALSE
+436,0,433SX6,Nastaca,Alex,M,2,B6,06-JUL-74,nastaca.alex@info.ro,7.19,FALSE
+437,0,329LH3,Damoc,Richard Laurentiu,M,1,A3,22-NOV-74,damoc.richard@info.ro,6.33,FALSE
+438,0,192XY7,Cazacu,Damian Dan,M,3,B2,07-MAY-74,cazacu.damian@info.ro,6.79,FALSE
+439,0,850MT0,Popa,Madalina,F,1,B2,31-AUG-74,popa.madalina@info.ro,6.21,FALSE
+440,0,970ZQ3,Varvaroi,Romanescu,M,2,A1,02-NOV-74,varvaroi.romanescu@gmail.com,6.58,FALSE
+441,0,234FX5,Acasandrei,Loredana Alina,F,2,A5,19-AUG-74,acasandrei.loredana@info.ro,6.29,FALSE
+442,0,422EG8,Nemtoc,Romanescu,M,1,A3,05-MAR-74,nemtoc.romanescu@info.ro,6.75,FALSE
+443,0,268KQ5,Corfu,Teodora Madalina,F,1,B2,26-MAY-74,corfu.teodora@gmail.com,7.13,FALSE
+444,0,851NC0,Paparuz,Ion Darius,M,2,A4,16-JUL-74,paparuz.ion@info.ro,5.96,FALSE
+445,0,930VH2,Ionesi,Iuliana Daniela,F,3,A1,18-FEB-74,ionesi.iuliana@info.ro,6.75,FALSE
+446,0,345IH6,Stoica,Ilie,M,3,B4,08-JAN-74,stoica.ilie@info.ro,6.75,FALSE
+447,0,700MG6,Carbune,Theodora,F,1,B6,20-MAY-74,carbune.theodora@info.ro,6.13,FALSE
+448,0,307IE7,Danila,Alexandru,M,2,A1,15-DEC-74,danila.alexandru@gmail.com,6.25,FALSE
+449,0,361RQ3,Moisa,Ema,F,2,B4,14-SEP-74,moisa.ema@gmail.com,7.31,FALSE
+450,0,375UB1,Ciucanu,Dorian Rares,M,2,B2,13-OCT-74,ciucanu.dorian@gmail.com,7.56,FALSE
+451,0,337YA3,Bodnar,Andra Elena,F,3,B4,03-MAY-74,bodnar.andra@gmail.com,7.63,FALSE
+452,0,427YZ6,Manolache,Camil,M,1,B5,14-AUG-74,manolache.camil@gmail.com,7,FALSE
+453,0,829SQ0,Sfarghiu,Mihai Marius,M,2,A2,22-NOV-74,sfarghiu.mihai@info.ro,6.56,FALSE
+454,0,110JW7,Alexii,Andrei,M,3,A6,23-AUG-74,alexii.andrei@info.ro,6.5,FALSE
+455,0,313JB8,Dobos,Richard Vladimir,M,1,A2,30-JUL-74,dobos.richard@info.ro,7.25,FALSE
+456,0,681SR4,Adascalitei,Marius,M,3,B1,08-JUN-74,adascalitei.marius@info.ro,6.56,FALSE
+457,0,921LR8,Opariuc,Emanuela Paula,F,2,A5,18-DEC-74,opariuc.emanuela@info.ro,6.21,FALSE
+458,0,249PN2,Mihaela,Raluca,F,2,A3,04-AUG-74,mihaela.raluca@info.ro,6.67,FALSE
+459,0,758GU2,Carbune,Andreea Elisa,F,2,B2,22-FEB-74,carbune.andreea@info.ro,5.75,FALSE
+460,0,411GF8,Capusneanu,Ana Daria,F,1,A2,18-AUG-74,capusneanu.ana@gmail.com,5.63,FALSE
+461,0,375NP6,Prodan,Richard Aurelian,M,3,A1,13-OCT-74,prodan.richard@info.ro,7.56,FALSE
+462,0,849CV7,Prisecaru,Eugen Mihail,M,2,A3,30-AUG-74,prisecaru.eugen@info.ro,6.92,FALSE
+463,0,577YT4,Alexe,Alexandra,F,3,B1,24-JAN-74,alexe.alexandra@gmail.com,7.25,FALSE
+464,0,717TS8,Chistol,Sabina,F,2,A6,23-APR-74,chistol.sabina@info.ro,6.58,FALSE
+465,0,679OT4,Ghergu,Claudiu,M,2,B3,15-DEC-74,ghergu.claudiu@info.ro,6.5,FALSE
+466,0,914BA3,Urse,Raluca Malina,F,3,B3,18-JAN-74,urse.raluca@info.ro,6.5,FALSE
+467,0,376SW7,Ionita,Elisa,F,3,B5,18-JAN-74,ionita.elisa@info.ro,7,FALSE
+468,0,189WM3,Cehan,Alexandru Richard,M,2,A2,16-OCT-74,cehan.alexandru@info.ro,7,FALSE
+469,0,549RD7,Marton,Anda Tamara,F,1,B1,16-NOV-74,marton.anda@gmail.com,7.38,FALSE
+470,0,952OV4,Matcovici,Mirela,F,1,B4,16-APR-74,matcovici.mirela@info.ro,6.94,FALSE
+471,0,946GX1,Butacu,Tamara Stefana,F,2,B2,05-MAR-74,butacu.tamara@gmail.com,5.13,FALSE
+472,0,307EP3,Gurau,Beniamin,M,3,B5,30-JUN-74,gurau.beniamin@gmail.com,7.56,FALSE
+473,0,987UT2,Sfarghiu,Monica Claudia,F,1,B1,13-DEC-74,sfarghiu.monica@gmail.com,7.13,FALSE
+474,0,563XL1,Pintilie,Cristina Eleonora,F,2,A5,16-MAR-74,pintilie.cristina@gmail.com,7.88,FALSE
+475,0,596BC8,Crainiceanu,Marius,M,2,B3,24-MAR-74,crainiceanu.marius@info.ro,7.19,FALSE
+476,0,542FN8,Dragoman,Stefan Lucian,M,1,A4,15-OCT-74,dragoman.stefan@gmail.com,6.5,FALSE
+477,0,502PN0,Giurgila,Ileana Simona,F,1,A5,07-JUL-74,giurgila.ileana@info.ro,6.46,FALSE
+478,0,489IU6,Durnea,Eleonora Alina,F,2,B1,22-OCT-74,durnea.eleonora@gmail.com,7.25,FALSE
+479,0,907XT6,Vinatoru,Antonia Emanuela,F,3,A1,15-APR-74,vinatoru.antonia@info.ro,6.5,FALSE
+480,0,542BW5,Damoc,Richard Dumitru,M,1,B4,08-FEB-74,damoc.richard@gmail.com,7,FALSE
+481,0,601SP2,Tudose,Alex Costel,M,2,A5,25-SEP-74,tudose.alex@gmail.com,6.5,FALSE
+482,0,803PG6,Chelmus,Eusebiu,M,1,A2,28-DEC-74,chelmus.eusebiu@gmail.com,5.71,FALSE
+483,0,902RK7,Apostol,Ervin Richard,M,1,B6,21-OCT-74,apostol.ervin@gmail.com,6.42,FALSE
+1,0,867UO1,Ursache,Ion Razvan,M,3,B1,09-MAY-74,ursache.ion@info.ro,7.13,FALSE
+2,0,819XZ0,Andonesei,Ileana Emanuela,F,3,A1,30-NOV-74,andonesei.ileana@gmail.com,6.19,FALSE
+3,0,812XO3,Ionesei,Simona Madalina,F,3,B4,04-JUN-74,ionesei.simona@gmail.com,5.67,FALSE
+4,0,622YK8,Vasiliu,Victor Vadim,M,3,B4,25-JUL-74,vasiliu.victor@info.ro,7.13,FALSE
+5,0,347QG3,Sava,Claudia Irina,F,2,B1,23-MAR-74,sava.claudia@gmail.com,6.75,FALSE
+6,0,702CI8,Tuduri,Vasile Alexandru,M,2,B3,08-SEP-74,tuduri.vasile@info.ro,6.71,FALSE
+7,0,919HR6,Ostafe,Marian Florian,M,2,A1,22-OCT-74,ostafe.marian@info.ro,7,FALSE
+8,0,185NR0,Carbune,Ilona,F,3,A6,14-DEC-74,carbune.ilona@info.ro,7.38,FALSE
+9,0,245YO8,Cebere,Adrian Alin,M,1,A1,19-MAY-74,cebere.adrian@gmail.com,7,FALSE
+10,0,550AJ5,Coseru,Ilie Elvis,M,2,A4,08-JAN-74,coseru.ilie@info.ro,6.75,FALSE
+11,0,299YJ6,Iftimesei,Robert,M,1,B4,01-SEP-74,iftimesei.robert@gmail.com,7.19,FALSE
+12,0,365LZ2,Vrabie,Rolland,M,3,A1,13-SEP-74,vrabie.rolland@gmail.com,6.17,FALSE
+13,0,787GY6,Scortanu,Ioana,F,1,A3,28-MAR-74,scortanu.ioana@gmail.com,6.5,FALSE
+14,0,862VV8,Vasiliu,Delia,F,1,A1,26-DEC-74,vasiliu.delia@gmail.com,6.88,FALSE
+15,0,533HD5,Gavrilovici,Filip,M,1,A3,17-APR-74,gavrilovici.filip@gmail.com,7.88,FALSE
+16,0,378XJ4,Dochitoiu,Vasilica Larisa,F,1,A3,21-AUG-74,dochitoiu.vasilica@info.ro,7,FALSE
+17,0,502XH3,Ciobanu,Ovidiu Ciprian,M,2,A2,03-SEP-74,ciobanu.ovidiu@gmail.com,6.88,FALSE
+18,0,695LT3,Stoleru,Daria,F,3,B5,12-NOV-74,stoleru.daria@info.ro,5.75,FALSE
+19,0,602VC5,Ciucanu,Paula Delia,F,2,B4,08-APR-74,ciucanu.paula@info.ro,7.25,FALSE
+20,0,814AB3,Gitlan,Ionel Roland,M,1,A2,21-NOV-74,gitlan.ionel@gmail.com,6.33,FALSE
+21,0,569TN6,Asofiei,Oana,F,3,A1,15-FEB-74,asofiei.oana@gmail.com,6.88,FALSE
+22,0,744PU8,Moscu,Iosif,M,1,A5,10-OCT-74,moscu.iosif@gmail.com,7.5,FALSE
+23,0,919DX7,Samson,Dan Elvis,M,3,A1,06-SEP-74,samson.dan@gmail.com,6.63,FALSE
+24,0,937BS1,Sfarghiu,Vadim,M,1,A3,15-SEP-74,sfarghiu.vadim@info.ro,8,FALSE
+25,0,142AA7,Lucasi,Vasilica,F,2,B4,18-JUN-74,lucasi.vasilica@info.ro,6.38,FALSE
+26,0,741YV8,Gitlan,Simina Tamara,F,1,B5,01-OCT-74,gitlan.simina@info.ro,7.75,FALSE
+27,0,998SS2,Stolnicu,Claudia Monica,F,2,A6,04-JUL-74,stolnicu.claudia@gmail.com,6.94,FALSE
+28,0,833FC4,Tesu,Camelia Ana,F,2,B3,25-OCT-74,tesu.camelia@info.ro,7.25,FALSE
+29,0,133QF1,Munteanu,Giani Alin,M,1,A4,26-JUN-74,munteanu.giani@info.ro,7.13,FALSE
+30,0,997NA7,Carbune,Elvis Catalin,M,1,B1,04-JUN-74,carbune.elvis@info.ro,6.33,FALSE
+31,0,345XF6,Mitan,Madalina,F,2,A4,19-OCT-74,mitan.madalina@gmail.com,6.33,FALSE
+32,0,686KF7,Morosanu,Tamara,F,2,B3,02-SEP-74,morosanu.tamara@info.ro,6.75,FALSE
+33,0,802XQ6,Tuiu,Larisa,F,2,B1,30-NOV-74,tuiu.larisa@info.ro,6.29,FALSE
+34,0,400RB5,Ilie,Elisa Paula,F,3,A2,12-MAR-74,ilie.elisa@gmail.com,6.81,FALSE
+35,0,252JR3,Sleghel,Ilie Elvis,M,1,A2,08-OCT-74,sleghel.ilie@info.ro,6.71,FALSE
+36,0,880VD6,Lazar,Eusebiu Damian,M,1,B3,10-DEC-74,lazar.eusebiu@gmail.com,7,FALSE
+37,0,330EG5,Burlacu,Ioan,M,1,B3,22-SEP-74,burlacu.ioan@info.ro,6.44,FALSE
+38,0,454BY2,Alexii,Theodora,F,1,A4,15-FEB-74,alexii.theodora@gmail.com,6.69,FALSE
+39,0,225LD0,Dragomir,Emma Tamara,F,1,B4,09-OCT-74,dragomir.emma@info.ro,7.75,FALSE
+40,0,659VW7,Nastaca,Eduard Nicusor,M,2,A5,13-JAN-74,nastaca.eduard@info.ro,6.42,FALSE
+41,0,588ZW7,Leustean,Alin,M,1,A4,18-SEP-74,leustean.alin@gmail.com,6.58,FALSE
+42,0,236SZ2,Perciun,Mihai Richard,M,3,B2,25-MAY-74,perciun.mihai@gmail.com,6.63,FALSE
+43,0,601IT7,Avram,Razvan Elvis,M,2,A3,19-DEC-74,avram.razvan@gmail.com,7.25,FALSE
+44,0,157EU0,Cernescu,Nicusor Codrin,M,3,A3,18-MAR-74,cernescu.nicusor@gmail.com,7,FALSE
+45,0,249CC4,Oprea,Irina,F,1,A6,24-MAR-74,oprea.irina@gmail.com,6.71,FALSE
+46,0,369DE1,Teclici,Vasile,M,3,A2,28-APR-74,teclici.vasile@info.ro,7.5,FALSE
+47,0,587HB7,Andrei,Florian,M,2,B4,21-DEC-74,andrei.florian@gmail.com,5.25,FALSE
+48,0,297OI5,Motroi,Marius Stefan,M,3,A4,04-APR-74,motroi.marius@gmail.com,7.06,FALSE
+49,0,793OG2,Amarghioalei,Diana Loredana,F,1,A3,08-MAR-74,amarghioalei.diana@info.ro,7.13,FALSE
+50,0,573LE5,Marton,Silviu,M,2,B6,27-JAN-74,marton.silviu@gmail.com,6.38,FALSE
+51,0,459SF5,Daneliuc,Andreia Ana,F,3,A1,11-AUG-74,daneliuc.andreia@info.ro,6.29,FALSE
+52,0,263HL1,Buza,Emanuela,F,2,A2,15-MAR-74,buza.emanuela@info.ro,6.75,FALSE
+53,0,628ZX8,Marton,Giani Gheorghe,M,1,B6,26-APR-74,marton.giani@gmail.com,5.75,FALSE
+54,0,863GE4,Florescu,Petruta,F,1,B2,07-OCT-74,florescu.petruta@gmail.com,6.46,FALSE
+55,0,478QL4,Clatinici,Paula Alexandra,F,3,A6,26-JUL-74,clatinici.paula@gmail.com,6.75,FALSE
+56,0,752BY3,Darie,Richard Valeriu,M,2,B3,19-OCT-74,darie.richard@gmail.com,6.42,FALSE
+57,0,253HM6,Tuduri,Codrina Mihaela,F,2,A4,28-MAR-74,tuduri.codrina@gmail.com,7.13,FALSE
+58,0,387ZL6,Bejenaru,Sabin Dimitrie,M,3,B1,21-SEP-74,bejenaru.sabin@gmail.com,7.06,FALSE
+59,0,558BP0,Marinov,Mihail Rares,M,3,B6,15-AUG-74,marinov.mihail@info.ro,7,FALSE
+60,0,902TR2,Unghianu,Ilona,F,3,B5,30-NOV-74,unghianu.ilona@info.ro,6.13,FALSE
+61,0,844ET7,Filibiu,Aurelian Filip,M,1,A4,15-SEP-74,filibiu.aurelian@info.ro,6.38,FALSE
+62,0,289ZY3,Alexii,Marius,M,2,A2,26-JAN-74,alexii.marius@gmail.com,5.96,FALSE
+63,0,446TP3,Giosanu,Ilona Andreea,F,2,A2,29-APR-74,giosanu.ilona@info.ro,7.63,FALSE
+64,0,122HV2,Plugariu,Sebastian Beniamin,M,3,A2,24-JUN-74,plugariu.sebastian@gmail.com,7.44,FALSE
+65,0,930MI0,Martinas,Ecaterina Elisa,F,2,A6,01-NOV-74,martinas.ecaterina@info.ro,6.75,FALSE
+66,0,825MJ2,Micu,Victor Dorin,M,3,A6,31-MAR-74,micu.victor@info.ro,7.38,FALSE
+67,0,797ZK5,Arhip,Irina,F,3,A5,30-APR-74,arhip.irina@gmail.com,7,FALSE
+68,0,890CI7,Lupascu,Ionut Denise,M,2,A3,23-OCT-74,lupascu.ionut@info.ro,6.63,FALSE
+69,0,788RF2,Prodan,Ion Mihail,M,1,A1,12-JAN-74,prodan.ion@info.ro,6.38,FALSE
+70,0,439SN5,Chiriac,Delia,F,3,B3,19-JAN-74,chiriac.delia@gmail.com,6.56,FALSE
+71,0,804MK4,Jecu,Valeriu Claudiu,M,2,B2,15-DEC-74,jecu.valeriu@gmail.com,7.5,FALSE
+72,0,347VX2,Perju,Elisa Andreia,F,1,A2,21-AUG-74,perju.elisa@info.ro,7.44,FALSE
+73,0,766UE3,Cernescu,Theodora Camelia,F,2,B5,28-MAY-74,cernescu.theodora@info.ro,6.63,FALSE
+74,0,304UV8,Joldescu,Sanziana,F,3,B2,16-FEB-74,joldescu.sanziana@gmail.com,6.88,FALSE
+75,0,132AI1,Craciunas,Lucian,M,2,A2,14-SEP-74,craciunas.lucian@info.ro,5.75,FALSE
+76,0,415MT4,Chibici,Elena Bianca,F,2,B1,22-MAY-74,chibici.elena@gmail.com,6.42,FALSE
+77,0,724VP6,Pojar,Simona,F,1,A4,22-JUL-74,pojar.simona@gmail.com,6.5,FALSE
+78,0,640RX4,Vasiliu,Delia Teodora,F,3,B4,23-MAR-74,vasiliu.delia@gmail.com,6.75,FALSE
+79,0,885ZH5,Prisecaru,Adina Loredana,F,1,A6,21-JUN-74,prisecaru.adina@info.ro,7.5,FALSE
+80,0,271VB2,Mihailescu,Marian,M,1,B4,17-AUG-74,mihailescu.marian@info.ro,6.92,FALSE
+81,0,696XD7,Craciunas,Bianca,F,3,A4,22-FEB-74,craciunas.bianca@info.ro,6.81,FALSE
+82,0,589VN2,Iovu,Loredana Anda,F,3,A2,21-APR-74,iovu.loredana@info.ro,6.56,FALSE
+83,0,277QC5,Purice,Madalina Sanziana,F,3,A6,17-DEC-74,purice.madalina@gmail.com,6,FALSE
+84,0,340BM1,Samson,Elisa Theodora,F,1,A3,16-AUG-74,samson.elisa@gmail.com,6.25,FALSE
+85,0,649VW2,Dogaru,George,M,1,A5,24-APR-74,dogaru.george@gmail.com,6.58,FALSE
+86,0,415NP7,Marinov,Sergiu,M,3,A3,26-DEC-74,marinov.sergiu@gmail.com,6.33,FALSE
+87,0,637AV2,Ursu,Andreas Daniel,M,1,B1,22-AUG-74,ursu.andreas@info.ro,7.13,FALSE
+88,0,759YF7,Moniry-abyaneh,Adina,F,1,B5,03-DEC-74,moniry-abyaneh.adina@info.ro,7.38,FALSE
+89,0,855FJ2,Antonie,Alin Dragos,M,3,B3,25-APR-74,antonie.alin@info.ro,6.54,FALSE
+90,0,260TF1,Cehan,Tamara,F,1,A3,28-SEP-74,cehan.tamara@gmail.com,7.63,FALSE
+91,0,150ZU8,Cernescu,Loredana Diana,F,3,B6,11-SEP-74,cernescu.loredana@gmail.com,6.13,FALSE
+92,0,630ZH1,Palihovici,Ileana Oana,F,3,A6,20-FEB-74,palihovici.ileana@gmail.com,6.13,FALSE
+93,0,172MU0,Sitaru,Emma Simina,F,3,A5,14-APR-74,sitaru.emma@info.ro,6.38,FALSE
+94,0,259CU0,Daniel,Ecaterina,F,1,A2,05-NOV-74,daniel.ecaterina@info.ro,7.06,FALSE
+95,0,745XX4,Covatariu,Cristian,M,1,B2,12-JUL-74,covatariu.cristian@gmail.com,7.06,FALSE
+96,0,975DP8,Catana,Oana Gabriela,F,1,B3,14-JUN-74,catana.oana@gmail.com,6.71,FALSE
+97,0,877MR1,Marton,Lucian Dorin,M,1,B2,14-DEC-74,marton.lucian@gmail.com,7.31,FALSE
+98,0,552FT4,Ionesei,Anca Paula,F,2,B5,04-FEB-74,ionesei.anca@gmail.com,5.75,FALSE
+99,0,201CT1,Platon,Nicusor Aurelian,M,2,A5,05-JAN-74,platon.nicusor@gmail.com,6.88,FALSE
+100,0,624XW1,Dodan,Sergiu Alex,M,2,A2,26-NOV-74,dodan.sergiu@info.ro,6.79,FALSE
+101,0,173HQ6,Avram,Claudia Simona,F,2,A3,19-SEP-74,avram.claudia@info.ro,6.42,FALSE
+102,0,568KN8,Ungureanu,Eugen Dragos,M,2,A4,22-JUN-74,ungureanu.eugen@gmail.com,6.75,FALSE
+103,0,414XG5,Mihaela,Adina Emanuela,F,1,B4,04-DEC-74,mihaela.adina@info.ro,6.31,FALSE
+104,0,551UV3,Cazamir,Florian,M,2,A3,01-NOV-74,cazamir.florian@info.ro,7.25,FALSE
+105,0,457VV8,Jecu,Sabin,M,1,A3,23-MAY-74,jecu.sabin@gmail.com,6.42,FALSE
+106,0,146TH7,Marinov,Eleonora Teodora,F,1,B4,24-MAR-74,marinov.eleonora@info.ro,7.19,FALSE
+107,0,131ET6,Glodeanu,Ileana,F,2,B6,07-JUN-74,glodeanu.ileana@info.ro,6.56,FALSE
+108,0,565UP7,Andros,Raluca Sabina,F,2,A3,28-FEB-74,andros.raluca@info.ro,7.17,FALSE
+109,0,453BV1,Postolache,Andreia,F,3,A3,03-JUL-74,postolache.andreia@gmail.com,6.25,FALSE
+110,0,116ZV7,Tuduri,Nicusor Theodor,M,3,A6,29-AUG-74,tuduri.nicusor@info.ro,8,FALSE
+111,0,633GA8,Vrabie,Damian Victor,M,2,A1,22-DEC-74,vrabie.damian@info.ro,7.31,FALSE
+112,0,309DL5,Filimon,Andrei Theodor,M,1,A5,12-SEP-74,filimon.andrei@info.ro,5.88,FALSE
+113,0,187SZ6,Bodnar,Darius Emil,M,1,B6,15-SEP-74,bodnar.darius@gmail.com,6.5,FALSE
+114,0,287CO0,Dragan,Beniamin Ionel,M,1,B1,16-APR-74,dragan.beniamin@gmail.com,5.75,FALSE
+115,0,127SS1,Burlacu,Octavian Iosif,M,2,B6,24-MAR-74,burlacu.octavian@info.ro,7.13,FALSE
+116,0,449RU3,Mihalachi,Theodor Fabian,M,1,B2,29-MAR-74,mihalachi.theodor@gmail.com,6.81,FALSE
+117,0,563BR3,Postolache,Ioana Petruta,F,2,A5,03-FEB-74,postolache.ioana@info.ro,7.13,FALSE
+118,0,253LL0,Andrei,Ilie Valeriu,M,2,A4,28-NOV-74,andrei.ilie@info.ro,6.5,FALSE
+119,0,394JQ8,Giosanu,Sabina Manuela,F,1,B6,30-APR-74,giosanu.sabina@gmail.com,7.38,FALSE
+120,0,459JU6,Toncu,Ionel Samuel,M,2,A3,02-SEP-74,toncu.ionel@gmail.com,7,FALSE
+121,0,507CI6,Damian,Antonia Cristina,F,2,A5,13-AUG-74,damian.antonia@info.ro,7.38,FALSE
+122,0,474AF6,Iordache-tiroiu,Antonia Larisa,F,2,B4,28-OCT-74,iordache-tiroiu.antonia@gmail.com,6.67,FALSE
+123,0,111KU5,Minghel,Beniamin Aurelian,M,1,A6,03-APR-74,minghel.beniamin@info.ro,7.06,FALSE
+124,0,459WE8,Ciornei,Constantin Sabin,M,1,B3,05-JUL-74,ciornei.constantin@info.ro,7.13,FALSE
+125,0,785SV3,Maftei,Alexandru Roland,M,2,B5,22-OCT-74,maftei.alexandru@gmail.com,6.21,FALSE
+126,0,949BC0,Botezatu,Anda Simina,F,1,B3,15-NOV-74,botezatu.anda@info.ro,6.25,FALSE
+127,0,920TY0,Spiridon,Ionut,M,1,B3,22-DEC-74,spiridon.ionut@info.ro,6.63,FALSE
+128,0,145HW5,Stingaciu,Gheorghe,M,3,B3,21-MAR-74,stingaciu.gheorghe@gmail.com,7,FALSE
+129,0,431RX6,Platon,Roland Vadim,M,2,A6,07-OCT-74,platon.roland@gmail.com,6.44,FALSE
+130,0,590NS6,Romanescu,Camil Gheorghe,M,2,B4,28-FEB-74,romanescu.camil@gmail.com,5.88,FALSE
+131,0,910TO7,Damoc,Ionel Stefan,M,2,A2,24-JUN-74,damoc.ionel@info.ro,6.38,FALSE
+132,0,642YZ8,Damian,Paula Mihaela,F,1,A2,10-NOV-74,damian.paula@gmail.com,6.21,FALSE
+133,0,364XG2,Ghibirdic,George Denise,M,1,A3,19-NOV-74,ghibirdic.george@gmail.com,6.54,FALSE
+134,0,116EX1,Cernescu,Samuel Ioan,M,3,A6,22-MAR-74,cernescu.samuel@info.ro,6.63,FALSE
+135,0,875NI6,Ciofu,Iolanda,F,3,A4,20-JAN-74,ciofu.iolanda@gmail.com,6.75,FALSE
+136,0,728IN6,Banu,Raluca,F,2,A3,28-JAN-74,banu.raluca@info.ro,6.88,FALSE
+137,0,351FW1,Chelaru,Gabriela Simina,F,1,A2,21-AUG-74,chelaru.gabriela@gmail.com,6.83,FALSE
+138,0,143PD6,Chelmu,Alina,F,2,B4,20-AUG-74,chelmu.alina@info.ro,6.13,FALSE
+139,0,922UJ8,Irimia,Giulio,M,2,A2,04-APR-74,irimia.giulio@gmail.com,6.81,FALSE
+140,0,500XF3,Jitca,Robert Gheorghe,M,3,B1,05-FEB-74,jitca.robert@gmail.com,7.5,FALSE
+141,0,266DA2,Patras,Octavian Florian,M,2,B3,22-APR-74,patras.octavian@info.ro,7.75,FALSE
+142,0,435ND8,Moscu,George,M,2,A2,05-JAN-74,moscu.george@gmail.com,6.63,FALSE
+143,0,338HG3,Bazgan,Bogdan Petru,M,1,A1,19-JAN-74,bazgan.bogdan@info.ro,7.25,FALSE
+144,0,810EQ3,Macoveschi,Theodor Dimitrie,M,2,A1,14-AUG-74,macoveschi.theodor@gmail.com,7,FALSE
+145,0,703HE5,Carbune,Sabina Maria,F,1,B6,25-AUG-74,carbune.sabina@info.ro,5.96,FALSE
+146,0,395AU5,Boca,Alexandra,F,2,B5,09-DEC-74,boca.alexandra@gmail.com,7.25,FALSE
+147,0,821UF2,Harabula,Codrina,F,2,B5,29-AUG-74,harabula.codrina@info.ro,6.69,FALSE
+148,0,402QK7,Cozma,Filip George,M,2,B4,20-AUG-74,cozma.filip@info.ro,7.25,FALSE
+149,0,554JL0,Popescu,Valentin Dorian,M,2,B5,08-SEP-74,popescu.valentin@info.ro,7,FALSE
+150,0,742LY2,Matrana,Elisa Paula,F,1,A2,10-AUG-74,matrana.elisa@gmail.com,6.63,FALSE
+151,0,326GF0,Ghergu,Sabin,M,2,B3,16-SEP-74,ghergu.sabin@gmail.com,6.54,FALSE
+152,0,312FP8,Chmilevski,Codrina Elena,F,1,B1,13-OCT-74,chmilevski.codrina@info.ro,6.56,FALSE
+153,0,841XC2,Acasandrei,Octavian,M,3,B6,04-JUN-74,acasandrei.octavian@info.ro,6.75,FALSE
+154,0,981VW3,Catiru,Iosif Eugen,M,2,A3,15-JUN-74,catiru.iosif@gmail.com,7.38,FALSE
+155,0,110VP3,Ventaniuc,Georgiana Emanuela,F,2,A1,03-MAR-74,ventaniuc.georgiana@info.ro,7.31,FALSE
+156,0,413AA5,Voaides,Petru,M,1,B2,22-MAY-74,voaides.petru@info.ro,7.25,FALSE
+157,0,887ZA1,Sparhat,Manuela,F,2,A4,20-MAY-74,sparhat.manuela@info.ro,7,FALSE
+158,0,756YM6,Sandu,Beniamin Darius,M,1,B5,20-SEP-74,sandu.beniamin@gmail.com,6.92,FALSE
+159,0,168CD6,Netedu,Larisa Andreia,F,1,A5,22-JUL-74,netedu.larisa@info.ro,7.25,FALSE
+160,0,741UO7,Mitan,Dorin,M,2,B6,06-SEP-74,mitan.dorin@info.ro,7,FALSE
+161,0,487SR4,Cosnita,Iaroslav,M,1,B1,24-JUN-74,cosnita.iaroslav@info.ro,7.13,FALSE
+162,0,665MH2,Hociung,Ervin Vladut,M,1,A3,28-JUL-74,hociung.ervin@gmail.com,7.06,FALSE
+163,0,243EY1,Procop,Raluca,F,1,B6,02-JAN-74,procop.raluca@gmail.com,6.29,FALSE
+164,0,352OX8,Nica,Andreia Codrina,F,3,B6,26-APR-74,nica.andreia@gmail.com,6.17,FALSE
+165,0,934FY3,Lazar,Alexandra Ecaterina,F,1,B4,02-MAY-74,lazar.alexandra@gmail.com,6.29,FALSE
+166,0,855SC4,Vulpescu,Irina Emanuela,F,1,B6,25-JAN-74,vulpescu.irina@gmail.com,6.04,FALSE
+167,0,495UO8,Ionesei,Florin,M,3,B6,02-JUN-74,ionesei.florin@info.ro,5.63,FALSE
+168,0,147UQ3,Mataca,Aurelian Ionel,M,3,B2,04-FEB-74,mataca.aurelian@info.ro,8,FALSE
+169,0,390AZ7,Cazamir,Nicolae Samuel,M,1,B1,14-FEB-74,cazamir.nicolae@info.ro,6.31,FALSE
+170,0,226ZN6,Pila,Malina Iolanda,F,3,A2,06-MAR-74,pila.malina@info.ro,7.69,FALSE
+171,0,392HS3,Vidru,Daniel,M,3,B2,19-JAN-74,vidru.daniel@info.ro,6.56,FALSE
+172,0,273JX5,Varvaroi,Valentin Beniamin,M,1,B6,26-JUN-74,varvaroi.valentin@info.ro,6.5,FALSE
+173,0,438JV7,Alexe,Vadim,M,1,B2,26-AUG-74,alexe.vadim@info.ro,6.88,FALSE
+174,0,679MA0,Miron,Andrei,M,1,A5,30-JUL-74,miron.andrei@gmail.com,6.5,FALSE
+175,0,793SM8,Trifan,Mihaela,F,2,A1,23-JAN-74,trifan.mihaela@info.ro,6.88,FALSE
+176,0,655QL4,Schifirnet,Sanziana,F,3,A2,01-MAY-74,schifirnet.sanziana@gmail.com,7.56,FALSE
+177,0,470YR1,Hodoreanu,Bianca,F,2,B2,23-SEP-74,hodoreanu.bianca@info.ro,7,FALSE
+178,0,159LW0,Minghel,Ana,F,2,B5,21-JAN-74,minghel.ana@gmail.com,6.33,FALSE
+179,0,889MB6,Clim,Petruta,F,1,A1,31-JUL-74,clim.petruta@gmail.com,6.94,FALSE
+180,0,341EF4,Costan,Laurentiu Marius,M,1,B6,31-AUG-74,costan.laurentiu@info.ro,6.08,FALSE
+181,0,179OU5,Chelaru,Valeriu,M,3,B1,12-OCT-74,chelaru.valeriu@info.ro,7.5,FALSE
+182,0,112EG3,Stefanita,Petruta Camelia,F,3,A5,04-MAY-74,stefanita.petruta@info.ro,6.08,FALSE
+183,0,897DJ3,Balica,Laura,F,1,A3,10-AUG-74,balica.laura@gmail.com,6.75,FALSE
+184,0,272WQ8,Tesu,Ecaterina Delia,F,1,B1,28-JUN-74,tesu.ecaterina@gmail.com,6.13,FALSE
+185,0,669YD1,Mihalcea,Alin,M,1,B2,02-NOV-74,mihalcea.alin@info.ro,7.38,FALSE
+186,0,542YT8,Botezatu,Diana Monica,F,2,A2,05-OCT-74,botezatu.diana@gmail.com,7.44,FALSE
+187,0,918CP6,Bazgan,Alex Florian,M,1,B6,17-JUL-74,bazgan.alex@gmail.com,7.13,FALSE
+188,0,983PQ2,Anita,Petru,M,1,A5,24-NOV-74,anita.petru@info.ro,6.63,FALSE
+189,0,159CI4,Asofiei,Stefania Andreia,F,2,A1,11-APR-74,asofiei.stefania@info.ro,7.25,FALSE
+190,0,917EH3,Marcu,Rares,M,3,A6,23-AUG-74,marcu.rares@gmail.com,8.13,FALSE
+191,0,405AQ7,Larion,Manuela Loredana,F,2,B3,28-JUN-74,larion.manuela@gmail.com,6.38,FALSE
+192,0,796SK1,Lupascu,Larisa,F,3,B3,13-DEC-74,lupascu.larisa@gmail.com,6.75,FALSE
+193,0,807JH8,Burloiu,Ioan Cezar,M,2,A4,03-JUN-74,burloiu.ioan@gmail.com,6.31,FALSE
+194,0,232QN0,Varlan,Iaroslav,M,1,B6,07-MAY-74,varlan.iaroslav@gmail.com,6.42,FALSE
+195,0,248CT8,Calancea,Eleonora,F,1,A2,16-APR-74,calancea.eleonora@info.ro,6.04,FALSE
+196,0,538KL1,Munteanu,Manuela Vasilica,F,2,A3,19-AUG-74,munteanu.manuela@gmail.com,6.75,FALSE
+197,0,534HN8,Piriu,Camelia,F,3,B5,18-OCT-74,piriu.camelia@gmail.com,7.5,FALSE
+198,0,419NV7,Marton,Codrina Theodora,F,2,B3,18-OCT-74,marton.codrina@gmail.com,6.19,FALSE
+199,0,173SK7,Crucerescu,Cristian,M,3,B6,28-FEB-74,crucerescu.cristian@gmail.com,6.42,FALSE
+200,0,676TQ4,Tirpescu,Matei Ervin,M,3,A1,10-AUG-74,tirpescu.matei@info.ro,6.33,FALSE
+201,0,647WX1,Vicol,Ervin Claudiu,M,1,A5,02-JUN-74,vicol.ervin@info.ro,7.44,FALSE
+202,0,102BO3,Marinov,Raluca,F,3,A1,02-OCT-74,marinov.raluca@gmail.com,5.88,FALSE
+203,0,715OI0,Motrescu,Vladut Constantin,M,2,A3,05-JUL-74,motrescu.vladut@info.ro,7.56,FALSE
+204,0,224BR1,Crainiceanu,Ana Daniela,F,1,B5,15-MAY-74,crainiceanu.ana@info.ro,7,FALSE
+205,0,547LS6,Arhire,Iustin Cristian,M,3,A4,26-OCT-74,arhire.iustin@gmail.com,6.5,FALSE
+206,0,633GH3,Sandu,Stefania Ileana,F,2,B4,15-AUG-74,sandu.stefania@gmail.com,6.29,FALSE
+207,0,594ZW1,Jitca,Samuel,M,2,B3,17-JUL-74,jitca.samuel@gmail.com,6.46,FALSE
+208,0,204KS5,Ivascu,Alex Aurelian,M,1,B2,07-JAN-74,ivascu.alex@gmail.com,5.83,FALSE
+209,0,688DG6,Stoica,Dragos Iulian,M,2,A3,19-FEB-74,stoica.dragos@info.ro,6.13,FALSE
+210,0,254SG3,Popovici,Claudiu,M,1,B2,26-AUG-74,popovici.claudiu@info.ro,7.5,FALSE
+211,0,127UU7,Sleghel,Ion Camil,M,1,A3,21-AUG-74,sleghel.ion@info.ro,6.75,FALSE
+212,0,423WG3,Cazamir,Paula Manuela,F,3,B4,08-FEB-74,cazamir.paula@gmail.com,6.75,FALSE
+213,0,679IX4,Nicu,Ilona Anda,F,2,B3,05-JAN-74,nicu.ilona@info.ro,7.38,FALSE
+214,0,655JR8,Macariu,Sabina Raluca,F,3,B4,30-MAY-74,macariu.sabina@gmail.com,6.38,FALSE
+215,0,998QO3,Iacobuta,Ervin,M,3,A1,11-MAY-74,iacobuta.ervin@gmail.com,6.81,FALSE
+216,0,272YU1,Harabula,Cosmin Petru,M,2,B1,21-FEB-74,harabula.cosmin@gmail.com,6.79,FALSE
+217,0,156UR3,Miron,Gabriela Vasilica,F,3,A2,03-DEC-74,miron.gabriela@info.ro,7.25,FALSE
+218,0,802GQ1,Leustean,Iuliana Anda,F,2,A5,04-MAY-74,leustean.iuliana@info.ro,6.75,FALSE
+219,0,446FG0,Antonie,Teodora,F,2,A6,01-SEP-74,antonie.teodora@gmail.com,6.88,FALSE
+220,0,446WL6,Calinescu,Stefana,F,1,A3,24-MAY-74,calinescu.stefana@gmail.com,6.25,FALSE
+221,0,110OD1,Talif,Victor,M,3,A4,16-JUN-74,talif.victor@gmail.com,7.25,FALSE
+222,0,815EH6,Tanasa,Andreea Anca,F,2,A3,06-FEB-74,tanasa.andreea@gmail.com,6.79,FALSE
+223,0,288YX7,Poenariu,Anda,F,1,A4,12-APR-74,poenariu.anda@gmail.com,7.69,FALSE
+224,0,561HL6,Luca,Silviu Stefan,M,1,B1,29-SEP-74,luca.silviu@info.ro,6.21,FALSE
+225,0,929TK3,Cazacu,Daniela,F,3,A4,25-JUN-74,cazacu.daniela@info.ro,7.13,FALSE
+226,0,634ZS4,Urse,Andreas Mihai,M,3,B4,05-JUN-74,urse.andreas@info.ro,6.83,FALSE
+227,0,231MD6,Benchea,Daniela Anca,F,2,B6,26-JUL-74,benchea.daniela@info.ro,6.58,FALSE
+228,0,987SL4,Bizu,Camelia,F,2,A2,28-JUN-74,bizu.camelia@gmail.com,6.63,FALSE
+229,0,801TE5,Irimia,Ionut Matei,M,1,B2,17-JAN-74,irimia.ionut@gmail.com,6.94,FALSE
+230,0,641YW0,Bilan,Radu,M,2,A3,23-JAN-74,bilan.radu@info.ro,6.69,FALSE
+231,0,778FT3,Adascalitei,Dan Corneliu,M,2,B3,18-NOV-74,adascalitei.dan@gmail.com,6.63,FALSE
+232,0,932ML2,Bejenaru,Florian,M,2,A4,03-JAN-74,bejenaru.florian@info.ro,7.19,FALSE
+233,0,870UI7,Curca,Laura,F,3,B5,27-APR-74,curca.laura@info.ro,6.63,FALSE
+234,0,770KL4,Milut,Emanuela,F,3,B3,14-APR-74,milut.emanuela@info.ro,6.25,FALSE
+235,0,485IN1,Matcovici,Valentin,M,3,B1,05-DEC-74,matcovici.valentin@gmail.com,6.88,FALSE
+236,0,466NL3,Belciuganu,Manuela Xena,F,1,B1,19-DEC-74,belciuganu.manuela@gmail.com,6.25,FALSE
+237,0,211NV6,Eusebiu,Petrut Sabin,M,2,B4,23-FEB-74,eusebiu.petrut@info.ro,6.38,FALSE
+238,0,614HU0,Tanasa,Vlad Ionel,M,3,B5,24-MAY-74,tanasa.vlad@info.ro,6.25,FALSE
+239,0,298XU2,Strimtu,Irina Mirela,F,2,A2,26-APR-74,strimtu.irina@gmail.com,7.81,FALSE
+240,0,632RT4,Glodeanu,Dumitru Mihail,M,1,A3,21-OCT-74,glodeanu.dumitru@info.ro,6.42,FALSE
+241,0,159TB3,Covatariu,Roland,M,1,A3,30-JAN-74,covatariu.roland@info.ro,6.25,FALSE
+242,0,982QA1,Durnea,Xena Daniela,F,1,A3,08-AUG-74,durnea.xena@gmail.com,6.94,FALSE
+243,0,198GH3,Patriche,Ioana Ana,F,2,B1,09-MAY-74,patriche.ioana@gmail.com,6.94,FALSE
+244,0,787KN7,Iancu,Xena Georgiana,F,3,B6,21-DEC-74,iancu.xena@gmail.com,6.5,FALSE
+245,0,713NZ3,Grama,Codrina Theodora,F,1,B5,23-AUG-74,grama.codrina@gmail.com,7.75,FALSE
+246,0,336JD1,Bizu,Antonia,F,2,B3,20-JUL-74,bizu.antonia@gmail.com,7.56,FALSE
+247,0,773GI6,Netedu,Liviu,M,3,B5,12-JUL-74,netedu.liviu@gmail.com,6.33,FALSE
+248,0,727OI3,Piriu,Stefan Sebastian,M,2,B6,01-AUG-74,piriu.stefan@gmail.com,6.17,FALSE
+249,0,690UF8,Teclici,Constantin Samuel,M,1,B6,22-MAR-74,teclici.constantin@gmail.com,6.88,FALSE
+250,0,929DX7,Musca,Monica Ana,F,3,A5,16-NOV-74,musca.monica@gmail.com,6.13,FALSE
+251,0,366MI6,Vicol,Vasilica Stefania,F,2,B3,29-OCT-74,vicol.vasilica@gmail.com,6.38,FALSE
+252,0,254WO4,Vidru,Emanuela,F,1,B6,07-MAY-74,vidru.emanuela@gmail.com,6.88,FALSE
+253,0,468HM4,Arvinte,Fabian Valeriu,M,1,A6,03-DEC-74,arvinte.fabian@gmail.com,6.25,FALSE
+254,0,980WJ3,Durnea,Andreia,F,3,A6,05-OCT-74,durnea.andreia@info.ro,6,FALSE
+255,0,894XE2,Leleu,Catalin Claudiu,M,3,A2,22-MAY-74,leleu.catalin@info.ro,6.88,FALSE
+256,0,654YS6,Cojocaru,Manuela Laura,F,3,B6,21-NOV-74,cojocaru.manuela@info.ro,5.88,FALSE
+257,0,422WD0,Danila,Alex Mihail,M,2,A1,09-SEP-74,danila.alex@gmail.com,5.38,FALSE
+258,0,530MX4,Maganu,Iulia Andra,F,2,A4,16-MAY-74,maganu.iulia@gmail.com,6.81,FALSE
+259,0,276QG4,Motroi,Vasilica,F,3,B4,08-JAN-74,motroi.vasilica@gmail.com,6.5,FALSE
+260,0,531IS7,Toma,Sergiu,M,1,B1,12-AUG-74,toma.sergiu@info.ro,7.31,FALSE
+261,0,978JA8,Lupascu,Ervin,M,3,A5,12-DEC-74,lupascu.ervin@info.ro,6.96,FALSE
+262,0,984ZI0,Lupu,Emanuela,F,3,B1,29-MAR-74,lupu.emanuela@info.ro,6.88,FALSE
+263,0,585EB0,Cehan,Stefan Petrut,M,3,B4,23-SEP-74,cehan.stefan@gmail.com,6.56,FALSE
+264,0,109NY5,Teclici,Camelia,F,2,A3,20-MAR-74,teclici.camelia@gmail.com,6.67,FALSE
+265,0,707DP5,Chmilevski,Paul Vlad,M,1,A6,17-SEP-74,chmilevski.paul@gmail.com,7.75,FALSE
+266,0,115JE3,Chitic,Camelia,F,3,A3,08-NOV-74,chitic.camelia@info.ro,7.69,FALSE
+267,0,723CW5,Coseru,Mirela,F,2,A3,11-FEB-74,coseru.mirela@info.ro,7.19,FALSE
+268,0,502CX3,Lazar,Paula,F,2,B6,07-DEC-74,lazar.paula@gmail.com,7.13,FALSE
+269,0,683KO5,Gavrilovici,Eduard,M,3,A4,26-JAN-74,gavrilovici.eduard@info.ro,6.83,FALSE
+270,0,825WT1,Suhani,Antonia Georgiana,F,3,A4,30-JUN-74,suhani.antonia@info.ro,6.25,FALSE
+271,0,356FM2,Jitca,Georgiana,F,1,B2,02-FEB-74,jitca.georgiana@info.ro,7.13,FALSE
+272,0,197WQ6,Samson,Octavian Marian,M,2,A1,01-MAR-74,samson.octavian@gmail.com,6.69,FALSE
+273,0,371VI5,Cosnita,Samuel Bogdan,M,1,A2,04-OCT-74,cosnita.samuel@gmail.com,6.46,FALSE
+274,0,706TK1,Dascalu,Irinel Samuel,M,1,A3,13-OCT-74,dascalu.irinel@gmail.com,6.96,FALSE
+275,0,468ND3,Netedu,Ema Andreea,F,1,B6,18-DEC-74,netedu.ema@gmail.com,6.42,FALSE
+276,0,523US5,Frumosu,Denisa Cristina,F,2,B6,31-AUG-74,frumosu.denisa@gmail.com,7.44,FALSE
+277,0,362PW7,Domnaru,Romanescu Vlad,M,3,A4,11-SEP-74,domnaru.romanescu@gmail.com,7.25,FALSE
+278,0,534WJ4,Stavarache,Larisa Emma,F,2,A1,09-MAY-74,stavarache.larisa@info.ro,7.38,FALSE
+279,0,107DL7,Patachi,Nicolae Damian,M,1,A4,17-AUG-74,patachi.nicolae@gmail.com,7.63,FALSE
+280,0,209MC0,Popovici,Sergiu,M,3,B5,14-MAY-74,popovici.sergiu@info.ro,6.25,FALSE
+281,0,522ON1,Chelaru,Mihaela,F,1,B2,11-APR-74,chelaru.mihaela@gmail.com,6.08,FALSE
+282,0,254FW3,Maganu,Vladut,M,3,B5,03-FEB-74,maganu.vladut@gmail.com,6.58,FALSE
+283,0,989CK1,Jecu,Paula,F,1,B4,26-MAR-74,jecu.paula@gmail.com,7.38,FALSE
+284,0,928BG8,Anita,Alex,M,1,B4,31-DEC-74,anita.alex@info.ro,6.33,FALSE
+285,0,292HR2,Arhire,Vadim Nicu,M,3,B4,05-MAR-74,arhire.vadim@gmail.com,7.17,FALSE
+286,0,615IE5,Iancu,Cosmin,M,2,A4,27-DEC-74,iancu.cosmin@info.ro,6.75,FALSE
+287,0,362RX5,Harpa,Bianca Iulia,F,3,A4,05-DEC-74,harpa.bianca@gmail.com,7.06,FALSE
+288,0,199GE5,Lucasi,Andreea Alina,F,2,A4,14-FEB-74,lucasi.andreea@gmail.com,6.88,FALSE
+289,0,780SW2,Corduneanu,Eleonora Vasilica,F,1,B3,17-APR-74,corduneanu.eleonora@gmail.com,6.25,FALSE
+290,0,304EV1,Moisa,Sabin Lucian,M,2,B3,28-APR-74,moisa.sabin@gmail.com,6.42,FALSE
+291,0,439JH6,Ionesi,Alexandru,M,2,B6,05-AUG-74,ionesi.alexandru@info.ro,7.75,FALSE
+292,0,839UY8,Mazilu,Teodor Fabian,M,2,B1,23-SEP-74,mazilu.teodor@gmail.com,6.94,FALSE
+293,0,666VX5,Andrici,Paula Diana,F,1,A3,01-MAR-74,andrici.paula@gmail.com,6.67,FALSE
+294,0,196EO2,Barzu,Radu,M,1,B5,11-SEP-74,barzu.radu@info.ro,7.44,FALSE
+295,0,745OK4,Romanescu,Ilona,F,2,B2,21-FEB-74,romanescu.ilona@gmail.com,6.5,FALSE
+296,0,733FX2,Tifrea,Rares Nicusor,M,3,A1,16-JUN-74,tifrea.rares@info.ro,7.25,FALSE
+297,0,306CI4,Chicos,Dumitru,M,2,B5,09-APR-74,chicos.dumitru@gmail.com,6.58,FALSE
+298,0,300LI5,Frunza,Gabriela,F,3,B5,29-JAN-74,frunza.gabriela@gmail.com,5.88,FALSE
+299,0,748KI4,Ichim,Alexandru Sabin,M,3,B3,12-AUG-74,ichim.alexandru@info.ro,7.5,FALSE
+300,0,254HY7,Platon,Vladut,M,2,A1,25-AUG-74,platon.vladut@info.ro,6.38,FALSE
+301,0,192KJ5,Minea,Catalin Laurentiu,M,2,A4,12-JUN-74,minea.catalin@info.ro,7.13,FALSE
+302,0,297VV0,Stefan,Theodora Iuliana,F,1,B6,21-OCT-74,stefan.theodora@gmail.com,6,FALSE
+303,0,936OV8,Mihociu,Stefana Iuliana,F,1,A6,17-AUG-74,mihociu.stefana@gmail.com,6.13,FALSE
+304,0,667JV4,Netedu,Andreia,F,3,B3,26-SEP-74,netedu.andreia@gmail.com,6.44,FALSE
+305,0,689OL2,Crucerescu,Ema Ileana,F,2,A3,11-MAR-74,crucerescu.ema@gmail.com,6.5,FALSE
+306,0,803MN5,Fedeles,Vladimir,M,3,B6,14-JUL-74,fedeles.vladimir@gmail.com,6.58,FALSE
+307,0,458MD0,Burloiu,Teodor,M,2,A2,19-JUL-74,burloiu.teodor@gmail.com,7.13,FALSE
+308,0,824EK2,Schifirnet,Eugen Giulio,M,3,B4,12-OCT-74,schifirnet.eugen@info.ro,6.21,FALSE
+309,0,861WH2,Romanescu,Dumitru,M,1,B5,18-OCT-74,romanescu.dumitru@info.ro,7,FALSE
+310,0,724SM8,Tesu,Daniela Xena,F,2,A5,09-SEP-74,tesu.daniela@info.ro,6.71,FALSE
+311,0,124CM7,Anita,Sabina,F,2,A4,30-NOV-74,anita.sabina@gmail.com,7.25,FALSE
+312,0,381AG5,Bazgan,Ion Sebastian,M,1,B1,17-JUL-74,bazgan.ion@gmail.com,7,FALSE
+313,0,759JH3,Tirpescu,Corneliu Octavian,M,2,A5,11-AUG-74,tirpescu.corneliu@gmail.com,7.81,FALSE
+314,0,832ST5,Manole,Tudor,M,2,B4,27-JUL-74,manole.tudor@gmail.com,6.38,FALSE
+315,0,820BF5,Gitlan,Loredana,F,2,A2,20-DEC-74,gitlan.loredana@info.ro,7.5,FALSE
+316,0,187MG1,Antochi,Darius Claudiu,M,2,A5,15-SEP-74,antochi.darius@gmail.com,6.75,FALSE
+317,0,807WX7,Savescu,Roland Adrian,M,3,A5,02-OCT-74,savescu.roland@info.ro,7.44,FALSE
+318,0,165QT7,Patras,Marian,M,2,B4,12-JAN-74,patras.marian@info.ro,7.75,FALSE
+319,0,406CT8,Bejan,Vadim Giani,M,3,B6,18-APR-74,bejan.vadim@gmail.com,6.69,FALSE
+320,0,790WM1,Chitic,Mirela,F,2,B3,31-MAR-74,chitic.mirela@gmail.com,6.13,FALSE
+321,0,210IN7,Ursu,Radu Ciprian,M,2,A4,13-JAN-74,ursu.radu@gmail.com,7.44,FALSE
+322,0,447CX1,Morosanu,Sergiu Elvis,M,1,A4,27-OCT-74,morosanu.sergiu@info.ro,6.71,FALSE
+323,0,508ES7,Maganu,Paul,M,3,B4,24-MAY-74,maganu.paul@info.ro,7.06,FALSE
+324,0,242TL1,Botezatu,Gheorghe,M,2,A1,15-DEC-74,botezatu.gheorghe@gmail.com,7.5,FALSE
+325,0,416ZC6,Onu,Danut,M,1,A5,01-AUG-74,onu.danut@info.ro,6.56,FALSE
+326,0,171UP2,Cimpoesu,Emma Larisa,F,3,A6,10-NOV-74,cimpoesu.emma@info.ro,7.75,FALSE
+327,0,699WF4,Sava,Lucian Andreas,M,2,A1,05-MAY-74,sava.lucian@gmail.com,7.13,FALSE
+328,0,458FE4,Adascalitei,Nicolae Liviu,M,2,A1,20-MAY-74,adascalitei.nicolae@info.ro,7,FALSE
+329,0,838JG7,Calinescu,Vasile Elvis,M,1,B4,25-SEP-74,calinescu.vasile@info.ro,8.13,FALSE
+330,0,486IC0,Ghibirdic,Laurentiu Theodor,M,2,A2,17-MAR-74,ghibirdic.laurentiu@info.ro,7,FALSE
+331,0,582VM5,Ionesei,Alexandra,F,1,A5,11-JAN-74,ionesei.alexandra@info.ro,6.25,FALSE
+332,0,792NM4,Tuiu,Vasile Ciprian,M,3,B2,14-JAN-74,tuiu.vasile@gmail.com,6.88,FALSE
+333,0,733CH1,Leuciuc,Dimitrie,M,1,B1,07-FEB-74,leuciuc.dimitrie@gmail.com,9.25,FALSE
+334,0,973CG6,Frumosu,Mirela Vasilica,F,1,A4,12-SEP-74,frumosu.mirela@info.ro,7.25,FALSE
+335,0,177MH2,Varteniuc,Diana,F,1,A2,18-AUG-74,varteniuc.diana@gmail.com,6.38,FALSE
+336,0,292JH1,Toader,Damian Sabin,M,3,A5,25-AUG-74,toader.damian@gmail.com,6.63,FALSE
+337,0,873JQ5,Moisa,Victor Ionut,M,1,B1,07-AUG-74,moisa.victor@gmail.com,7.69,FALSE
+338,0,526BF0,Buza,Ema Bianca,F,1,B5,21-FEB-74,buza.ema@gmail.com,6.17,FALSE
+339,0,418AU4,Unghianu,Alin Petrut,M,1,A6,24-OCT-74,unghianu.alin@info.ro,6.75,FALSE
+340,0,602NW1,Grigoriu,Claudiu Emil,M,3,A4,01-OCT-74,grigoriu.claudiu@gmail.com,6.13,FALSE
+341,0,415IP8,Oana,Dorin,M,2,A4,16-APR-74,oana.dorin@info.ro,7.25,FALSE
+342,0,647BA4,Morarescu,Darius Sergiu,M,3,B5,15-JAN-74,morarescu.darius@gmail.com,6.44,FALSE
+343,0,313IK4,Olarasu,Petruta,F,1,A5,15-DEC-74,olarasu.petruta@info.ro,7.5,FALSE
+344,0,733EU0,Belciuganu,Radu,M,1,A1,24-MAY-74,belciuganu.radu@info.ro,6.33,FALSE
+345,0,359WS1,Damian,Gabriela Stefania,F,3,B6,08-JAN-74,damian.gabriela@gmail.com,7,FALSE
+346,0,436MV3,Burloiu,Costel,M,3,B6,10-OCT-74,burloiu.costel@info.ro,6.13,FALSE
+347,0,128RV4,Agape,Teodor,M,1,A3,24-FEB-74,agape.teodor@info.ro,6.17,FALSE
+348,0,751KL2,Minea,Iosif Elvis,M,1,A1,16-MAY-74,minea.iosif@gmail.com,6.38,FALSE
+349,0,593ZY7,Timofte,George Alexandru,M,1,A5,03-SEP-74,timofte.george@info.ro,6.25,FALSE
+350,0,766OW2,Bazgan,Paula Stefana,F,3,A6,08-NOV-74,bazgan.paula@gmail.com,8.5,FALSE
+351,0,618XX0,Butacu,Petrut Vladimir,M,2,B3,20-NOV-74,butacu.petrut@info.ro,6.94,FALSE
+352,0,412UW2,Leonte,Iustin,M,2,B6,18-DEC-74,leonte.iustin@gmail.com,6.46,FALSE
+353,0,709JM5,Simiganoschi,Iolanda,F,3,B5,24-MAR-74,simiganoschi.iolanda@gmail.com,6.31,FALSE
+354,0,108GS6,Hodoreanu,Eleonora,F,2,B3,20-APR-74,hodoreanu.eleonora@gmail.com,7.17,FALSE
+355,0,670AS3,Patachi,Alexandru Matei,M,1,A2,11-FEB-74,patachi.alexandru@gmail.com,6.88,FALSE
+356,0,659ZO6,Gitlan,Xena Larisa,F,3,A4,13-APR-74,gitlan.xena@gmail.com,7.69,FALSE
+357,0,872KD8,Timofte,Codrina Laura,F,2,B4,14-FEB-74,timofte.codrina@info.ro,6.21,FALSE
+358,0,679ZR7,Catonoiu,Vlad Petrut,M,3,B1,17-JUL-74,catonoiu.vlad@gmail.com,7,FALSE
+359,0,971BS2,Tirpescu,Sabin,M,1,B1,04-MAR-74,tirpescu.sabin@gmail.com,6.75,FALSE
+360,0,558HX8,Martinas,Claudia,F,1,B5,07-APR-74,martinas.claudia@gmail.com,6.81,FALSE
+361,0,709NP7,Daneliuc,Anca,F,1,A3,14-APR-74,daneliuc.anca@gmail.com,7.88,FALSE
+362,0,323QY4,Talif,Romanescu Andreas,M,2,A5,30-NOV-74,talif.romanescu@gmail.com,6.08,FALSE
+363,0,842SC7,Andrici,Ana,F,1,B3,28-AUG-74,andrici.ana@info.ro,7,FALSE
+364,0,496ZZ1,Rusu,Ilona Monica,F,2,B3,24-APR-74,rusu.ilona@info.ro,7.75,FALSE
+365,0,237IR3,Sitaru,Vlad Theodor,M,1,A3,28-SEP-74,sitaru.vlad@gmail.com,7.69,FALSE
+366,0,318FO8,Bursuc,Andra Theodora,F,2,B1,15-MAR-74,bursuc.andra@gmail.com,7.63,FALSE
+367,0,424PA3,Palihovici,Mihail Razvan,M,1,B2,31-DEC-74,palihovici.mihail@info.ro,5.88,FALSE
+368,0,860QC7,Nemtoc,Gabriela Delia,F,3,A1,03-OCT-74,nemtoc.gabriela@gmail.com,7.13,FALSE
+369,0,776VT5,Andronic,Adina Simina,F,2,A2,21-FEB-74,andronic.adina@gmail.com,6.83,FALSE
+370,0,922BH0,Tincu,Emil Nicolae,M,2,B5,04-MAY-74,tincu.emil@gmail.com,6.17,FALSE
+371,0,297QV6,Timofte,Iuliana,F,1,B5,26-APR-74,timofte.iuliana@info.ro,6.38,FALSE
+372,0,253ZJ0,Puiu,Iolanda,F,2,B1,02-SEP-74,puiu.iolanda@gmail.com,6.83,FALSE
+373,0,216NM8,Stan,Rolland,M,3,A2,28-MAR-74,stan.rolland@gmail.com,7.56,FALSE
+374,0,683YU6,Tabusca,Eduard,M,1,A4,28-JAN-74,tabusca.eduard@gmail.com,6.69,FALSE
+375,0,352YC7,Marinov,Marian Ilie,M,3,B2,17-APR-74,marinov.marian@gmail.com,6.25,FALSE
+376,0,303RT4,Larion,Dan,M,1,A1,08-OCT-74,larion.dan@info.ro,5.96,FALSE
+377,0,701NC2,Lupu,Xena Iuliana,F,1,B3,04-MAY-74,lupu.xena@info.ro,6.56,FALSE
+378,0,261VG7,Pojar,Madalina Teodora,F,3,B4,24-NOV-74,pojar.madalina@gmail.com,6.71,FALSE
+379,0,959XI3,Asaftei,Costel Roland,M,2,B5,02-DEC-74,asaftei.costel@gmail.com,6.63,FALSE
+380,0,624FG0,Catonoiu,Claudia Anda,F,2,A5,24-MAR-74,catonoiu.claudia@gmail.com,6,FALSE
+381,0,492LL5,Suhani,Liviu,M,2,A1,16-AUG-74,suhani.liviu@gmail.com,6.42,FALSE
+382,0,723DW1,Goldan,Malina,F,1,B6,30-APR-74,goldan.malina@info.ro,6.5,FALSE
+383,0,661ED3,Carp,Tudor,M,3,B4,21-JUN-74,carp.tudor@info.ro,7.13,FALSE
+384,0,470MR0,Anita,Dorian,M,2,A2,28-JUN-74,anita.dorian@gmail.com,7.56,FALSE
+385,0,267UO6,Cimpoesu,Daniel Iustin,M,3,A4,25-MAY-74,cimpoesu.daniel@gmail.com,6.58,FALSE
+386,0,370JL8,Dochitei,Ilona,F,3,B6,06-JUL-74,dochitei.ilona@gmail.com,6.38,FALSE
+387,0,848VD0,Strainu,Mihaela Larisa,F,2,B6,30-DEC-74,strainu.mihaela@gmail.com,5.88,FALSE
+484,0,552JD3,Tanasa,Ilona,F,3,A5,29-NOV-74,tanasa.ilona@gmail.com,7.25,FALSE
+485,0,403OE1,Agafitei,Gabriel Matei,M,1,A4,10-DEC-74,agafitei.gabriel@info.ro,6,FALSE
+486,0,798UC1,Procop,Ioana Bianca,F,3,B6,28-DEC-74,procop.ioana@gmail.com,7.13,FALSE
+487,0,257AZ1,Netedu,Denisa Malina,F,1,A1,02-AUG-74,netedu.denisa@gmail.com,6.46,FALSE
+488,0,558CZ5,Budaca,Teodor Alex,M,3,B2,05-JUN-74,budaca.teodor@gmail.com,6.29,FALSE
+489,0,770KY4,Tofan,Dragos,M,3,B6,21-MAR-74,tofan.dragos@gmail.com,7.75,FALSE
+490,0,925PE8,Rachieru,Paula,F,3,B5,18-MAY-74,rachieru.paula@info.ro,6.75,FALSE
+491,0,448TO4,Iordan,Sebastian,M,2,A2,12-MAR-74,iordan.sebastian@gmail.com,6.21,FALSE
+492,0,617FI5,Stavarache,Dan Fabian,M,1,B3,07-MAR-74,stavarache.dan@gmail.com,7.56,FALSE
+493,0,521JY7,Gherca,Theodor Eduard,M,3,A2,08-FEB-74,gherca.theodor@gmail.com,6.21,FALSE
+494,0,465UR2,Huma,Claudia Elena,F,3,B2,20-DEC-74,huma.claudia@info.ro,6.5,FALSE
+495,0,804GD0,Bute,Emma Raluca,F,3,A3,11-FEB-74,bute.emma@info.ro,7.88,FALSE
+496,0,509NZ8,Gavrilita,Mihail Ion,M,3,B5,30-NOV-74,gavrilita.mihail@gmail.com,7.31,FALSE
+497,0,727WV2,Antochi,Daniela Ecaterina,F,1,A2,25-OCT-74,antochi.daniela@gmail.com,6.88,FALSE
+498,0,179SC8,Balan,Georgiana Stefania,F,2,B2,17-MAY-74,balan.georgiana@gmail.com,6.88,FALSE
+499,0,325FI8,Chitic,Claudia Denisa,F,3,B1,17-MAR-74,chitic.claudia@gmail.com,7.25,FALSE
+500,0,130VG0,Mihociu,Corneliu George,M,2,B6,11-JUL-74,mihociu.corneliu@gmail.com,5.63,FALSE
+501,0,417MX1,Alexii,Andreia Emma,F,1,A6,07-OCT-74,alexii.andreia@info.ro,6.71,FALSE
+502,0,458FA5,Burlacu,Mirela Andreea,F,2,B6,23-SEP-74,burlacu.mirela@info.ro,5.88,FALSE
+503,0,293JI0,Onu,Emma Anda,F,1,B4,04-MAY-74,onu.emma@info.ro,7.81,FALSE
+504,0,383QO0,Vicol,Petrut,M,2,B1,16-APR-74,vicol.petrut@info.ro,7.13,FALSE
+505,0,156WC5,Catiru,Iuliana Claudia,F,2,A3,30-DEC-74,catiru.iuliana@info.ro,8,FALSE
+506,0,781LJ1,Popovici,Damian Aurelian,M,3,B1,05-DEC-74,popovici.damian@info.ro,7.13,FALSE
+507,0,983CU3,Dudau,Dan,M,1,A4,05-OCT-74,dudau.dan@gmail.com,6.94,FALSE
+508,0,900AQ1,Galatanu,Dragos,M,3,B5,14-APR-74,galatanu.dragos@info.ro,6.81,FALSE
+509,0,397FU1,Chmilevski,Sergiu Constantin,M,3,A6,23-SEP-74,chmilevski.sergiu@info.ro,6.46,FALSE
+510,0,920CY1,Iordache,Paul Catalin,M,2,A6,25-MAY-74,iordache.paul@gmail.com,6.5,FALSE
+511,0,744KV4,Mitan,Alina Ana,F,1,A6,03-AUG-74,mitan.alina@info.ro,6,FALSE
+512,0,749QN2,Gherase,Fabian Teodor,M,3,B1,27-AUG-74,gherase.fabian@gmail.com,8.25,FALSE
+513,0,846PO5,Matcovici,Robert Dan,M,1,B1,16-APR-74,matcovici.robert@info.ro,7.69,FALSE
+514,0,622QC8,Gorgan,Giani Ionut,M,2,A5,28-OCT-74,gorgan.giani@gmail.com,6.25,FALSE
+515,0,457SU1,Calancea,Mihaela Denisa,F,1,A2,16-JUN-74,calancea.mihaela@gmail.com,6.92,FALSE
+516,0,254RK6,Dimache,Ana Manuela,F,2,A2,14-MAY-74,dimache.ana@info.ro,6.58,FALSE
+517,0,254NH0,Vidru,Laurentiu Dorian,M,3,B6,12-JAN-74,vidru.laurentiu@info.ro,6.38,FALSE
+518,0,633YV2,Urse,Constantin Vladimir,M,3,B1,05-NOV-74,urse.constantin@info.ro,6,FALSE
+519,0,839KA6,Cobuz,Iosif Petrut,M,2,A4,08-APR-74,cobuz.iosif@gmail.com,7.38,FALSE
+520,0,831MF0,Minuti,Tamara Elena,F,3,A5,17-MAR-74,minuti.tamara@info.ro,6.25,FALSE
+521,0,817CB5,Poenariu,Marian,M,2,A5,10-NOV-74,poenariu.marian@info.ro,6.75,FALSE
+522,0,769HA3,Huzum,Sergiu Teofil,M,2,B3,12-JAN-74,huzum.sergiu@gmail.com,7.13,FALSE
+523,0,840MI5,Prisecaru,Andrei Laurentiu,M,1,A4,25-OCT-74,prisecaru.andrei@info.ro,7.06,FALSE
+524,0,124YN8,Grigore,Ovidiu Rares,M,1,B3,25-JUN-74,grigore.ovidiu@info.ro,8,FALSE
+525,0,272VB1,Iordache-tiroiu,Dorian,M,2,B1,03-APR-74,iordache-tiroiu.dorian@gmail.com,6.71,FALSE
+526,0,126LO4,Giosanu,Nicu Alin,M,2,B2,18-JUN-74,giosanu.nicu@info.ro,7.13,FALSE
+527,0,177WE7,Moniry-abyaneh,Codrin Valentin,M,3,A2,07-APR-74,moniry-abyaneh.codrin@gmail.com,6.92,FALSE
+528,0,873MI0,Chelmus,Daniela Malina,F,2,B5,25-DEC-74,chelmus.daniela@gmail.com,6.54,FALSE
+529,0,144DJ4,Bordeianu,Alexandra Diana,F,1,A5,19-OCT-74,bordeianu.alexandra@info.ro,6.71,FALSE
+530,0,111BZ6,Iacob,Vadim Rolland,M,3,A6,05-JUN-74,iacob.vadim@info.ro,7.38,FALSE
+531,0,639GX5,Cebere,Nicu Teodor,M,3,A4,07-DEC-74,cebere.nicu@gmail.com,6.79,FALSE
+532,0,750OZ7,Ursache,Valeriu,M,1,B6,21-DEC-74,ursache.valeriu@info.ro,6.75,FALSE
+533,0,454CS2,Dobos,Andreea Stefania,F,2,B4,29-JUL-74,dobos.andreea@info.ro,7.06,FALSE
+534,0,825PZ4,Larion,Ovidiu Tudor,M,1,A2,11-MAY-74,larion.ovidiu@info.ro,7.75,FALSE
+535,0,179LQ5,Razvan,Vasilica Adina,F,3,A5,10-JAN-74,razvan.vasilica@info.ro,6.63,FALSE
+536,0,732ST8,Musca,Stefania Iuliana,F,1,A3,16-SEP-74,musca.stefania@info.ro,6.13,FALSE
+537,0,102RH1,Varlan,Vasile Cristian,M,2,A2,06-JUN-74,varlan.vasile@gmail.com,6.04,FALSE
+538,0,198WN1,Daniel,Anda,F,2,B4,20-APR-74,daniel.anda@info.ro,6.21,FALSE
+539,0,725UE2,Stoleru,Iolanda,F,3,A2,26-JAN-74,stoleru.iolanda@gmail.com,6.71,FALSE
+540,0,138OE1,Tofan,Adina Ana,F,3,B5,15-AUG-74,tofan.adina@info.ro,6.25,FALSE
+541,0,176ZH5,Sleghel,Paul Radu,M,2,A4,31-JUL-74,sleghel.paul@info.ro,7.31,FALSE
+542,0,327RZ4,Lungu,Ionut Claudiu,M,1,B6,18-MAR-74,lungu.ionut@gmail.com,7,FALSE
+543,0,508KD3,Eduard,Paul Alin,M,1,A1,12-JUN-74,eduard.paul@gmail.com,6.13,FALSE
+544,0,186ZH5,Platon,Vasilica Monica,F,1,B3,01-JAN-74,platon.vasilica@gmail.com,7.04,FALSE
+545,0,531ZU6,Marcu,Tamara Denisa,F,1,B2,30-AUG-74,marcu.tamara@gmail.com,8,FALSE
+546,0,878AG4,Corciu,Anca,F,1,B4,15-JUN-74,corciu.anca@info.ro,7.31,FALSE
+547,0,578MF6,Varvaroi,Delia Elena,F,3,B2,20-SEP-74,varvaroi.delia@gmail.com,7.56,FALSE
+548,0,296QG8,Ciucanu,Nicu,M,3,B4,28-MAR-74,ciucanu.nicu@info.ro,6.13,FALSE
+549,0,406CE2,Sandulache,Damian,M,3,A5,14-FEB-74,sandulache.damian@info.ro,7.33,FALSE
+550,0,363HH6,Bulai,Daniela Oana,F,3,B3,24-SEP-74,bulai.daniela@gmail.com,7.5,FALSE
+551,0,713PL7,Hostiuc,Vasilica Teodora,F,2,A1,02-MAY-74,hostiuc.vasilica@info.ro,6.81,FALSE
+552,0,983UR4,Riza,Petrut Corneliu,M,2,B3,21-FEB-74,riza.petrut@info.ro,7.13,FALSE
+553,0,495MI5,Milut,Iaroslav,M,2,B5,23-MAR-74,milut.iaroslav@gmail.com,6.31,FALSE
+554,0,167IP3,Braescu,Anca,F,3,A6,29-JUN-74,braescu.anca@gmail.com,6.81,FALSE
+555,0,258LY6,Ferestraoaru,Adina,F,2,A2,06-JUN-74,ferestraoaru.adina@info.ro,6.88,FALSE
+556,0,576MW6,Gurau,Radu Marius,M,1,A5,06-AUG-74,gurau.radu@gmail.com,6.33,FALSE
+557,0,247XS1,Piriu,Laurentiu,M,1,B3,17-NOV-74,piriu.laurentiu@gmail.com,6.5,FALSE
+558,0,244LV3,Paparuz,Ionel Ciprian,M,1,A5,28-SEP-74,paparuz.ionel@gmail.com,6.58,FALSE
+559,0,165MJ1,Mazilu,Raluca,F,3,B3,10-DEC-74,mazilu.raluca@info.ro,6.46,FALSE
+560,0,853VL7,Chelaru,Danut,M,3,A2,21-JUL-74,chelaru.danut@gmail.com,7.25,FALSE
+561,0,478XF4,Iosub,Vlad Fabian,M,2,A6,17-JUN-74,iosub.vlad@gmail.com,6.04,FALSE
+562,0,650NO5,Dobos,Xena,F,2,B1,25-MAR-74,dobos.xena@info.ro,6.63,FALSE
+563,0,990NX1,Stefan,Aurelian,M,2,B6,09-JUN-74,stefan.aurelian@gmail.com,6.63,FALSE
+564,0,994XU1,Tudose,Gabriela Paula,F,1,B6,29-SEP-74,tudose.gabriela@gmail.com,6.5,FALSE
+565,0,983TJ2,Pojar,Iulia Elena,F,3,B6,10-FEB-74,pojar.iulia@info.ro,5.92,FALSE
+566,0,206LA6,Huma,Catalin Cosmin,M,3,B6,12-NOV-74,huma.catalin@info.ro,8,FALSE
+567,0,334FE6,Lungeanu,Danut Victor,M,1,B2,27-JUL-74,lungeanu.danut@gmail.com,7.75,FALSE
+568,0,970FI6,Stefan,Simona Andreia,F,3,B6,30-MAR-74,stefan.simona@gmail.com,6.5,FALSE
+569,0,890FS2,Oprea,Alina,F,3,B4,04-DEC-74,oprea.alina@info.ro,7.94,FALSE
+570,0,863YC1,Cimpoesu,Daria Loredana,F,2,A3,06-MAY-74,cimpoesu.daria@gmail.com,7.13,FALSE
+571,0,204YH3,Toma,Paula,F,2,B4,06-JAN-74,toma.paula@info.ro,6.44,FALSE
+572,0,717MJ3,Grosu,Alexandru,M,1,B3,16-MAR-74,grosu.alexandru@gmail.com,6.75,FALSE
+573,0,330LX8,Milut,Rares Ioan,M,2,B2,17-JUL-74,milut.rares@info.ro,6.71,FALSE
+574,0,174TZ6,Leleu,Sergiu,M,3,A1,20-APR-74,leleu.sergiu@info.ro,6.46,FALSE
+575,0,378UY8,Dochitei,Valentin Claudiu,M,2,A4,30-JUL-74,dochitei.valentin@gmail.com,6.83,FALSE
+576,0,486MJ1,Lucaci,Stefana,F,3,A5,01-SEP-74,lucaci.stefana@info.ro,9.38,FALSE
+577,0,969NY4,Arhire,Ilie,M,3,A4,01-OCT-74,arhire.ilie@gmail.com,7.63,FALSE
+578,0,878OR5,Dragomir,Adina,F,1,A1,30-DEC-74,dragomir.adina@info.ro,6.46,FALSE
+579,0,822NT4,Vulpescu,Rares Fabian,M,3,A1,09-AUG-74,vulpescu.rares@gmail.com,7.38,FALSE
+580,0,462QK2,Prodan,Nicusor Cristian,M,2,A1,29-JUL-74,prodan.nicusor@info.ro,6.67,FALSE
+581,0,456KX4,Onu,Robert Danut,M,3,A4,05-AUG-74,onu.robert@gmail.com,7.25,FALSE
+582,0,471JK0,Dima,Ecaterina,F,2,B5,06-DEC-74,dima.ecaterina@info.ro,7,FALSE
+583,0,511XM8,Chirila,Denisa Adina,F,2,B2,01-AUG-74,chirila.denisa@info.ro,6.5,FALSE
+584,0,830XY1,Zamosteanu,Romanescu Nicusor,M,3,B5,30-APR-74,zamosteanu.romanescu@info.ro,6.29,FALSE
+585,0,576ZC2,Benchea,Corneliu Cezar,M,3,A4,05-MAY-74,benchea.corneliu@gmail.com,7.31,FALSE
+586,0,651UW6,Fedeles,Simona Adina,F,3,A6,14-OCT-74,fedeles.simona@info.ro,6.33,FALSE
+587,0,824OC2,Mazur,Samuel Beniamin,M,3,A2,25-FEB-74,mazur.samuel@gmail.com,7.5,FALSE
+588,0,686UF5,Dima,Madalina,F,1,B1,28-JUL-74,dima.madalina@gmail.com,6.75,FALSE
+589,0,141HX4,Sandu,Vlad Romanescu,M,3,B1,04-DEC-74,sandu.vlad@info.ro,6.88,FALSE
+590,0,877RH8,Barbieru,Theodora,F,2,B3,28-MAR-74,barbieru.theodora@info.ro,7.13,FALSE
+591,0,810JA0,Bivol,Petruta Daria,F,3,A1,11-MAR-74,bivol.petruta@info.ro,6.29,FALSE
+592,0,737AW7,Giosanu,Gabriel,M,1,A3,22-OCT-74,giosanu.gabriel@info.ro,7.17,FALSE
+593,0,939SY7,Alexandru,Delia Teodora,F,3,A1,12-FEB-74,alexandru.delia@info.ro,6.79,FALSE
+594,0,250AC7,Benchea,Emanuela Anda,F,2,B2,06-MAY-74,benchea.emanuela@info.ro,7.5,FALSE
+595,0,560SX6,Florescu,Ecaterina,F,1,B4,09-MAR-74,florescu.ecaterina@info.ro,8.13,FALSE
+596,0,891PV7,Negrutu,Alexandru Petrut,M,3,B6,25-AUG-74,negrutu.alexandru@info.ro,6.42,FALSE
+597,0,250PE0,Insuratelu,Elisa Antonia,F,2,A6,24-AUG-74,insuratelu.elisa@info.ro,6.58,FALSE
+598,0,183HE3,Olariu,Sanziana Antonia,F,1,A2,06-AUG-74,olariu.sanziana@gmail.com,7,FALSE
+599,0,827HJ7,Chistol,Codrin,M,1,A6,27-FEB-74,chistol.codrin@info.ro,7,FALSE
+600,0,144PY8,Marton,Theodor,M,3,A4,13-AUG-74,marton.theodor@info.ro,6.54,FALSE
+601,0,805WB0,Silitra,Adina,F,3,B3,10-DEC-74,silitra.adina@gmail.com,6.56,FALSE
+602,0,326JF4,Mihaela,Ovidiu,M,1,A2,12-NOV-74,mihaela.ovidiu@gmail.com,6.56,FALSE
+603,0,157UR1,Maganu,Monica,F,2,A3,11-JUL-74,maganu.monica@info.ro,6.13,FALSE
+604,0,319XV7,Craciunas,Sanziana Larisa,F,1,B4,15-MAY-74,craciunas.sanziana@info.ro,7.38,FALSE
+605,0,525LQ5,Chile,Bianca,F,2,A2,11-JUN-74,chile.bianca@gmail.com,6.08,FALSE
+606,0,607SR2,Miron,Elisa Monica,F,3,A2,13-JAN-74,miron.elisa@info.ro,6.81,FALSE
+607,0,829SD4,Vrabie,Eleonora Daria,F,3,A1,22-OCT-74,vrabie.eleonora@info.ro,5.67,FALSE
+608,0,851XC2,Balan,Cristina,F,2,A2,06-NOV-74,balan.cristina@info.ro,7.13,FALSE
+609,0,463VH5,Belciuganu,Ovidiu Sabin,M,3,A5,17-MAY-74,belciuganu.ovidiu@gmail.com,7.88,FALSE
+610,0,850CB1,Coca,Constantin Iaroslav,M,3,A3,04-APR-74,coca.constantin@info.ro,5.83,FALSE
+611,0,802OM0,Danila,Razvan Daniel,M,1,B6,07-FEB-74,danila.razvan@info.ro,6.83,FALSE
+612,0,199BX5,Budaca,Giani,M,1,A1,03-SEP-74,budaca.giani@gmail.com,6.42,FALSE
+613,0,605CW2,Calancea,Elena,F,2,B1,21-OCT-74,calancea.elena@info.ro,6.63,FALSE
+614,0,402TI7,Apetrei,Alexandra Emma,F,3,B5,06-JAN-74,apetrei.alexandra@gmail.com,6.67,FALSE
+615,0,788PI8,Strimtu,Dan,M,1,B3,31-MAY-74,strimtu.dan@info.ro,7.63,FALSE
+616,0,476MF8,Anita,Andreea Madalina,F,1,A1,20-APR-74,anita.andreea@info.ro,6.63,FALSE
+617,0,395TB1,Alexandrescu,Ioan Iaroslav,M,3,A6,23-NOV-74,alexandrescu.ioan@info.ro,6.63,FALSE
+618,0,483GV2,Anghelina,Giani Vlad,M,2,A5,15-OCT-74,anghelina.giani@gmail.com,6.19,FALSE
+619,0,842VF4,Olarasu,Dorin,M,3,B3,02-JUN-74,olarasu.dorin@gmail.com,6.94,FALSE
+620,0,501KD1,Jitariuc,Gabriela,F,2,A2,10-DEC-74,jitariuc.gabriela@gmail.com,6.83,FALSE
+621,0,734ID2,Hutanu,Florian,M,3,B6,01-OCT-74,hutanu.florian@info.ro,7,FALSE
+622,0,504RE1,Glodeanu,Delia Stefania,F,3,A3,29-MAY-74,glodeanu.delia@info.ro,7.13,FALSE
+623,0,434SM4,Catonoiu,Claudiu Dan,M,2,A5,25-FEB-74,catonoiu.claudiu@gmail.com,7,FALSE
+624,0,419SK1,Crainiceanu,Ioan Giulio,M,2,A5,14-JAN-74,crainiceanu.ioan@gmail.com,6.38,FALSE
+625,0,135FR2,Huzum,Romanescu Filip,M,2,B5,05-JUN-74,huzum.romanescu@info.ro,7.31,FALSE
+626,0,754KV7,Vicol,Nicolae Ervin,M,3,A6,29-APR-74,vicol.nicolae@info.ro,6.13,FALSE
+627,0,846NV6,Catana,Elena Sanziana,F,3,B2,30-JUL-74,catana.elena@info.ro,7.5,FALSE
+628,0,250NL1,Mataca,Andreea,F,2,A6,02-FEB-74,mataca.andreea@gmail.com,6.88,FALSE
+629,0,288XS2,Varvaroi,Dimitrie,M,2,B5,20-NOV-74,varvaroi.dimitrie@gmail.com,6,FALSE
+630,0,775AN6,Irimia,Cristian,M,3,B2,01-FEB-74,irimia.cristian@info.ro,6.75,FALSE
+631,0,463LL2,Cehan,Maria Theodora,F,1,A1,25-JAN-74,cehan.maria@info.ro,6.17,FALSE
+632,0,197PH5,Cazacu,Ema Elisa,F,1,B3,10-DEC-74,cazacu.ema@info.ro,6.58,FALSE
+633,0,140CI2,Popovici,Codrina Theodora,F,1,B2,23-OCT-74,popovici.codrina@info.ro,6.04,FALSE
+634,0,907JV3,Dochitoiu,Ioana Antonia,F,1,A3,03-MAY-74,dochitoiu.ioana@gmail.com,7.75,FALSE
+635,0,173XK8,Chile,Ionut,M,2,B4,03-MAR-74,chile.ionut@gmail.com,7.75,FALSE
+636,0,366WT1,Ungureanu,Andra Daniela,F,3,A4,20-MAY-74,ungureanu.andra@gmail.com,6.17,FALSE
+637,0,383SJ2,Leleu,Sebastian,M,3,A5,25-JAN-74,leleu.sebastian@gmail.com,8.63,FALSE
+638,0,451IC3,Predoaia,Denise,M,1,B1,18-JUN-74,predoaia.denise@gmail.com,6.5,FALSE
+639,0,942WK1,Toncu,Emil Cezar,M,1,A6,14-MAY-74,toncu.emil@gmail.com,6.5,FALSE
+640,0,496JM5,Leustean,Camelia Theodora,F,3,B6,12-SEP-74,leustean.camelia@info.ro,6.94,FALSE
+641,0,288WY7,Teclici,Alina Anca,F,3,A3,19-OCT-74,teclici.alina@info.ro,6.17,FALSE
+642,0,453MD8,Mazur,Filip,M,3,B4,19-SEP-74,mazur.filip@gmail.com,7.25,FALSE
+643,0,449EB2,Oprea,Octavian Darius,M,1,B1,05-JUL-74,oprea.octavian@gmail.com,6.38,FALSE
+644,0,734JC7,Chelaru,Ciprian,M,3,B6,26-MAY-74,chelaru.ciprian@info.ro,6.17,FALSE
+645,0,419VT7,Frunza,Radu Ion,M,1,B2,20-DEC-74,frunza.radu@gmail.com,6.81,FALSE
+646,0,645HS7,Grozavu,Ciprian,M,1,A4,16-NOV-74,grozavu.ciprian@info.ro,6.81,FALSE
+647,0,796LM2,Curca,Mihail,M,3,A5,22-JUL-74,curca.mihail@info.ro,7.38,FALSE
+648,0,721MX0,Bilan,Richard,M,3,A1,31-JAN-74,bilan.richard@gmail.com,6.29,FALSE
+649,0,380YY4,Andrei,Diana Ilona,F,2,A6,23-MAY-74,andrei.diana@gmail.com,8.25,FALSE
+650,0,316GB7,Mangalagiu,Iolanda Iuliana,F,3,A1,07-MAY-74,mangalagiu.iolanda@info.ro,6.13,FALSE
+651,0,444ZH4,Stoleru,Loredana Iulia,F,2,B1,20-OCT-74,stoleru.loredana@gmail.com,6,FALSE
+652,0,504HO1,Capusneanu,Ecaterina Madalina,F,3,B2,04-MAR-74,capusneanu.ecaterina@gmail.com,7,FALSE
+653,0,756IV5,Ababei,Giani Bogdan,M,3,A2,21-APR-74,ababei.giani@info.ro,7.44,FALSE
+654,0,388MY8,Grama,Andreia Andreea,F,3,B2,29-NOV-74,grama.andreia@info.ro,7.25,FALSE
+655,0,985XB5,Simionescu,Andreea Theodora,F,3,A1,04-MAY-74,simionescu.andreea@info.ro,6.08,FALSE
+656,0,331MV1,Corodescu,Victor Dorin,M,2,B4,22-NOV-74,corodescu.victor@gmail.com,7.25,FALSE
+657,0,562EP3,Cretu,Sabina,F,2,A4,17-AUG-74,cretu.sabina@info.ro,6.88,FALSE
+658,0,849OH6,Tincu,Nicolae Silviu,M,3,A6,23-SEP-74,tincu.nicolae@gmail.com,7,FALSE
+659,0,193PR8,Bilan,Cristina,F,3,B6,04-JUL-74,bilan.cristina@info.ro,6.21,FALSE
+660,0,986MI1,Amarghioalei,Irina Paula,F,3,B3,17-JUL-74,amarghioalei.irina@info.ro,6.75,FALSE
+661,0,923RU2,Tincu,Oana,F,3,B3,30-MAY-74,tincu.oana@info.ro,6.94,FALSE
+662,0,495VG0,Ionesi,Paul Dorian,M,2,B1,11-FEB-74,ionesi.paul@gmail.com,6.25,FALSE
+663,0,639XF2,Predoaia,Valentin Ovidiu,M,3,B2,21-AUG-74,predoaia.valentin@info.ro,6.25,FALSE
+664,0,849NU6,Vasilache,Teofil Ciprian,M,2,A6,01-JAN-74,vasilache.teofil@gmail.com,6.38,FALSE
+665,0,149OQ8,Herdes,Codrina Elisa,F,2,A6,29-NOV-74,herdes.codrina@gmail.com,7.06,FALSE
+666,0,656MQ8,Hostiuc,Adina Ileana,F,2,A2,18-OCT-74,hostiuc.adina@info.ro,6.25,FALSE
+667,0,765BZ2,Zamosteanu,Marian Cosmin,M,2,A2,02-JUN-74,zamosteanu.marian@gmail.com,6.46,FALSE
+668,0,407OS5,Teclici,Vladut,M,1,B2,07-JAN-74,teclici.vladut@gmail.com,7.44,FALSE
+669,0,494TJ8,Morosanu,Dumitru,M,2,A4,17-MAY-74,morosanu.dumitru@info.ro,7.06,FALSE
+670,0,114NE4,Vinatoru,Iuliana Teodora,F,1,A4,30-JUL-74,vinatoru.iuliana@gmail.com,6.88,FALSE
+671,0,134SQ6,Vicol,Iulian Laurentiu,M,1,A1,15-JAN-74,vicol.iulian@gmail.com,6.92,FALSE
+672,0,331IX1,Soficu,Beniamin,M,3,B4,26-JUN-74,soficu.beniamin@gmail.com,6,FALSE
+673,0,268RZ0,Macoveschi,Aurelian,M,1,A4,29-JUL-74,macoveschi.aurelian@gmail.com,8.13,FALSE
+674,0,122XG4,Florescu,Mirela Iulia,F,2,B4,17-JUL-74,florescu.mirela@info.ro,7.19,FALSE
+675,0,250FH0,Ciofu,Elena,F,2,A5,22-OCT-74,ciofu.elena@info.ro,7.13,FALSE
+676,0,367QW6,Maganu,Dragos Vadim,M,3,B3,11-AUG-74,maganu.dragos@gmail.com,6.88,FALSE
+677,0,995UV7,Romanescu,Dimitrie Ervin,M,2,B4,11-APR-74,romanescu.dimitrie@gmail.com,7.38,FALSE
+678,0,126XT3,Martinas,Xena Petruta,F,2,B2,02-JUL-74,martinas.xena@gmail.com,6.46,FALSE
+679,0,345UM5,Mihailescu,Claudia,F,2,B3,14-JUN-74,mihailescu.claudia@info.ro,6.42,FALSE
+680,0,252MO3,Larion,Eleonora Monica,F,3,A6,22-FEB-74,larion.eleonora@info.ro,6.46,FALSE
+681,0,543UI6,Dochitoiu,Sabina,F,3,A3,20-AUG-74,dochitoiu.sabina@info.ro,6.13,FALSE
+682,0,484JG0,Melniciuc-puica,Vasilica Petruta,F,3,B2,16-NOV-74,melniciuc-puica.vasilica@info.ro,7.46,FALSE
+683,0,982QT3,Botezatu,Gheorghe Ion,M,2,A5,17-FEB-74,botezatu.gheorghe@info.ro,6.46,FALSE
+684,0,336UK6,Baciu,Emil Nicusor,M,1,B1,26-MAY-74,baciu.emil@gmail.com,6.63,FALSE
+685,0,979MG4,Oana,Maria Delia,F,3,B2,07-MAY-74,oana.maria@info.ro,6.38,FALSE
+686,0,556HO2,Ciornei,Alexandra Ana,F,2,A6,10-AUG-74,ciornei.alexandra@info.ro,7.5,FALSE
+687,0,774TR3,Dorneanu,Codrina,F,2,A5,04-APR-74,dorneanu.codrina@info.ro,8.25,FALSE
+688,0,207NK8,Sandu,Monica Maria,F,2,A4,05-OCT-74,sandu.monica@gmail.com,6.5,FALSE
+689,0,510YI0,Tuiu,Marian Ovidiu,M,3,B3,06-AUG-74,tuiu.marian@gmail.com,7.25,FALSE
+690,0,381ZA0,Buza,Larisa Alexandra,F,3,B4,05-AUG-74,buza.larisa@gmail.com,7,FALSE
+691,0,176FM5,Stingaciu,Ion Adrian,M,3,B4,28-JUN-74,stingaciu.ion@info.ro,5.96,FALSE
+692,0,592YN6,Lupascu,Ionut,M,1,B5,27-JUL-74,lupascu.ionut@info.ro,6.79,FALSE
+693,0,704MA0,Stiufliuc,Andreas,M,1,B6,26-FEB-74,stiufliuc.andreas@info.ro,6.81,FALSE
+694,0,688EV0,Amarghioalei,Ovidiu Ionut,M,1,A4,21-MAR-74,amarghioalei.ovidiu@info.ro,7.75,FALSE
+695,0,767IQ4,Olariu,Denisa Loredana,F,3,B4,22-OCT-74,olariu.denisa@info.ro,6.83,FALSE
+696,0,412LJ3,Damoc,Andreas,M,3,A6,06-NOV-74,damoc.andreas@gmail.com,7.88,FALSE
+697,0,175QO6,Damoc,Andra,F,1,B1,14-DEC-74,damoc.andra@gmail.com,6.94,FALSE
+698,0,715XT5,Hutanu,Raluca,F,1,A2,01-APR-74,hutanu.raluca@gmail.com,7.13,FALSE
+699,0,344QB3,Tirpescu,Romanescu Marian,M,2,B5,18-SEP-74,tirpescu.romanescu@info.ro,6.38,FALSE
+700,0,749NN5,Mihociu,Sebastian,M,3,A4,18-JUL-74,mihociu.sebastian@info.ro,6.63,FALSE
+701,0,105KW0,Calancea,Cristian,M,2,A1,30-APR-74,calancea.cristian@gmail.com,7.75,FALSE
+702,0,376XR6,Cusmuliuc,Ovidiu George,M,3,B6,22-NOV-74,cusmuliuc.ovidiu@info.ro,6.06,FALSE
+703,0,496VP5,Cebere,Matei Iustin,M,2,A6,03-NOV-74,cebere.matei@gmail.com,6.71,FALSE
+704,0,635YE2,Balan,Bogdan Eduard,M,3,B2,07-JAN-74,balan.bogdan@info.ro,6.38,FALSE
+705,0,322ML8,Patachi,Nicusor Mihail,M,3,B6,24-APR-74,patachi.nicusor@gmail.com,6.42,FALSE
+706,0,906OJ0,Irimia,Ionel Silviu,M,3,B4,27-SEP-74,irimia.ionel@gmail.com,7.75,FALSE
+707,0,569GJ2,Chibici,Cosmin Dimitrie,M,1,A5,06-JAN-74,chibici.cosmin@info.ro,7.63,FALSE
+708,0,887ET3,Negruser,Antonia Mirela,F,3,B3,19-JUL-74,negruser.antonia@info.ro,6.88,FALSE
+709,0,306JY6,Haba,Vladimir Bogdan,M,2,B1,15-OCT-74,haba.vladimir@gmail.com,6.54,FALSE
+710,0,498NB4,Gherca,Petruta,F,2,A2,12-AUG-74,gherca.petruta@info.ro,6.46,FALSE
+711,0,358AH8,Insuratelu,Andreas Denise,M,1,A1,09-JAN-74,insuratelu.andreas@gmail.com,6.75,FALSE
+712,0,443YW5,Tanasa,Vladut Corneliu,M,2,A5,30-SEP-74,tanasa.vladut@info.ro,6.46,FALSE
+713,0,836IH0,Arhire,Mihai,M,3,B2,08-JUN-74,arhire.mihai@info.ro,6.83,FALSE
+714,0,199QP4,Puiu,Loredana,F,2,B5,29-JUN-74,puiu.loredana@info.ro,7.81,FALSE
+715,0,711WN2,Bradea,Antonia,F,2,B1,08-JAN-74,bradea.antonia@info.ro,8.19,FALSE
+716,0,783VW2,Barzu,Dumitru,M,2,A5,29-JUN-74,barzu.dumitru@gmail.com,7.25,FALSE
+717,0,541ZS8,Poenariu,Elena Cristina,F,1,A3,10-OCT-74,poenariu.elena@info.ro,6.88,FALSE
+718,0,863MP3,Micu,Dragos,M,1,A4,08-DEC-74,micu.dragos@gmail.com,7.5,FALSE
+719,0,523QH6,Riscanu,Vladimir,M,2,A6,06-JAN-74,riscanu.vladimir@info.ro,6.13,FALSE
+720,0,246QV0,Jitca,Iulia Loredana,F,2,A6,09-MAR-74,jitca.iulia@info.ro,7.13,FALSE
+721,0,900UL0,Stoian,Eusebiu,M,2,A6,11-JUN-74,stoian.eusebiu@info.ro,6.19,FALSE
+722,0,639SP6,Leon,Aurelian,M,2,A5,06-AUG-74,leon.aurelian@info.ro,6.38,FALSE
+723,0,843VL4,Vidru,Beniamin Ciprian,M,3,A4,15-NOV-74,vidru.beniamin@info.ro,8.25,FALSE
+724,0,956NR6,Silitra,Raluca Bianca,F,1,A1,18-APR-74,silitra.raluca@info.ro,7.19,FALSE
+725,0,706BX1,Prodan,Ciprian Mihai,M,1,A4,13-OCT-74,prodan.ciprian@gmail.com,6.13,FALSE
+726,0,670LG5,Maftei,Iulian,M,1,B1,03-APR-74,maftei.iulian@gmail.com,6.88,FALSE
+727,0,111CY4,Macoveschi,Emanuela,F,3,A5,09-SEP-74,macoveschi.emanuela@info.ro,7.25,FALSE
+728,0,708RH4,Olanuta,Iolanda Raluca,F,2,A6,24-OCT-74,olanuta.iolanda@info.ro,7.25,FALSE
+729,0,717PK6,Razvan,Ciprian Iulian,M,2,B2,02-JUN-74,razvan.ciprian@gmail.com,6.75,FALSE
+730,0,950UW4,Eduard,Ileana Andreia,F,2,B2,17-FEB-74,eduard.ileana@gmail.com,7.25,FALSE
+731,0,668NJ0,Petcu,Iustin Lucian,M,2,A5,12-MAR-74,petcu.iustin@gmail.com,6.5,FALSE
+732,0,180VB6,Vulpescu,Emma Alexandra,F,1,A4,11-NOV-74,vulpescu.emma@gmail.com,6,FALSE
+733,0,161WX7,Calinescu,Denisa Delia,F,2,B3,25-NOV-74,calinescu.denisa@gmail.com,6.79,FALSE
+734,0,502JD1,Galatanu,Valentin,M,1,A3,28-DEC-74,galatanu.valentin@gmail.com,6.13,FALSE
+735,0,606VP0,Toma,Petrut,M,1,A6,08-APR-74,toma.petrut@gmail.com,5.92,FALSE
+736,0,234AT8,Dodan,Sanziana Laura,F,2,A3,03-JUN-74,dodan.sanziana@gmail.com,6.94,FALSE
+737,0,605BC4,Herdes,Laurentiu,M,2,B2,30-NOV-74,herdes.laurentiu@info.ro,6.25,FALSE
+738,0,364MD6,Sofian,Eugen,M,2,A1,16-JAN-74,sofian.eugen@gmail.com,6.42,FALSE
+739,0,304LZ3,Predoaia,Ema,F,3,B6,08-MAR-74,predoaia.ema@gmail.com,6.56,FALSE
+740,0,706DO8,Stefanita,Eleonora Ilona,F,3,A4,10-NOV-74,stefanita.eleonora@info.ro,7.44,FALSE
+741,0,488GX2,Sava,Stefania Xena,F,3,A2,24-JUN-74,sava.stefania@info.ro,6.88,FALSE
+742,0,802ET6,Ambroci,Monica Stefania,F,1,B2,01-FEB-74,ambroci.monica@gmail.com,7.25,FALSE
+743,0,530SB3,Riscanu,Samuel Nicusor,M,2,B4,21-APR-74,riscanu.samuel@gmail.com,8.25,FALSE
+744,0,713KB4,Perciun,Corneliu Lucian,M,2,B4,07-OCT-74,perciun.corneliu@info.ro,8.19,FALSE
+745,0,540OX4,Grama,Alin Marian,M,1,B1,27-JUN-74,grama.alin@gmail.com,8.13,FALSE
+746,0,746XU1,Toncu,Elvis,M,2,B1,15-FEB-74,toncu.elvis@info.ro,5.88,FALSE
+747,0,278ST2,Grozavu,Stefania Anda,F,1,B4,20-DEC-74,grozavu.stefania@info.ro,6.5,FALSE
+748,0,680BB2,Iancu,Cristina Antonia,F,3,B4,09-JAN-74,iancu.cristina@gmail.com,6.94,FALSE
+749,0,645QR5,Harabula,Vasile,M,1,B2,04-FEB-74,harabula.vasile@gmail.com,7.44,FALSE
+750,0,676EV6,Simon,Iuliana Anca,F,1,B4,22-MAR-74,simon.iuliana@gmail.com,7.31,FALSE
+751,0,725ZQ3,Chelaru,Antonia Eleonora,F,2,B4,25-AUG-74,chelaru.antonia@info.ro,8.25,FALSE
+752,0,172EF1,Hociung,Razvan Iosif,M,1,A6,30-OCT-74,hociung.razvan@info.ro,6.29,FALSE
+753,0,733BT7,Stavarache,Dorian Andreas,M,2,A1,19-MAR-74,stavarache.dorian@gmail.com,5.92,FALSE
+754,0,713WK1,Minea,Ilie,M,2,A1,27-JUN-74,minea.ilie@info.ro,7.63,FALSE
+755,0,179WS4,Maties,Dorian,M,1,A1,21-APR-74,maties.dorian@gmail.com,6.25,FALSE
+756,0,812SD2,Macoveschi,Sergiu,M,3,A2,14-JUN-74,macoveschi.sergiu@gmail.com,6.5,FALSE
+757,0,419FC8,Ciobanu,Darius Catalin,M,3,B1,05-JUN-74,ciobanu.darius@gmail.com,8.13,FALSE
+758,0,421UD5,Vasiliu,Daniela Vasilica,F,3,A5,06-MAR-74,vasiliu.daniela@gmail.com,6.63,FALSE
+759,0,738NX3,Belciuganu,Elisa Mirela,F,1,A5,20-APR-74,belciuganu.elisa@gmail.com,6.5,FALSE
+760,0,328QC5,Anghelina,Irinel,M,2,A1,10-JUL-74,anghelina.irinel@info.ro,7.25,FALSE
+761,0,823EI6,Dimache,Diana Larisa,F,1,B1,26-APR-74,dimache.diana@info.ro,6.5,FALSE
+762,0,105FG8,Simiganoschi,Corneliu Dorian,M,3,A3,26-JAN-74,simiganoschi.corneliu@gmail.com,6.75,FALSE
+763,0,162TM6,Cozma,Loredana Irina,F,3,B3,23-AUG-74,cozma.loredana@info.ro,6.94,FALSE
+764,0,200AX7,Durnea,Filip Rolland,M,3,A2,01-MAY-74,durnea.filip@gmail.com,7.56,FALSE
+765,0,887CR7,Andrian,Iolanda,F,2,B5,21-OCT-74,andrian.iolanda@info.ro,7.75,FALSE
+766,0,440NT8,Mangalagiu,Costel Eusebiu,M,1,A2,20-APR-74,mangalagiu.costel@gmail.com,8.25,FALSE
+767,0,683HP2,Harabula,Vadim Dan,M,2,B3,15-MAY-74,harabula.vadim@gmail.com,6.63,FALSE
+768,0,661RH0,Sfarghiu,Ilie Vlad,M,2,A3,25-MAR-74,sfarghiu.ilie@gmail.com,6.54,FALSE
+769,0,606JV3,Ciobotaru,Gheorghe,M,1,B3,25-JUN-74,ciobotaru.gheorghe@info.ro,6.21,FALSE
+770,0,230YQ5,Hodoreanu,Ecaterina,F,2,B6,19-JAN-74,hodoreanu.ecaterina@gmail.com,7.88,FALSE
+771,0,442BM1,Olarasu,Codrin Rares,M,2,B4,29-AUG-74,olarasu.codrin@info.ro,6.88,FALSE
+772,0,141QT7,Leonte,Madalina,F,2,B3,10-FEB-74,leonte.madalina@info.ro,6.63,FALSE
+773,0,108TT8,Reut,Elena,F,1,B2,21-APR-74,reut.elena@info.ro,6.63,FALSE
+774,0,642WA7,Perju,Paula,F,1,A2,13-JAN-74,perju.paula@gmail.com,7.33,FALSE
+775,0,681NP3,Anita,Iosif Iustin,M,2,B1,13-APR-74,anita.iosif@gmail.com,7.06,FALSE
+776,0,563YE1,Oana,Codrina,F,2,B3,19-JAN-74,oana.codrina@info.ro,6,FALSE
+777,0,132WK7,Cehan,Laurentiu,M,1,A1,11-FEB-74,cehan.laurentiu@gmail.com,6.54,FALSE
+778,0,273RK1,Opariuc,Filip,M,1,B5,04-FEB-74,opariuc.filip@gmail.com,6.21,FALSE
+779,0,432EU6,Hociung,Eugen Victor,M,3,B4,12-JUL-74,hociung.eugen@info.ro,7.06,FALSE
+780,0,643PF4,Miron,Rares Ionut,M,1,B2,01-JUN-74,miron.rares@info.ro,7.44,FALSE
+781,0,393NB7,Butacu,Andreea Cristina,F,3,B2,01-APR-74,butacu.andreea@gmail.com,5.67,FALSE
+782,0,402NI5,Dinu,Teodora Sanziana,F,2,A5,13-JUN-74,dinu.teodora@gmail.com,6.33,FALSE
+783,0,988WP7,Damoc,Raluca,F,2,A1,28-NOV-74,damoc.raluca@info.ro,7.19,FALSE
+784,0,412QY0,Podaru,Irinel Victor,M,3,B3,17-APR-74,podaru.irinel@info.ro,7.25,FALSE
+785,0,166BG7,Murarasu,Xena,F,1,B3,12-DEC-74,murarasu.xena@gmail.com,6.13,FALSE
+786,0,116YK2,Cozmiuc,Claudiu George,M,1,B2,16-JAN-74,cozmiuc.claudiu@info.ro,6.92,FALSE
+787,0,228PE6,Lazar,Sergiu Aurelian,M,3,A6,05-OCT-74,lazar.sergiu@gmail.com,7.31,FALSE
+788,0,950YF1,Scurtu,Vasilica Stefana,F,3,A6,03-FEB-74,scurtu.vasilica@gmail.com,6.69,FALSE
+789,0,748EA1,Riza,Richard,M,3,A2,30-MAY-74,riza.richard@gmail.com,6.81,FALSE
+790,0,265CC2,Daneliuc,Marius,M,3,A3,08-NOV-74,daneliuc.marius@gmail.com,6.58,FALSE
+791,0,283RD7,Corciu,Theodora,F,2,B2,30-DEC-74,corciu.theodora@info.ro,6.54,FALSE
+792,0,436DX1,Crainiceanu,Xena Paula,F,2,B2,01-SEP-74,crainiceanu.xena@info.ro,6.63,FALSE
+793,0,756KU4,Belcescu,Emma Anda,F,1,B3,01-JUN-74,belcescu.emma@info.ro,6.08,FALSE
+794,0,688TX6,Simion,Ecaterina,F,2,B1,29-JUL-74,simion.ecaterina@gmail.com,6.04,FALSE
+795,0,108AP7,Timofte,Irinel Daniel,M,1,A6,06-SEP-74,timofte.irinel@info.ro,7.25,FALSE
+796,0,480YW5,Darie,Dragos,M,2,B1,28-APR-74,darie.dragos@info.ro,6.38,FALSE
+797,0,301MY8,Arhip,Larisa Anda,F,3,A5,12-SEP-74,arhip.larisa@gmail.com,6.75,FALSE
+798,0,342OE3,Coca,Simina Ana,F,3,A3,25-OCT-74,coca.simina@info.ro,5.92,FALSE
+799,0,803FY5,Stolniceanu,Stefania Elisa,F,2,A1,25-OCT-74,stolniceanu.stefania@gmail.com,6.63,FALSE
+800,0,761ID4,Riza,Tamara Emma,F,1,B5,05-MAR-74,riza.tamara@gmail.com,6.94,FALSE
+801,0,645NQ8,Durnea,Stefania Andreea,F,3,A6,19-NOV-74,durnea.stefania@info.ro,6.88,FALSE
+802,0,279YZ2,Edu,Eleonora,F,1,A4,31-DEC-74,edu.eleonora@info.ro,6.13,FALSE
+803,0,420TI8,Citea,Loredana Ilona,F,3,A1,10-SEP-74,citea.loredana@info.ro,6.88,FALSE
+804,0,651GQ1,Tirpescu,Sabin Octavian,M,2,B1,30-JUL-74,tirpescu.sabin@gmail.com,7.63,FALSE
+805,0,370GX1,Lupu,Tudor Matei,M,2,A3,23-AUG-74,lupu.tudor@info.ro,6.75,FALSE
+806,0,397GS5,Rusu,Ilie,M,1,B6,16-JAN-74,rusu.ilie@info.ro,6.54,FALSE
+807,0,434IO5,Oana,Ana Simina,F,3,A5,05-FEB-74,oana.ana@info.ro,6.88,FALSE
+808,0,533KU2,Chicos,Ilona Laura,F,3,B2,23-APR-74,chicos.ilona@gmail.com,6.17,FALSE
+809,0,628TT1,Arhire,Damian Denise,M,1,B2,24-APR-74,arhire.damian@info.ro,7.25,FALSE
+810,0,156JB7,Corduneanu,Paula,F,1,B6,24-AUG-74,corduneanu.paula@info.ro,6.58,FALSE
+811,0,879HX7,Pojar,Georgiana Raluca,F,1,A5,14-OCT-74,pojar.georgiana@info.ro,6.46,FALSE
+812,0,435KD3,Ichim,Dan Aurelian,M,1,A4,28-AUG-74,ichim.dan@gmail.com,7.63,FALSE
+813,0,744EL2,Daniel,Antonia,F,3,A6,14-DEC-74,daniel.antonia@gmail.com,6.75,FALSE
+814,0,807IU7,Simionesei,Petru Alin,M,1,B4,27-SEP-74,simionesei.petru@info.ro,6.79,FALSE
+815,0,485AF0,Martinas,Xena Oana,F,1,A1,23-JAN-74,martinas.xena@info.ro,7.13,FALSE
+816,0,454ML7,Clatinici,Camil Danut,M,2,A4,17-DEC-74,clatinici.camil@gmail.com,6.63,FALSE
+817,0,312YZ6,Bejenaru,Loredana Sanziana,F,3,A5,06-NOV-74,bejenaru.loredana@gmail.com,6.46,FALSE
+818,0,525LE6,Andonesei,Damian,M,1,B4,09-MAY-74,andonesei.damian@info.ro,6.75,FALSE
+819,0,368MA5,Bilan,Madalina Antonia,F,1,A6,23-NOV-74,bilan.madalina@gmail.com,6.13,FALSE
+820,0,446FK5,Netedu,Iuliana,F,3,A4,26-AUG-74,netedu.iuliana@info.ro,7.38,FALSE
+821,0,933KE7,Roman,Vasilica Ioana,F,3,A6,15-AUG-74,roman.vasilica@info.ro,7.13,FALSE
+822,0,134ST4,Bulai,Eduard Mihail,M,3,A2,29-OCT-74,bulai.eduard@info.ro,6.25,FALSE
+823,0,800TB1,Cristea,Iulia Loredana,F,2,B3,01-APR-74,cristea.iulia@gmail.com,6,FALSE
+824,0,176NJ3,Tirpescu,Dorin,M,1,A2,22-DEC-74,tirpescu.dorin@info.ro,7.04,FALSE
+825,0,405VH6,Cozma,Vasilica,F,3,B2,03-MAY-74,cozma.vasilica@info.ro,7.13,FALSE
+826,0,971GE1,Anghelina,Eduard Romanescu,M,1,B1,24-APR-74,anghelina.eduard@gmail.com,7.44,FALSE
+827,0,448UN4,Latu,Ioana,F,3,B2,17-DEC-74,latu.ioana@gmail.com,7.17,FALSE
+828,0,254FY1,Suhani,Vladut Nicusor,M,3,B1,02-MAR-74,suhani.vladut@gmail.com,6.44,FALSE
+829,0,515RP7,Popa,Diana,F,2,A1,26-FEB-74,popa.diana@info.ro,6.58,FALSE
+830,0,326PM4,Catana,Razvan Dumitru,M,2,A6,30-JUL-74,catana.razvan@info.ro,6.75,FALSE
+831,0,602XG2,Sofian,Octavian Mihail,M,2,A4,19-MAR-74,sofian.octavian@gmail.com,6.88,FALSE
+832,0,283IJ7,Teodorescu,Gabriela Sanziana,F,3,B1,18-FEB-74,teodorescu.gabriela@gmail.com,7.38,FALSE
+833,0,659QW3,Poputoaia,Laura Anca,F,1,B1,30-JUL-74,poputoaia.laura@gmail.com,6.63,FALSE
+834,0,679FU8,Domnaru,Iuliana Xena,F,3,B5,09-FEB-74,domnaru.iuliana@gmail.com,7.5,FALSE
+835,0,409DX0,Pascaru,Iaroslav Valentin,M,2,B5,14-FEB-74,pascaru.iaroslav@gmail.com,6.08,FALSE
+836,0,323UR8,Herdes,Sebastian,M,1,B6,27-NOV-74,herdes.sebastian@gmail.com,6.96,FALSE
+837,0,119LL4,Vulpescu,Iolanda,F,1,B4,29-AUG-74,vulpescu.iolanda@gmail.com,7.69,FALSE
+838,0,796HV1,Popovici,Iulia,F,2,A3,20-FEB-74,popovici.iulia@gmail.com,6.56,FALSE
+839,0,591NU4,Mihalcea,Vasilica Maria,F,1,B3,09-JUN-74,mihalcea.vasilica@gmail.com,6.79,FALSE
+840,0,565BH1,Ghergu,Paul Ion,M,3,A2,23-JAN-74,ghergu.paul@info.ro,7,FALSE
+841,0,586CE4,Purice,Denise,M,1,A6,04-OCT-74,purice.denise@gmail.com,6.75,FALSE
+842,0,550XQ3,Bazgan,Paul,M,2,A5,02-FEB-74,bazgan.paul@gmail.com,6.81,FALSE
+843,0,699YY5,Belciuganu,Oana,F,3,A6,17-JUN-74,belciuganu.oana@gmail.com,7.25,FALSE
+844,0,303TH6,Macoveschi,Alexandra,F,1,A3,29-AUG-74,macoveschi.alexandra@gmail.com,6.75,FALSE
+845,0,864OX6,Maxim,Gabriela,F,2,B1,30-JUN-74,maxim.gabriela@gmail.com,6.63,FALSE
+846,0,990YY3,Ivascu,Petruta Gabriela,F,3,A4,09-OCT-74,ivascu.petruta@gmail.com,6.25,FALSE
+847,0,311VD3,Otrocol,Constantin Andreas,M,3,A1,07-AUG-74,otrocol.constantin@gmail.com,7,FALSE
+848,0,774IX5,Matrana,Mirela Ilona,F,2,A3,01-AUG-74,matrana.mirela@gmail.com,6.75,FALSE
+849,0,438MQ6,Coseru,Sanziana,F,1,B5,15-JAN-74,coseru.sanziana@gmail.com,6.81,FALSE
+850,0,415LR0,Leonte,Anda Delia,F,1,B3,26-OCT-74,leonte.anda@gmail.com,6.79,FALSE
+851,0,579CU2,Gitlan,Irinel,M,1,B3,31-OCT-74,gitlan.irinel@info.ro,6.5,FALSE
+852,0,370KI3,Morosanu,Florian Razvan,M,3,A2,24-JAN-74,morosanu.florian@gmail.com,8,FALSE
+853,0,895WR4,Platon,Radu Codrin,M,2,B1,19-FEB-74,platon.radu@info.ro,6.38,FALSE
+854,0,175JV0,Milut,Florian Ioan,M,3,B1,27-AUG-74,milut.florian@info.ro,6.17,FALSE
+855,0,922II4,Roman,Theodora Ana,F,3,A4,19-AUG-74,roman.theodora@gmail.com,7.88,FALSE
+856,0,409HY8,Calancea,Stefana Monica,F,2,B2,16-NOV-74,calancea.stefana@info.ro,6.44,FALSE
+857,0,878BF4,Ostafe,Theodor,M,2,B5,13-JAN-74,ostafe.theodor@info.ro,7.5,FALSE
+858,0,949NA5,Iftimesei,Stefan,M,3,A6,19-DEC-74,iftimesei.stefan@gmail.com,7.19,FALSE
+859,0,937KP7,Nica,Xena Emanuela,F,3,B2,02-JUL-74,nica.xena@info.ro,6.54,FALSE
+860,0,446LB6,Macoveschi,Camelia,F,2,B6,29-MAR-74,macoveschi.camelia@gmail.com,8,FALSE
+861,0,606IC4,Razvan,Oana,F,3,A2,09-OCT-74,razvan.oana@gmail.com,6.88,FALSE
+862,0,980CM0,Ichim,Cezar Fabian,M,1,A4,08-MAY-74,ichim.cezar@gmail.com,6.25,FALSE
+863,0,938QC5,Creanga,Mihaela Ilona,F,1,A4,27-DEC-74,creanga.mihaela@info.ro,7.56,FALSE
+864,0,104YV6,Ionesi,Adrian Teodor,M,2,B1,07-OCT-74,ionesi.adrian@info.ro,6.67,FALSE
+865,0,469EF7,Mihalachi,Gabriel Danut,M,3,B2,26-OCT-74,mihalachi.gabriel@gmail.com,7.75,FALSE
+866,0,177OI1,Mihociu,Florin Andrei,M,3,B2,29-OCT-74,mihociu.florin@info.ro,6.88,FALSE
+867,0,564ZP1,Teodorescu,Mirela Alexandra,F,2,A5,03-AUG-74,teodorescu.mirela@info.ro,6.46,FALSE
+868,0,143FX0,Duceac,Florian Claudiu,M,1,A3,20-JAN-74,duceac.florian@gmail.com,6.81,FALSE
+869,0,372TS3,Corciu,Ilona,F,1,A4,07-DEC-74,corciu.ilona@info.ro,6.94,FALSE
+870,0,755YB6,Manole,Dumitru Eugen,M,1,B4,04-APR-74,manole.dumitru@info.ro,5.38,FALSE
+871,0,361HY6,Oprea,Stefania Adina,F,1,A6,14-FEB-74,oprea.stefania@info.ro,6.63,FALSE
+872,0,154UF1,Vrabie,Eugen Paul,M,1,B3,02-MAY-74,vrabie.eugen@info.ro,6.58,FALSE
+873,0,407YF7,Borcan,Delia Manuela,F,2,B2,27-JAN-74,borcan.delia@gmail.com,6.63,FALSE
+874,0,889QI4,Macariu,Rolland,M,3,B6,21-NOV-74,macariu.rolland@gmail.com,6.31,FALSE
+875,0,433ER2,Coca,Codrina,F,3,B3,12-NOV-74,coca.codrina@gmail.com,7,FALSE
+876,0,620JN6,Cebere,Andreea Theodora,F,2,B2,25-JAN-74,cebere.andreea@gmail.com,6.88,FALSE
+877,0,628OI6,Olanuta,Larisa,F,2,A4,10-AUG-74,olanuta.larisa@info.ro,6.42,FALSE
+878,0,250LT3,Arteni,Octavian,M,1,B3,11-MAR-74,arteni.octavian@info.ro,6.5,FALSE
+879,0,365BC1,Eusebiu,Sergiu,M,3,A6,05-JUN-74,eusebiu.sergiu@gmail.com,7.5,FALSE
+880,0,837KT7,Dragomirescu,Raluca,F,3,B6,08-DEC-74,dragomirescu.raluca@gmail.com,6,FALSE
+881,0,747XZ4,Manole,Anca Simina,F,1,A1,07-MAR-74,manole.anca@info.ro,5.92,FALSE
+882,0,754UQ6,Frumosu,Damian,M,3,A1,19-JAN-74,frumosu.damian@gmail.com,7.69,FALSE
+883,0,623FK7,Ionesi,Manuela,F,2,A6,05-MAY-74,ionesi.manuela@gmail.com,7.5,FALSE
+884,0,686FT7,Chelaru,Iolanda Claudia,F,1,B5,22-JUN-74,chelaru.iolanda@gmail.com,6.08,FALSE
+885,0,623PB8,Vlad,Octavian,M,1,A1,28-DEC-74,vlad.octavian@info.ro,7.08,FALSE
+886,0,801IU2,Coca,Laura,F,1,B4,27-JUL-74,coca.laura@info.ro,7.63,FALSE
+887,0,351PU1,Danila,Camil Liviu,M,2,A3,14-DEC-74,danila.camil@info.ro,6,FALSE
+888,0,749OR2,Mihai,Florin,M,3,A3,19-DEC-74,mihai.florin@info.ro,7.19,FALSE
+889,0,276KI7,Herscovici,Ovidiu,M,3,B3,05-AUG-74,herscovici.ovidiu@info.ro,6.63,FALSE
+890,0,418GX2,Iordache-tiroiu,Emil Petru,M,1,A5,27-OCT-74,iordache-tiroiu.emil@info.ro,7.56,FALSE
+891,0,985RF2,Prodan,Mirela Simona,F,2,B2,04-FEB-74,prodan.mirela@gmail.com,6.33,FALSE
+892,0,746NW6,Hodoreanu,Laura Ioana,F,2,A3,03-JUL-74,hodoreanu.laura@gmail.com,6.13,FALSE
+893,0,470UU0,Chicos,Iolanda Sabina,F,1,A4,23-FEB-74,chicos.iolanda@info.ro,6.81,FALSE
+894,0,815EI7,Pascaru,Silviu,M,2,B5,05-JAN-74,pascaru.silviu@gmail.com,7.25,FALSE
+895,0,563GX1,Sofian,Laura Ana,F,2,A1,26-JAN-74,sofian.laura@gmail.com,6.63,FALSE
+896,0,683FR7,Huzum,Sabina Laura,F,1,B6,07-FEB-74,huzum.sabina@gmail.com,7.38,FALSE
+897,0,883DV0,Tabusca,Dan Marius,M,3,A1,24-DEC-74,tabusca.dan@info.ro,6.25,FALSE
+898,0,987KM6,Andros,Iustin Nicu,M,3,A4,02-FEB-74,andros.iustin@gmail.com,7.88,FALSE
+899,0,498WP2,Vasiliu,Stefana Delia,F,2,B6,18-SEP-74,vasiliu.stefana@info.ro,7.56,FALSE
+900,0,479JX8,Tuduri,Ioana Elisa,F,1,B3,01-MAY-74,tuduri.ioana@gmail.com,6.5,FALSE
+901,0,738AS4,Agape,Radu,M,1,B3,25-APR-74,agape.radu@info.ro,6.56,FALSE
+902,0,125NR8,Dima,Simina,F,1,B2,15-APR-74,dima.simina@info.ro,6.63,FALSE
+903,0,467PJ5,Ulinici,Gabriela Raluca,F,1,B5,11-AUG-74,ulinici.gabriela@gmail.com,6.33,FALSE
+904,0,983RH3,Cehan,Rares Irinel,M,1,B5,13-JUL-74,cehan.rares@gmail.com,7,FALSE
+905,0,149TW1,Musca,Andreia Daniela,F,3,B2,05-OCT-74,musca.andreia@gmail.com,6.94,FALSE
+906,0,604KC7,Calancea,Teofil Dimitrie,M,3,A5,15-JUN-74,calancea.teofil@info.ro,7.13,FALSE
+907,0,925CI0,Riscanu,Ileana,F,3,A3,25-FEB-74,riscanu.ileana@info.ro,6.17,FALSE
+908,0,830BM1,Tabusca,Emanuela Teodora,F,3,A3,17-OCT-74,tabusca.emanuela@info.ro,7,FALSE
+909,0,943ND5,Varvaroi,Cristina Daniela,F,1,A2,03-NOV-74,varvaroi.cristina@info.ro,6.75,FALSE
+910,0,587WM5,Moniry-abyaneh,Anda,F,1,B6,01-JUL-74,moniry-abyaneh.anda@gmail.com,7.08,FALSE
+911,0,549GV1,Lungeanu,Iosif,M,1,B5,08-JUL-74,lungeanu.iosif@info.ro,7.88,FALSE
+912,0,467ML5,Ababei,Laura Gabriela,F,2,B5,03-FEB-74,ababei.laura@gmail.com,8.06,FALSE
+913,0,508DP8,Carp,Roland Dorin,M,3,A2,18-AUG-74,carp.roland@gmail.com,6.75,FALSE
+914,0,206LL8,Ionesei,Petru Razvan,M,1,A6,03-JUN-74,ionesei.petru@info.ro,6.58,FALSE
+915,0,206XY3,Acasandrei,Camelia Claudia,F,1,B5,30-SEP-74,acasandrei.camelia@gmail.com,7.38,FALSE
+916,0,927HK8,Nicu,Ion,M,1,B3,07-JUN-74,nicu.ion@gmail.com,6.56,FALSE
+917,0,478QF6,Vidru,Oana Claudia,F,1,A6,14-JAN-74,vidru.oana@gmail.com,6.63,FALSE
+918,0,849WJ3,Marton,Stefan,M,2,B5,02-JAN-74,marton.stefan@info.ro,7.25,FALSE
+919,0,131TJ2,Grama,Andrei,M,2,A4,06-MAY-74,grama.andrei@info.ro,7.25,FALSE
+920,0,369WW7,Gitlan,Razvan,M,2,A1,22-APR-74,gitlan.razvan@info.ro,7,FALSE
+921,0,142LN2,Zazuleac,Emanuela,F,3,A3,29-MAY-74,zazuleac.emanuela@gmail.com,6.44,FALSE
+922,0,295YN8,Afanasie,Silviu Richard,M,1,A4,04-MAY-74,afanasie.silviu@info.ro,5.88,FALSE
+923,0,338NR1,Fedeles,Victor Romanescu,M,1,B5,26-JUN-74,fedeles.victor@info.ro,7.5,FALSE
+924,0,846HK7,Birsanu,Cristina,F,3,A4,09-NOV-74,birsanu.cristina@info.ro,6.25,FALSE
+925,0,775OL8,Calinescu,Denisa,F,3,A1,29-DEC-74,calinescu.denisa@info.ro,7.13,FALSE
+926,0,387HQ0,Gherca,Maria,F,1,A1,30-APR-74,gherca.maria@gmail.com,7.06,FALSE
+927,0,687CA3,Filimon,Damian,M,1,A2,16-DEC-74,filimon.damian@info.ro,6.67,FALSE
+928,0,962WF4,Nicu,Radu Iustin,M,3,A4,18-APR-74,nicu.radu@gmail.com,6.94,FALSE
+929,0,855SK0,Stavarache,Dimitrie Cristian,M,1,B3,21-OCT-74,stavarache.dimitrie@info.ro,6.69,FALSE
+930,0,697BG4,Boistean,Elvis,M,3,B1,24-DEC-74,boistean.elvis@info.ro,6.88,FALSE
+931,0,409VY1,Minuti,Ema,F,3,A2,04-SEP-74,minuti.ema@gmail.com,7.88,FALSE
+932,0,278NZ1,Ciobotaru,Iolanda Manuela,F,3,B3,18-NOV-74,ciobotaru.iolanda@info.ro,7.08,FALSE
+933,0,928OX3,Prodan,Petruta,F,2,B2,03-JUN-74,prodan.petruta@info.ro,7.31,FALSE
+934,0,511DD2,Haba,Daria Loredana,F,3,B5,29-AUG-74,haba.daria@info.ro,5.88,FALSE
+935,0,608WG6,Spiridon,Cezar Ervin,M,2,B1,27-DEC-74,spiridon.cezar@gmail.com,7.31,FALSE
+936,0,196IE2,Luncasu,Sabin Camil,M,3,B5,29-OCT-74,luncasu.sabin@gmail.com,6.38,FALSE
+937,0,581AX4,Grigoriu,Costel,M,1,A2,14-AUG-74,grigoriu.costel@gmail.com,6.94,FALSE
+938,0,850BS6,Lazar,Sebastian Codrin,M,3,B3,27-APR-74,lazar.sebastian@info.ro,5.5,FALSE
+939,0,917YW1,Unghianu,Manuela,F,1,B5,12-AUG-74,unghianu.manuela@info.ro,6.69,FALSE
+940,0,881RS8,Palihovici,Sanziana Ioana,F,2,A1,24-JAN-74,palihovici.sanziana@gmail.com,6.69,FALSE
+941,0,970NN5,Sofian,Ervin Paul,M,3,A2,28-AUG-74,sofian.ervin@gmail.com,6.17,FALSE
+942,0,444QO0,Gitlan,Denise,M,1,A6,15-MAY-74,gitlan.denise@gmail.com,8,FALSE
+943,0,892OG5,Larion,Elena Andreia,F,3,A1,10-AUG-74,larion.elena@info.ro,6.88,FALSE
+944,0,673EB6,Ciocoiu,Simina,F,3,B1,19-DEC-74,ciocoiu.simina@info.ro,7.13,FALSE
+945,0,111TB5,Babei,Cristian,M,3,B2,23-JUN-74,babei.cristian@gmail.com,7.5,FALSE
+946,0,418PI0,Jitca,Dragos Dimitrie,M,1,A1,31-AUG-74,jitca.dragos@gmail.com,6.5,FALSE
+947,0,650ZV8,Dragan,Denisa Elena,F,1,A1,03-SEP-74,dragan.denisa@gmail.com,6.25,FALSE
+948,0,173AO4,Domnaru,Irina Delia,F,2,A4,22-AUG-74,domnaru.irina@info.ro,6.92,FALSE
+949,0,218RC2,Benchea,Ioana Sabina,F,2,B5,20-JUN-74,benchea.ioana@info.ro,5.88,FALSE
+950,0,260FQ6,Corfu,Nicolae Giulio,M,1,A6,12-JUN-74,corfu.nicolae@info.ro,7.06,FALSE
+951,0,636AJ0,Cozmiuc,Sabin Emil,M,2,B1,01-MAR-74,cozmiuc.sabin@info.ro,7.13,FALSE
+952,0,292WJ5,Stavarache,Sabin Victor,M,1,A6,15-JUN-74,stavarache.sabin@gmail.com,6.81,FALSE
+953,0,685JW4,Bursuc,Sabin,M,3,B2,30-JUL-74,bursuc.sabin@info.ro,8.25,FALSE
+954,0,968IH3,Gherase,Ilona Iulia,F,2,B2,05-APR-74,gherase.ilona@info.ro,6.94,FALSE
+955,0,658NA6,Alexe,Mihaela Stefana,F,1,B2,07-FEB-74,alexe.mihaela@info.ro,6.75,FALSE
+956,0,768RQ1,Matei,Anca Ana,F,1,B4,24-AUG-74,matei.anca@info.ro,6.75,FALSE
+957,0,746ED3,Glodeanu,Ionut,M,3,A4,15-DEC-74,glodeanu.ionut@gmail.com,5.88,FALSE
+958,0,953OB3,Micu,Tudor,M,3,B2,16-JAN-74,micu.tudor@gmail.com,7.13,FALSE
+959,0,777UF2,Poputoaia,Vasilica,F,1,B5,24-APR-74,poputoaia.vasilica@info.ro,7.13,FALSE
+960,0,806PL6,Crucerescu,Andra Anca,F,3,B5,09-DEC-74,crucerescu.andra@gmail.com,6.13,FALSE
+961,0,252PT2,Eusebiu,Valentin Dragos,M,2,B2,04-NOV-74,eusebiu.valentin@gmail.com,6.94,FALSE
+962,0,536VT4,Iosub,Sergiu Andreas,M,2,B4,30-AUG-74,iosub.sergiu@gmail.com,7,FALSE
+963,0,441ZX8,Lupu,Iustin Marius,M,2,B6,15-APR-74,lupu.iustin@info.ro,4.63,FALSE
+964,0,318SR7,Ichim,Emanuela,F,3,B3,23-SEP-74,ichim.emanuela@gmail.com,6.94,FALSE
+965,0,652ST0,Catana,Simona,F,3,B5,09-OCT-74,catana.simona@info.ro,6.38,FALSE
+966,0,778JV3,Ciocoiu,Victor Nicolae,M,3,A2,19-APR-74,ciocoiu.victor@info.ro,7,FALSE
+967,0,468SD8,Milut,Beniamin,M,2,B4,02-MAR-74,milut.beniamin@info.ro,6.5,FALSE
+968,0,112VG2,Nicu,Diana,F,2,B5,28-APR-74,nicu.diana@gmail.com,7.25,FALSE
+969,0,774IU7,Lungeanu,Oana,F,2,B4,17-APR-74,lungeanu.oana@gmail.com,8.13,FALSE
+970,0,526PP7,Banu,Cristian Mihai,M,1,B5,04-JAN-74,banu.cristian@gmail.com,8.25,FALSE
+971,0,131EC8,Dochitei,Valentin Dorian,M,1,B5,12-APR-74,dochitei.valentin@gmail.com,6.88,FALSE
+972,0,398MH7,Lupascu,Xena,F,2,B6,25-MAY-74,lupascu.xena@gmail.com,7.5,FALSE
+973,0,837CQ1,Cristea,Emil Dorin,M,2,B6,13-JUL-74,cristea.emil@gmail.com,7.06,FALSE
+974,0,356WG8,Caraiman,Sebastian,M,3,A1,15-FEB-74,caraiman.sebastian@gmail.com,6.5,FALSE
+975,0,229DX1,Buza,Dumitru,M,2,B1,22-AUG-74,buza.dumitru@gmail.com,6.79,FALSE
+976,0,884DA2,Dudau,Maria,F,2,A6,20-JAN-74,dudau.maria@info.ro,7,FALSE
+977,0,652BN0,Grigoriu,Anda Sabina,F,1,B5,19-SEP-74,grigoriu.anda@info.ro,7,FALSE
+978,0,822KR0,Pantiru,Elena,F,3,A1,15-JUL-74,pantiru.elena@info.ro,6.38,FALSE
+979,0,192XK8,Opariuc,Anca Cristina,F,3,A3,22-JUN-74,opariuc.anca@info.ro,6.38,FALSE
+980,0,128TT6,Sava,Irina,F,2,B4,16-DEC-74,sava.irina@info.ro,5.83,FALSE
+981,0,788TH4,Ciobanu,Ileana,F,1,B4,18-NOV-74,ciobanu.ileana@gmail.com,7,FALSE
+982,0,717JA0,Olanuta,Ileana Ilona,F,1,A4,18-SEP-74,olanuta.ileana@gmail.com,7.56,FALSE
+983,0,399QL2,Dragomirescu,Sebastian,M,1,B4,25-AUG-74,dragomirescu.sebastian@gmail.com,7.5,FALSE
+984,0,825TS8,Bursuc,Daria Simona,F,1,A1,26-JUL-74,bursuc.daria@info.ro,6.5,FALSE
+985,0,329DX7,Toncu,Diana,F,1,A2,06-MAY-74,toncu.diana@info.ro,7.5,FALSE
+986,0,593HI7,Sandu,Irinel,M,3,B3,11-JAN-74,sandu.irinel@gmail.com,7,FALSE
+987,0,725RJ6,Moscu,Damian Gabriel,M,3,A3,23-JUN-74,moscu.damian@info.ro,6.94,FALSE
+988,0,677UL1,Lungu,Tudor,M,2,B1,23-NOV-74,lungu.tudor@gmail.com,7.13,FALSE
+989,0,569XU6,Leon,Ilona,F,3,B1,10-NOV-74,leon.ilona@gmail.com,8,FALSE
+990,0,525II8,Oprea,Danut Camil,M,1,A1,20-MAR-74,oprea.danut@gmail.com,7.13,FALSE
+991,0,336QG4,Cosnita,Dan Teodor,M,1,B2,06-APR-74,cosnita.dan@gmail.com,7.06,FALSE
+992,0,300RW2,Cozmiuc,Malina Delia,F,3,B1,19-DEC-74,cozmiuc.malina@gmail.com,7.13,FALSE
+993,0,199OW3,Gurau,Ovidiu Filip,M,2,B4,17-AUG-74,gurau.ovidiu@info.ro,6.88,FALSE
+994,0,737SL3,Mataca,Fabian Laurentiu,M,2,B2,21-MAR-74,mataca.fabian@info.ro,6.94,FALSE
+995,0,472WF0,Manolache,Victor Constantin,M,3,B5,06-JUL-74,manolache.victor@gmail.com,6.33,FALSE
+996,0,193VR6,Ambroci,Ileana Anca,F,2,B2,06-JUN-74,ambroci.ileana@info.ro,7.38,FALSE
+997,0,924RI2,Hostiuc,Teodora Camelia,F,3,B3,19-JUL-74,hostiuc.teodora@info.ro,6.17,FALSE
+998,0,249TE5,Hodoreanu,Stefana,F,1,A6,24-AUG-74,hodoreanu.stefana@info.ro,7.38,FALSE
+999,0,483SO3,Trifan,Radu Razvan,M,2,B6,13-MAY-74,trifan.radu@gmail.com,7.81,FALSE
+1000,0,192YR5,Rachieru,Silviu,M,2,B5,24-APR-74,rachieru.silviu@gmail.com,5.88,FALSE
+1001,0,965ZL8,Ursachi,Mihail Sebastian,M,2,B6,24-AUG-74,ursachi.mihail@info.ro,6.38,FALSE
+1002,0,380FW1,Herscovici,Theodora Codrina,F,1,B5,13-JUN-74,herscovici.theodora@info.ro,7,FALSE
+1003,0,670XQ0,Riza,Radu,M,2,A6,15-APR-74,riza.radu@gmail.com,6.5,FALSE
+1004,0,981MU1,Braescu,Monica,F,3,A3,21-JUN-74,braescu.monica@gmail.com,6.69,FALSE
+1005,0,418OJ7,Ivascu,Claudia Stefana,F,3,B5,11-DEC-74,ivascu.claudia@info.ro,7,FALSE
+1006,0,464EJ8,Insuratelu,Loredana Laura,F,1,A1,14-DEC-74,insuratelu.loredana@info.ro,7.13,FALSE
+1007,0,514SF6,Vasilache,Simona Monica,F,1,A2,11-NOV-74,vasilache.simona@info.ro,8,FALSE
+1008,0,169CB7,Olanuta,Camelia Delia,F,1,A1,18-JUN-74,olanuta.camelia@gmail.com,6.67,FALSE
+1009,0,184IP1,Netedu,Oana Cristina,F,1,A5,11-APR-74,netedu.oana@gmail.com,7,FALSE
+1010,0,838VK5,Sparhat,Tamara,F,2,B5,13-APR-74,sparhat.tamara@gmail.com,7.56,FALSE
+1011,0,542CN3,Eduard,Simona Irina,F,3,A3,06-JUL-74,eduard.simona@info.ro,6.38,FALSE
+1012,0,145AJ4,Belciuganu,Rolland,M,3,A1,25-APR-74,belciuganu.rolland@gmail.com,8.63,FALSE
+1013,0,473FK1,Catonoiu,Tudor Florian,M,2,A6,15-NOV-74,catonoiu.tudor@info.ro,7.06,FALSE
+1014,0,555SH6,Piriu,Stefana Claudia,F,3,B5,23-AUG-74,piriu.stefana@info.ro,6.42,FALSE
+1015,0,722AT3,Bulai,Filip,M,2,B5,10-SEP-74,bulai.filip@info.ro,7.13,FALSE
+1016,0,609FL0,Teclici,Oana Daniela,F,1,A6,09-APR-74,teclici.oana@info.ro,7.75,FALSE
+1017,0,611HQ0,Gherca,Oana,F,1,B4,13-SEP-74,gherca.oana@info.ro,8,FALSE
+1018,0,450TK2,Urse,George Nicolae,M,3,A3,30-DEC-74,urse.george@gmail.com,6.5,FALSE
+1019,0,495OK5,Martinas,Dorin,M,3,B5,30-MAR-74,martinas.dorin@gmail.com,6.17,FALSE
+1020,0,613KP4,Damoc,Dan Camil,M,2,B5,04-JAN-74,damoc.dan@info.ro,5.96,FALSE
+1021,0,798SM5,Onu,Paula Irina,F,3,B1,28-APR-74,onu.paula@info.ro,7,FALSE
+1022,0,500GF0,Vicol,Simona Alina,F,1,A5,02-AUG-74,vicol.simona@gmail.com,5.96,FALSE
+1023,0,378DQ5,Costan,Razvan,M,3,B1,12-FEB-74,costan.razvan@gmail.com,7.13,FALSE
+1024,0,780SG3,Haba,Razvan,M,1,B5,11-SEP-74,haba.razvan@gmail.com,8.25,FALSE
+1025,0,754XQ4,Boistean,Giulio,M,3,B3,09-NOV-74,boistean.giulio@info.ro,6.56,FALSE
