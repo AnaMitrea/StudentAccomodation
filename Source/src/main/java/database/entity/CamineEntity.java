@@ -4,9 +4,14 @@ import javax.persistence.*;
 import java.util.Collection;
 
 @Entity
-@Table(name = "camine", schema = "public", catalog = "d4l5m503cets9j")
+@NamedQuery(name = "Camine_ShowAll", query = "SELECT c FROM CamineEntity c")
+@NamedQuery(name = "Camine_FindById", query = "SELECT c FROM CamineEntity c WHERE c.id=?1")
+@NamedQuery(name = "Camine_FindByName", query = "SELECT c FROM CamineEntity c WHERE c.denumire=:denumire")
+@NamedQuery(name = "Camine_ExistsById", query = "SELECT COUNT(c) FROM CamineEntity c WHERE c.id=?1")
+@NamedQuery(name = "Camine_ExistsByName", query = "SELECT COUNT(c) FROM CamineEntity c WHERE c.denumire=:denumire")
+@Table(name =  "camine", schema = "public", catalog = "d4l5m503cets9j")
 public class CamineEntity {
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Basic
     @Id
     @Column(name = "id")
     private int id;

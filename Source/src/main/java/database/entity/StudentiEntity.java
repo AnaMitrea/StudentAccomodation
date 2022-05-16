@@ -1,12 +1,19 @@
 package database.entity;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.math.BigDecimal;
 
 @Entity
+@NamedQuery(name = "Students_ShowAll", query = "SELECT c FROM StudentiEntity c")
+@NamedQuery(name = "Students_FindById", query = "SELECT c FROM StudentiEntity c WHERE c.id=?1")
+@NamedQuery(name = "Students_FindBySerialNumber", query = "SELECT c FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
+@NamedQuery(name = "Students_ExistsById", query = "SELECT COUNT(c) FROM StudentiEntity c WHERE c.id=?1")
+@NamedQuery(name = "Students_ExistsBySerialNumber", query = "SELECT COUNT(c) FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
+@NamedQuery(name = "Students_ShowGPABySerialNumber", query = "SELECT c.medie FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
 @Table(name = "studenti", schema = "public", catalog = "d4l5m503cets9j")
-public class StudentiEntity {
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+public class StudentiEntity implements Serializable {
+    @Basic
     @Id
     @Column(name = "id")
     private int id;
@@ -33,7 +40,7 @@ public class StudentiEntity {
     private String email;
     @Basic
     @Column(name = "medie")
-    private BigDecimal medie;
+    private Double medie;
     @Basic
     @Column(name = "inregistrat")
     private Boolean inregistrat;
@@ -105,11 +112,11 @@ public class StudentiEntity {
         this.email = email;
     }
 
-    public BigDecimal getMedie() {
+    public Double getMedie() {
         return medie;
     }
 
-    public void setMedie(BigDecimal medie) {
+    public void setMedie(Double medie) {
         this.medie = medie;
     }
 
@@ -163,5 +170,22 @@ public class StudentiEntity {
 
     public void setCamineByIdCamin(CamineEntity camineByIdCamin) {
         this.camineByIdCamin = camineByIdCamin;
+    }
+
+    @Override
+    public String toString() {
+        return "StudentiEntity{" +
+                "id=" + id +
+                ", nrMatricol='" + nrMatricol + '\'' +
+                ", nume='" + nume + '\'' +
+                ", prenume='" + prenume + '\'' +
+                ", an=" + an +
+                ", grupa='" + grupa + '\'' +
+                ", dataNastere='" + dataNastere + '\'' +
+                ", email='" + email + '\'' +
+                ", medie=" + medie +
+                ", inregistrat=" + inregistrat +
+                ", camineByIdCamin=" + camineByIdCamin +
+                '}';
     }
 }
