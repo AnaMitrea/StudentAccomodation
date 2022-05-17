@@ -6,6 +6,7 @@ import java.awt.Font;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Objects;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
@@ -16,6 +17,8 @@ public class UserRegistration extends JFrame {
     private JTextField lastname;
     private JTextField firstname;
     // variabila pt gen
+    JRadioButton radioButtonMale;
+    JRadioButton radioButtonFemale;
     private JComboBox<String> anSelector;
     private JComboBox<String> grupaSelector;
 
@@ -87,18 +90,18 @@ public class UserRegistration extends JFrame {
         lblMale.setBounds(posX + 170, posY - 8, 150, 50);
         contentPane.add(lblMale);
 
-        JRadioButton radioButton = new JRadioButton("");
-        radioButton.setBounds(posX + 170 + 50, posY, 30, 30);
+        radioButtonMale = new JRadioButton("");
+        radioButtonMale.setBounds(posX + 170 + 50, posY, 30, 30);
+        contentPane.add(radioButtonMale);
 
-        contentPane.add(radioButton);
         JLabel lblFemale = new JLabel("Female");
         lblFemale.setFont(new Font("Tahoma", Font.PLAIN, 18));
         lblFemale.setBounds(posX + 170 + 60 + 50, posY - 8, 150, 50);
         contentPane.add(lblFemale);
 
-        JRadioButton radioButton_1 = new JRadioButton("");
-        radioButton_1.setBounds(posX + + 170 + 60 + 50 + 70, posY, 30, 30);
-        contentPane.add(radioButton_1);
+        radioButtonFemale = new JRadioButton("");
+        radioButtonFemale.setBounds(posX + + 170 + 60 + 50 + 70, posY, 30, 30);
+        contentPane.add(radioButtonFemale);
     }
 
     private void setareAnGrupa(int posX, int posY) {
@@ -256,19 +259,22 @@ public class UserRegistration extends JFrame {
         btnNewButton = new JButton("Submit");
         btnNewButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                String firstName = firstname.getText();
                 String lastName = lastname.getText();
+                String firstName = firstname.getText();
+                // gen
+                String an = Objects.requireNonNull(anSelector.getSelectedItem()).toString();
+                String grupa = Objects.requireNonNull(grupaSelector.getSelectedItem()).toString();
                 String emailId = email.getText();
                 String nr_matricol = nrMatricol.getText();
-                String password = medieField.getText();
+                String medie = medieField.getText();
 
                 String msg = "" + firstName;
                 msg += " \n";
                 try {
 
-                    System.out.println(firstName + "','" + lastName + "','" + nr_matricol + "','" + password + "','" + emailId );
+                    System.out.println(firstName + "','" + lastName + "',' an =" + an + "',' grupa= " + grupa  + "','" +nr_matricol + "','" + medie + "','" + emailId );
 
-
+                    // TODO validare
                     if(lastName.isEmpty()) {
                         JOptionPane.showMessageDialog(btnNewButton, "Lastname trebuie completat!");
                     }
