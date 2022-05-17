@@ -196,6 +196,12 @@ public class UserRegistration extends JFrame {
         contentPane.add(datePicker);
     }
 
+    // TODO validare date
+    private boolean validare(){
+
+        return false;
+    }
+
 
     /**
      * Create the frame.
@@ -275,8 +281,8 @@ public class UserRegistration extends JFrame {
                     System.out.println(firstName + "','" + lastName + "',' an =" + an + "',' grupa= " + grupa  + "','" +nr_matricol + "','" + medie + "','" + emailId );
 
                     // TODO validare
-                    if(lastName.isEmpty()) {
-                        JOptionPane.showMessageDialog(btnNewButton, "Lastname trebuie completat!");
+                    if(!validare()) {
+                        JOptionPane.showMessageDialog(btnNewButton, "Informatii nevalide!");
                     }
                     //JOptionPane.showMessageDialog(btnNewButton, "Welcome!");
                     //JOptionPane.showMessageDialog(btnNewButton,"Welcome, " + msg + "Your account is sucessfully created");
