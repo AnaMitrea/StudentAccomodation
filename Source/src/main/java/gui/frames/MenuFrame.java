@@ -11,9 +11,6 @@ public class MenuFrame extends JFrame {
     private final JPanel contentPane;
     private JButton btnNewButton;
 
-    /**
-     * Launch the application.
-     */
     public static void main(String[] args) {
         EventQueue.invokeLater(() -> {
             try {
@@ -25,6 +22,9 @@ public class MenuFrame extends JFrame {
         });
     }
 
+    /**
+     * Title settings
+     */
     private void settingTitle() {
         JLabel lblNewUserRegister = new JLabel("Student accommodation");
         lblNewUserRegister.setFont(new Font("Helvetica Neue", Font.PLAIN, 35));

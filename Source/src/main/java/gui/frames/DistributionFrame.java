@@ -67,11 +67,6 @@ public class DistributionFrame extends JPanel implements ActionListener {
         jButton5.addActionListener(this);
     }
 
-    private void setupTablePanel() {
-        tablePanel.setPreferredSize(new Dimension(1280, 670));
-        tablePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 0, 0, Color.BLUE));
-    }
-
     private void setCenteredColumns(TableColumnModel columnModel) {
         DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
         centerRenderer.setHorizontalAlignment( SwingConstants.CENTER );
@@ -93,6 +88,10 @@ public class DistributionFrame extends JPanel implements ActionListener {
         tablePanel = new JScrollPane(table);
     }
 
+    private void setupTablePanel() {
+        tablePanel.setPreferredSize(new Dimension(1280, 670));
+        tablePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 0, 0, Color.BLUE));
+    }
 
     private void initializePanel() {
         buttonsPanel = new JPanel();
@@ -111,7 +110,6 @@ public class DistributionFrame extends JPanel implements ActionListener {
         buttonsPanel.add(jButton5);
         this.add(buttonsPanel, BorderLayout.NORTH);
 
-
         if(flag != 0) {
             this.remove(tablePanel);
             this.revalidate();
@@ -123,34 +121,21 @@ public class DistributionFrame extends JPanel implements ActionListener {
         this.add(tablePanel, BorderLayout.SOUTH);
     }
 
-
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == jButton1) {
             flag = 1;
-            drawApp(flag);
-            this.revalidate();
-            this.repaint();
         } else if (e.getSource() == jButton2) {
             flag = 2;
-            drawApp(flag);
-            this.revalidate();
-            this.repaint();
         } else if (e.getSource() == jButton3) {
             flag = 3;
-            drawApp(flag);
-            this.revalidate();
-            this.repaint();
         } else if (e.getSource() == jButton4) {
             flag = 4;
-            drawApp(flag);
-            this.revalidate();
-            this.repaint();
-        }  else if (e.getSource() == jButton5) {
+        }  else {
             flag = 5;
-            drawApp(flag);
-            this.revalidate();
-            this.repaint();
         }
+        drawApp(flag);
+        this.revalidate();
+        this.repaint();
     }
 }
