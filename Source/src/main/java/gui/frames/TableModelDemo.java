@@ -1,4 +1,4 @@
-package gui;
+package gui.frames;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class TableModelDemo extends JPanel {
     public TableModelDemo() {
-        initializePanel();
+        initializeTabel();
     }
 
     public static void showFrame() {
@@ -36,8 +36,8 @@ public class TableModelDemo extends JPanel {
         }
     }
 
-    private void initializePanel() {
-        StudentDistributionTableModel tableModel = new StudentDistributionTableModel();
+    private void initializeTabel() {
+        StudentDistributionTableModel tableModel = new StudentDistributionTableModel(2);
         JTable table = new JTable(tableModel);
         table.setFillsViewportHeight(true);
 

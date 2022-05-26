@@ -15,6 +15,11 @@ import java.io.Serializable;
 @NamedQuery(name="UpdateCamin2", query = "SELECT c.medie FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
 @NamedQuery(name="UpdateCamin3", query = "SELECT c.camineByIdCamin FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
 @NamedQuery(name="StudentOrderByGender", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin > 0 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name="ShowStudentsDormitory1", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 1 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name="ShowStudentsDormitory2", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 2 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name="ShowStudentsDormitory3", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 3 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name="ShowStudentsDormitory4", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 4 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name="ShowStudentsDormitory5", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 5 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
 @Table(name = "studenti", schema = "public", catalog = "d4l5m503cets9j")
 public class StudentiEntity implements Serializable {
     @Basic

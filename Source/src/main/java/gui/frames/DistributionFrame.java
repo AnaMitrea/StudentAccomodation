@@ -1,6 +1,8 @@
 package gui.frames;
 
 import javax.swing.*;
+import javax.swing.table.DefaultTableCellRenderer;
+import javax.swing.table.TableColumnModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -8,7 +10,7 @@ import java.awt.event.ActionListener;
 public class DistributionFrame extends JPanel implements ActionListener {
     int flag = 0;
     JPanel buttonsPanel;
-    JPanel tablePanel;
+    JScrollPane tablePanel;
     JButton jButton1;
     JButton jButton2;
     JButton jButton3;
@@ -57,21 +59,7 @@ public class DistributionFrame extends JPanel implements ActionListener {
         jButton5.setForeground(new Color(0x37B2DE));
     }
 
-    private void setupTablePanel() {
-        tablePanel.setPreferredSize(new Dimension(1280, 670));
-        tablePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 0, 0, Color.BLUE));
-    }
-
-    private void initializePanel() {
-        buttonsPanel = new JPanel();
-        tablePanel = new JPanel();
-
-        setupButtonsPanel();
-        setupTablePanel();
-
-        flag = 0;
-        drawApp(flag);
-
+    private void setupActionListener() {
         jButton1.addActionListener(this);
         jButton2.addActionListener(this);
         jButton3.addActionListener(this);
@@ -79,65 +67,59 @@ public class DistributionFrame extends JPanel implements ActionListener {
         jButton5.addActionListener(this);
     }
 
-    private void drawApp(int flag) {
-        JLabel label1 = new JLabel("inceput " + flag);
-        label1.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-        label1.setBounds(0, 0, 325, 50);
-        tablePanel.add(label1);
+    private void setupTablePanel() {
+        tablePanel.setPreferredSize(new Dimension(1280, 670));
+        tablePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 0, 0, Color.BLUE));
+    }
 
+    private void setCenteredColumns(TableColumnModel columnModel) {
+        DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
+        centerRenderer.setHorizontalAlignment( SwingConstants.CENTER );
+
+        for(int index = 0; index < 3; index++) {
+            columnModel.getColumn(index).setPreferredWidth(100);
+            columnModel.getColumn(index).setCellRenderer(centerRenderer);
+        }
+    }
+
+    private void initializeTabel(int flag) {
+        StudentDistributionTableModel tableModel = new StudentDistributionTableModel(flag);
+        JTable table = new JTable(tableModel);
+        table.setFillsViewportHeight(true);
+
+        TableColumnModel columnModel = table.getColumnModel();
+        setCenteredColumns(columnModel);
+
+        tablePanel = new JScrollPane(table);
+    }
+
+
+    private void initializePanel() {
+        buttonsPanel = new JPanel();
+        setupButtonsPanel();
+        flag = 0;
+
+        drawApp(flag);
+        setupActionListener();
+    }
+
+    private void drawApp(int flag) {
         buttonsPanel.add(jButton1);
         buttonsPanel.add(jButton2);
         buttonsPanel.add(jButton3);
         buttonsPanel.add(jButton4);
         buttonsPanel.add(jButton5);
+        this.add(buttonsPanel, BorderLayout.NORTH);
 
-        JLabel label = new JLabel("flag = " + flag);
-        if(flag == 0) {
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        } else {
-            tablePanel.removeAll();
+
+        if(flag != 0) {
+            this.remove(tablePanel);
             this.revalidate();
             this.repaint();
         }
+        initializeTabel(flag);
+        setupTablePanel();
 
-        if(flag == 1) {
-            label = new JLabel("dupa remove button 1 flag =" + flag);
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        }
-
-        if(flag == 2) {
-            label = new JLabel("dupa remove button 2 flag =" + flag);
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        }
-
-        if(flag == 3) {
-            label = new JLabel("dupa remove button 3 flag =" + flag);
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        }
-
-        if(flag == 4) {
-            label = new JLabel("dupa remove button 4 flag =" + flag);
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        }
-
-        if(flag == 5) {
-            label = new JLabel("dupa remove button 5 flag =" + flag);
-            label.setFont(new Font("Times New Roman", Font.PLAIN, 38));
-            label.setBounds(0, 0, 325, 50);
-            tablePanel.add(label);
-        }
-
-        this.add(buttonsPanel, BorderLayout.NORTH);
         this.add(tablePanel, BorderLayout.SOUTH);
     }
 

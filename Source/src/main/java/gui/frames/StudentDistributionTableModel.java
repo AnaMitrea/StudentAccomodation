@@ -1,4 +1,4 @@
-package gui;
+package gui.frames;
 
 import database.entity.StudentiEntity;
 import database.repository.StudentRepository;
@@ -11,10 +11,22 @@ class StudentDistributionTableModel extends AbstractTableModel {
 
     private List<List<Object>> data;
 
-    public StudentDistributionTableModel() {
+    public StudentDistributionTableModel(int flag) {
         data = new ArrayList<>();
         StudentRepository studRepo = new StudentRepository();
-        List<StudentiEntity> studs = studRepo.showAllOrderByGender();
+        List<StudentiEntity> studs;
+
+        if(flag == 1) {
+            studs = studRepo.ShowStudentsDormitory1();
+        } else if(flag == 2) {
+            studs = studRepo.ShowStudentsDormitory2();
+        } else if(flag == 3) {
+            studs = studRepo.ShowStudentsDormitory3();
+        } else if(flag == 4) {
+            studs = studRepo.ShowStudentsDormitory4();
+        } else {
+            studs = studRepo.ShowStudentsDormitory5();
+        }
 
         for(StudentiEntity student : studs) {
            List<Object> information = new ArrayList<>();
