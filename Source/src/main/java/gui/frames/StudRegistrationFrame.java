@@ -157,22 +157,7 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(datePicker);
     }
 
-    /**
-     * Create the frame.
-     */
-    public StudRegistrationFrame() {
-        setIconImage(Toolkit.getDefaultToolkit().getImage("src/main/resources/student.png"));
-        setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
-
-        setBounds(0, 0, 1280, 720);
-        setResizable(false);
-        contentPane = new JPanel();
-        contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
-        setContentPane(contentPane);
-        contentPane.setLayout(null);
-        setLocationRelativeTo(null);
-        contentPane.setBackground(new Color(0xD2D6D9));
-
+    private void settingAllLabels() {
         settingTitle();
 
         int startPositionX = 120;
@@ -201,6 +186,32 @@ public class StudRegistrationFrame extends JFrame {
 
         startPositionY += addHeight;
         settingDateOfBirth(startPositionX, startPositionY);
+    }
+
+    private void contentPaneProperties() {
+        contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+        setContentPane(contentPane);
+        contentPane.setLayout(null);
+        setLocationRelativeTo(null);
+        contentPane.setBackground(new Color(0xD2D6D9));
+    }
+
+    private void frameProperties() {
+        setIconImage(Toolkit.getDefaultToolkit().getImage("src/main/resources/student.png"));
+        setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
+        setBounds(0, 0, 1280, 720);
+        setResizable(false);
+    }
+
+    /**
+     * Create the frame.
+     */
+    public StudRegistrationFrame() {
+        frameProperties();
+        contentPane = new JPanel();
+        contentPaneProperties();
+
+        settingAllLabels();
 
         btnNewButton = new JButton("Submit");
         btnNewButton.addActionListener(e -> {
