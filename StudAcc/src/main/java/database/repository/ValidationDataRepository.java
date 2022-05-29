@@ -6,25 +6,67 @@ import javax.persistence.EntityTransaction;
 import java.util.List;
 import java.util.Objects;
 
-
+/**
+ * This class provides a number of methods used to distribute students in the dormitory.
+ *
+ * @author Mitrea Ana-Maria
+ * @author Ungureanu Diana-Cristina
+ * @version 1.32
+ * @since 2022-05-30
+ */
 public class ValidationDataRepository {
+    /**
+     * Holds the last name .
+     */
     private String lastName;
+    /**
+     * Holds the first name .
+     */
     private String firstName;
+    /**
+     * Holds the year.
+     */
     private String an;
+    /**
+     * Holds the group .
+     */
     private String grupa;
+    /**
+     * Holds the email .
+     */
     private String emailAdress;
+    /**
+     * Holds the serial number .
+     */
     public String matricol;
+    /**
+     * Holds the GPA.
+     */
     private String medie;
+    /**
+     * Holds the date of birth.
+     */
     private String dataNastere;
+    /**
+     * Holds the gender.
+     */
     private String femaleGender;
+    /**
+     * Holds the gender.
+     */
     private String maleGender;
+    /**
+     * Holds the dormitory id.
+     */
     private int camin;
-    private double medie_buna=0.0;
+    private double average = 0.0;
     javax.persistence.EntityManager entityManager = EntityManager.getEntityManagerFactory().createEntityManager();
 
     EntityTransaction transaction = entityManager.getTransaction();
 
-
+    /**
+     * Class constructor specifying the last name, the first name, the year, the group, the email, the serial number, the GPA, the date of birth, the gender of the student.
+     */
     public ValidationDataRepository(String lastName, String firstName, String an, String grupa, String emailAdress, String matricol, String medie, String dataNastere, String femaleGender, String maleGender) {
         this.lastName = lastName;
         this.firstName = firstName;
@@ -38,6 +80,12 @@ public class ValidationDataRepository {
         this.maleGender = maleGender;
     }
 
+    /**
+     * This method converts the date of birth.
+     *
+     * @param date
+     * @return
+     */
     private String formDate(String date) {
         String newDate;
         String month = null;
@@ -75,8 +123,13 @@ public class ValidationDataRepository {
         return newDate;
     }
 
+    /**
+     * This method validates the student's accommodation at the dormitory.
+     *
+     * @return
+     */
     public String validare() {
-        System.out.println("aiciDodan");
+
         String gen1;
         int anInt = Integer.parseInt(an);
         double medieDouble = Double.parseDouble(medie);
@@ -87,7 +140,6 @@ public class ValidationDataRepository {
         else
             gen1 = "M";
 
-        System.out.println("..." + dataNastere + "..." + dataNastere.length());
 
         int count = Math.toIntExact((long) entityManager.createNamedQuery("StudentValidation")
                 .setParameter("nr_matricol", matricol)
@@ -100,21 +152,18 @@ public class ValidationDataRepository {
                 .setParameter("email", emailAdress)
                 .setParameter(2, medieDouble)
                 .getSingleResult());
-        System.out.println(count);
+
 
         if (count > 0) {
             if (!verificareInregistrat(matricol)) {
 
                 if (verifica_camin(matricol)) {
-                    System.out.println("Continuat pas 1");
+
                     transaction.begin();
                     entityManager.createNativeQuery("UPDATE studenti SET inregistrat=true WHERE nr_matricol=:matricol")
                             .setParameter("matricol", matricol)
                             .executeUpdate();
                     transaction.commit();
-                    System.out.println("Continuat pas 2");
-
-                    System.out.println("Pas adaugat");
 
                     transaction.begin();
                     int c = (int) entityManager.createNamedQuery("UpdateCamin3")
@@ -122,23 +171,18 @@ public class ValidationDataRepository {
                             .getSingleResult();
                     transaction.commit();
 
-                    System.out.println("count2 " + "" + c);
                     transaction.begin();
                     entityManager.createNativeQuery("UPDATE studenti SET id_camin=:camin WHERE nr_matricol=:matricol")
                             .setParameter("camin", c)
                             .setParameter("matricol", matricol)
                             .executeUpdate();
-                    System.out.println(camin);
                     transaction.commit();
-                    System.out.println("Continuat pas 3");
                     transaction.begin();
                     count = Math.toIntExact((int) entityManager.createNamedQuery("GetNumber")
                             .setParameter(1, c)
                             .getSingleResult());
                     transaction.commit();
 
-
-                    System.out.println("nr_locuri_camin_inainte" + " " + "Continuat pas 4" + " " + count);
                     count--;
                     transaction.begin();
                     entityManager.createNativeQuery("UPDATE camine SET capacitate_totala=:count WHERE id=:camin")
@@ -146,7 +190,7 @@ public class ValidationDataRepository {
                             .setParameter("camin", c)
                             .executeUpdate();
                     transaction.commit();
-                    System.out.println("nr_locuri_camin_dupa" + " " + "Continuat pas 4" + " " + count);
+
                     entityManager.close();
                     return "Ai aplicat cu succes!";
                 }
@@ -158,12 +202,19 @@ public class ValidationDataRepository {
         return "Informatii invalide!";
     }
 
+    /**
+     * This method validates the student's accommodation at the dormitory.
+     *
+     * @return
+     */
     private boolean verifica_camin(String matricol) {
+        double medie3 = (double) entityManager.createNamedQuery("UpdateCamin2")
+                .setParameter("matricol", matricol)
+                .getSingleResult();
         setMatricol(matricol);
-        medie_buna=0.0;
+        average = 0.0;
         int idCamin;
-        double minim=99999.0;
-        System.out.println("Am intrat");
+        double minim = 99999.0;
         String nr_matricolAdiacent = null;
         transaction.begin();
         int count1 = Math.toIntExact((int) entityManager.createNamedQuery("GetNumberC1")
@@ -171,10 +222,8 @@ public class ValidationDataRepository {
                 .getSingleResult());
         transaction.commit();
 
-        System.out.println("aici" + count1);
 
         if (count1 > 0) {
-            System.out.println("inca e disponibil");
 
             transaction.begin();
             idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
@@ -192,31 +241,28 @@ public class ValidationDataRepository {
 
 
         } else {
-            System.out.println("am intrat in cazul2");
+            average = 0.0;
             transaction.begin();
             List name = entityManager.createNamedQuery("UpdateCamin")
                     .getResultList();
             transaction.commit();
 
-            for (Object index: name) {
+            for (Object index : name) {
                 transaction.begin();
                 double medie1 = (double) entityManager.createNamedQuery("UpdateCamin2")
                         .setParameter("matricol", index)
                         .getSingleResult();
-                System.out.println("--------"+medie1);
                 transaction.commit();
-                if (medie1 < Double.parseDouble(medie)) {
-                    if(Double.parseDouble(medie)<minim) {
-                        medie_buna = medie1;
+                if (medie1 < medie3) {
+                    if (medie1 < minim) {
+                        average = medie1;
                         nr_matricolAdiacent = index.toString();
-                        System.out.println("cat e index="+index);
-                        minim=Double.parseDouble(medie);
+                        minim = medie1;
                     }
                 }
             }
-            System.out.println("--------"+medie_buna);
-            if (medie_buna > 0.0) {
 
+            if (average > 0.0) {
 
                 transaction.begin();
                 idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
@@ -237,35 +283,31 @@ public class ValidationDataRepository {
                         .executeUpdate();
                 transaction.commit();
 
-                System.out.println("+++++++++++++++++++"+nr_matricolAdiacent);
                 transaction.begin();
                 entityManager.createNativeQuery("UPDATE studenti SET id_camin=0 WHERE nr_matricol=:matricol")
                         .setParameter("matricol", nr_matricolAdiacent)
                         .executeUpdate();
                 transaction.commit();
-                System.out.println("+++++++++++++++++++dupa"+nr_matricolAdiacent);
                 verifica_camin(nr_matricolAdiacent);
                 return true;
 
             }
 
         }
-        minim=99999.0;
+        minim = 99999.0;
         transaction.begin();
         int count2 = Math.toIntExact((int) entityManager.createNamedQuery("GetNumberC2")
                 .setParameter("nume", "C2")
                 .getSingleResult());
         transaction.commit();
-        medie_buna=0.0;
+        average = 0.0;
         if (count2 > 0) {
-            System.out.println("suntem la camin c2 pe primul caz");
 
             transaction.begin();
             idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
                     .setParameter("nume", "C2")
                     .getSingleResult();
             transaction.commit();
-
             transaction.begin();
             entityManager.createNativeQuery("UPDATE studenti SET id_camin=:camin WHERE nr_matricol=:matricol")
                     .setParameter("camin", idCamin)
@@ -273,30 +315,30 @@ public class ValidationDataRepository {
                     .executeUpdate();
             transaction.commit();
             return true;
-        } else
-
-        {
+        } else {
+            average = 0.0;
             transaction.begin();
-            List name = entityManager.createNamedQuery("UpdateCamin")
+            List name = entityManager.createNamedQuery("UpdateCamin10")
                     .getResultList();
             transaction.commit();
 
-            for (Object index: name) {
+
+            for (Object index : name) {
                 transaction.begin();
                 double medie1 = (double) entityManager.createNamedQuery("UpdateCamin2")
                         .setParameter("matricol", index)
                         .getSingleResult();
+
                 transaction.commit();
-                if (medie1 < Double.parseDouble(medie)) {
-                    if(Double.parseDouble(medie)<minim) {
-                        medie_buna = medie1;
+                if (medie1 < medie3) {
+                    if (medie1 < minim) {
+                        average = medie1;
                         nr_matricolAdiacent = index.toString();
-                        minim=Double.parseDouble(medie);
+                        minim = medie1;
                     }
                 }
             }
-            if (medie_buna > 0.0) {
-
+            if (average > 0.0) {
                 transaction.begin();
                 idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
                         .setParameter("nume", "C2")
@@ -315,7 +357,6 @@ public class ValidationDataRepository {
                         .setParameter("matricol", matricol)
                         .executeUpdate();
                 transaction.commit();
-
                 transaction.begin();
                 entityManager.createNativeQuery("UPDATE studenti SET id_camin=0 WHERE nr_matricol=:matricol")
                         .setParameter("matricol", nr_matricolAdiacent)
@@ -326,8 +367,8 @@ public class ValidationDataRepository {
             }
         }
 
-        medie_buna=0.0;
-        minim=9999.0;
+        average = 0.0;
+        minim = 9999.0;
         transaction.begin();
         int count3 = Math.toIntExact((int) entityManager.createNamedQuery("GetNumberC3")
                 .setParameter("nume", "C3")
@@ -350,27 +391,27 @@ public class ValidationDataRepository {
             transaction.commit();
             return true;
         } else {
-
+            average = 0.0;
             transaction.begin();
-            List name = entityManager.createNamedQuery("UpdateCamin")
+            List name = entityManager.createNamedQuery("UpdateCamin20")
                     .getResultList();
             transaction.commit();
 
-            for (Object index: name) {
+            for (Object index : name) {
                 transaction.begin();
                 double medie1 = (double) entityManager.createNamedQuery("UpdateCamin2")
                         .setParameter("matricol", index)
                         .getSingleResult();
                 transaction.commit();
-                if (medie1 < Double.parseDouble(medie)) {
-                    if(Double.parseDouble(medie)<minim) {
-                        medie_buna = medie1;
+                if (medie1 < medie3) {
+                    if (medie1 < minim) {
+                        average = medie1;
                         nr_matricolAdiacent = index.toString();
-                        minim=Double.parseDouble(medie);
+                        minim = medie1;
                     }
                 }
             }
-            if (medie_buna > 0.0) {
+            if (average > 0.0) {
 
                 transaction.begin();
                 idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
@@ -402,8 +443,8 @@ public class ValidationDataRepository {
 
         }
 
-        medie_buna=0.0;
-        minim=9999.0;
+        average = 0.0;
+        minim = 9999.0;
         transaction.begin();
         int count4 = Math.toIntExact((int) entityManager.createNamedQuery("GetNumberC4")
                 .setParameter("nume", "C4")
@@ -427,27 +468,27 @@ public class ValidationDataRepository {
             return true;
 
         } else {
-
+            average = 0.0;
             transaction.begin();
-            List name = entityManager.createNamedQuery("UpdateCamin")
+            List name = entityManager.createNamedQuery("UpdateCamin30")
                     .getResultList();
             transaction.commit();
 
-            for (Object index: name) {
+            for (Object index : name) {
                 transaction.begin();
                 double medie1 = (double) entityManager.createNamedQuery("UpdateCamin2")
                         .setParameter("matricol", index)
                         .getSingleResult();
                 transaction.commit();
-                if (medie1 < Double.parseDouble(medie)) {
-                    if(Double.parseDouble(medie)<minim) {
-                        medie_buna = medie1;
+                if (medie1 < medie3) {
+                    if (medie1 < minim) {
+                        average = medie1;
                         nr_matricolAdiacent = index.toString();
-                        minim=Double.parseDouble(medie);
+                        minim = medie1;
                     }
                 }
             }
-            if (medie_buna > 0.0) {
+            if (average > 0.0) {
 
                 transaction.begin();
                 idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
@@ -481,8 +522,8 @@ public class ValidationDataRepository {
 
         }
 
-        medie_buna=0.0;
-        minim=9999.0;
+        average = 0.0;
+        minim = 9999.0;
         transaction.begin();
         int count5 = Math.toIntExact((int) entityManager.createNamedQuery("GetNumberC5")
                 .setParameter("nume", "C5")
@@ -505,26 +546,27 @@ public class ValidationDataRepository {
             return true;
 
         } else {
+            average = 0.0;
             transaction.begin();
-            List name = entityManager.createNamedQuery("UpdateCamin")
+            List name = entityManager.createNamedQuery("UpdateCamin40")
                     .getResultList();
             transaction.commit();
 
-            for (Object index: name) {
+            for (Object index : name) {
                 transaction.begin();
                 double medie1 = (double) entityManager.createNamedQuery("UpdateCamin2")
                         .setParameter("matricol", index)
                         .getSingleResult();
                 transaction.commit();
-                if (medie1 < Double.parseDouble(medie)) {
-                    if(Double.parseDouble(medie)<minim) {
-                        medie_buna = medie1;
+                if (medie1 < medie3) {
+                    if (medie1 < minim) {
+                        average = medie1;
                         nr_matricolAdiacent = index.toString();
-                        minim=Double.parseDouble(medie);
+                        minim = medie1;
                     }
                 }
             }
-            if (medie_buna > 0.0) {
+            if (average > 0.0) {
 
                 transaction.begin();
                 idCamin = (int) entityManager.createNamedQuery("GetIdCamin")
@@ -560,7 +602,11 @@ public class ValidationDataRepository {
         return false;
     }
 
-
+    /**
+     *
+     * This method validates the student's accommodation at the dormitory.
+     * @return
+     */
     private boolean verificareInregistrat(String matricol) {
 
         boolean count = (boolean) entityManager.createNamedQuery("CheckRegister")
@@ -569,86 +615,161 @@ public class ValidationDataRepository {
         return count;
     }
 
+    /**
+     * This is a method called Setter that is used to set the dormitory.
+     * @param camin
+     */
     public void setCamin(int camin) {
         this.camin = camin;
     }
 
+    /**
+     * This is a method called Getter that is used to get the last name.
+     */
     public String getLastName() {
         return lastName;
     }
 
+    /**
+     * This is a method called Setter that is used to set the last name.
+     * @param lastName
+     */
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
 
+    /**
+     * This is a method called Getter that is used to get the first name.
+     */
     public String getFirstName() {
         return firstName;
     }
 
+    /**
+     * This is a method called Setter that is used to set the first name.
+     * @param firstName
+     */
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
 
+    /**
+     * This is a method called Getter that is used to get the year.
+     */
     public String getAn() {
         return an;
     }
 
+    /**
+     * This is a method called Setter that is used to set the year.
+     * @param an
+     */
     public void setAn(String an) {
         this.an = an;
     }
 
+    /**
+     * This is a method called Getter that is used to get the group.
+     */
     public String getGrupa() {
         return grupa;
     }
 
+    /**
+     * This is a method called Setter that is used to set the group.
+     * @param grupa
+     */
     public void setGrupa(String grupa) {
         this.grupa = grupa;
     }
 
+    /**
+     * This is a method called Getter that is used to get the email.
+     */
     public String getEmailAdress() {
         return emailAdress;
     }
 
+    /**
+     * This is a method called Setter that is used to set the email.
+     * @param emailAdress
+     */
     public void setEmailAdress(String emailAdress) {
         this.emailAdress = emailAdress;
     }
 
+    /**
+     * This is a method called Getter that is used to get the serial number.
+     */
     public String getMatricol() {
         return matricol;
     }
 
+    /**
+     * This is a method called Setter that is used to set the serial number.
+     * @param matricol
+     */
     public void setMatricol(String matricol) {
         this.matricol = matricol;
     }
 
+    /**
+     * This is a method called Getter that is used to get the GPA.
+     */
     public String getMedie() {
         return medie;
     }
 
+    /**
+     *  This is a method called Setter that is used to set the GPA.
+     * @param medie
+     */
     public void setMedie(String medie) {
         this.medie = medie;
     }
 
+    /**
+     * This is a method called Getter that is used to get the date of birth.
+     */
     public String getDataNastere() {
         return dataNastere;
     }
 
+    /**
+     * This is a method called Setter that is used to set the date of birth.
+     * @param dataNastere
+     */
     public void setDataNastere(String dataNastere) {
         this.dataNastere = dataNastere;
     }
+
+    /**
+     * This is a method called Getter that is used to get the gender.
+     */
 
     public String getFemaleGender() {
         return femaleGender;
     }
 
+    /**
+     * This is a method called Setter that is used to set the gender.
+     * @param femaleGender
+     */
     public void setFemaleGender(String femaleGender) {
         this.femaleGender = femaleGender;
     }
 
+    /**
+     * This is a method called Getter that is used to get the gender.
+     */
     public String getMaleGender() {
         return maleGender;
     }
 
+    /**
+     * This is a method called Setter that is used to set the gender.
+     * @param maleGender
+     */
     public void setMaleGender(String maleGender) {
         this.maleGender = maleGender;
     }

@@ -8,5 +8,16 @@
       <jdbc-url>jdbc:postgresql://ec2-63-35-156-160.eu-west-1.compute.amazonaws.com:5432/d4l5m503cets9j</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="default/Hibernate" uuid="8a775b47-4b42-4fc5-9c57-807568b51ff1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Diana/Documents/GitHub/StudentAccomodation/StudAcc/target/classes/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-63-35-156-160.eu-west-1.compute.amazonaws.com:5432/d4l5m503cets9j</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

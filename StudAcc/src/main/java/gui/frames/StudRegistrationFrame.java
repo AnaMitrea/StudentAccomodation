@@ -13,7 +13,13 @@ import java.io.Serial;
 import java.util.Objects;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
-
+/**
+ * This class provides the registration menu for the graphical interface made in Swing.
+ * @author Mitrea Ana-Maria
+ * @author Ungureanu Diana-Cristina
+ * @version 1.32
+ * @since 2022-05-30
+ */
 public class StudRegistrationFrame extends JFrame {
     @Serial
     private static final long serialVersionUID = 1L;
@@ -35,6 +41,9 @@ public class StudRegistrationFrame extends JFrame {
     private int addHeight = 120;
     private int addWidth = 580;
 
+    /**
+     * Title settings
+     */
     private void settingTitle() {
         JLabel lblNewUserRegister = new JLabel("Student accommodation");
         lblNewUserRegister.setFont(new Font("Helvetica Neue", Font.PLAIN, 29));
@@ -42,7 +51,9 @@ public class StudRegistrationFrame extends JFrame {
         lblNewUserRegister.setForeground(new Color(0x37B2DE));
         contentPane.add(lblNewUserRegister);
     }
-
+    /**
+     * Label settings
+     */
     private void settingLabels(int posX, int posY, int width, int height, String labelName) {
         JLabel lblNewLabel = new JLabel(labelName);
         lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 20));
@@ -51,8 +62,11 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(lblNewLabel);
     }
 
+    /**
+     * Last name settings
+     */
     private void settingLastName(int posX, int posY) {
-        settingLabels(posX, posY, 110, 29,"Last name");
+        settingLabels(posX, posY, 110, 29, "Last name");
 
         lastname = new JTextField();
         lastname.setFont(new Font("Tahoma", Font.PLAIN, 32));
@@ -61,8 +75,11 @@ public class StudRegistrationFrame extends JFrame {
         lastname.setColumns(10);
     }
 
+    /**
+     * First name settings
+     */
     private void settingFirstName(int posX, int posY) {
-        settingLabels(posX, posY, 110, 29,"First name");
+        settingLabels(posX, posY, 110, 29, "First name");
 
         firstname = new JTextField();
         firstname.setFont(new Font("Tahoma", Font.PLAIN, 32));
@@ -71,8 +88,12 @@ public class StudRegistrationFrame extends JFrame {
         firstname.setColumns(10);
     }
 
+
+    /**
+     * Gender settings
+     */
     private void settingGender(int posX, int posY) {
-        settingLabels(posX, posY, 110, 29,"Gender");
+        settingLabels(posX, posY, 110, 29, "Gender");
         settingLabels(posX + 170, posY - 8, 150, 50, "Male");
 
         radioButtonMale = new JRadioButton("");
@@ -88,8 +109,11 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(radioButtonFemale);
     }
 
+    /**
+     * Year settings
+     */
     private void settingYearGroup(int posX, int posY) {
-        settingLabels(posX-8, posY - 30, 200, 29,"Year and Group");
+        settingLabels(posX - 8, posY - 30, 200, 29, "Year and Group");
 
         yearSelector = new JComboBox<>();
         yearSelector.addItem("Select year");
@@ -115,6 +139,9 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(groupSelector);
     }
 
+    /**
+     * Email settings
+     */
     private void settingEmail(int posX, int posY) {
         settingLabels(posX, posY, 200, 29, "Email\r\n address");
 
@@ -124,9 +151,11 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(email);
         email.setColumns(10);
     }
-
+    /**
+     * Serial number settings
+     */
     private void settingSerialNumber(int posX, int posY) {
-        settingLabels(posX-8, posY-8, 200, 29, "Serial number");
+        settingLabels(posX - 8, posY - 8, 200, 29, "Serial number");
 
         serialNumber = new JTextField();
         serialNumber.setFont(new Font("Tahoma", Font.PLAIN, 32));
@@ -135,6 +164,9 @@ public class StudRegistrationFrame extends JFrame {
         serialNumber.setColumns(10);
     }
 
+    /**
+     * Gpa settings
+     */
     private void settingGpa(int posX, int posY) {
         settingLabels(posX, posY, 110, 29, "GPA");
 
@@ -144,6 +176,9 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(gpaField);
     }
 
+    /**
+     * Date of birth settings
+     */
     private void settingDateOfBirth(int posX, int posY) {
         settingLabels(posX, posY - 30, 200, 29, "Date of birth");
 
@@ -157,6 +192,9 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.add(datePicker);
     }
 
+    /**
+     * Label settings
+     */
     private void settingAllLabels() {
         settingTitle();
 
@@ -188,6 +226,9 @@ public class StudRegistrationFrame extends JFrame {
         settingDateOfBirth(startPositionX, startPositionY);
     }
 
+    /**
+     * Content panel settings
+     */
     private void contentPaneProperties() {
         contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
         setContentPane(contentPane);
@@ -196,6 +237,9 @@ public class StudRegistrationFrame extends JFrame {
         contentPane.setBackground(new Color(0xD2D6D9));
     }
 
+    /**
+     * Frame settings
+     */
     private void frameProperties() {
         setIconImage(Toolkit.getDefaultToolkit().getImage("src/main/resources/student.png"));
         setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
@@ -217,15 +261,15 @@ public class StudRegistrationFrame extends JFrame {
         btnNewButton.addActionListener(e -> {
             boolean valid = false;
             int countDifCharacters = 0;
-            int countNumbers=0;
+            int countNumbers = 0;
             int count = 0;
 
             String lastName = this.lastname.getText();
             String firstName = this.firstname.getText();
-            String femaleGender = String.valueOf( this.radioButtonFemale.isSelected() );
-            String maleGender = String.valueOf( this.radioButtonMale.isSelected() );
-            String year = Objects.requireNonNull( this.yearSelector.getSelectedItem() ).toString();
-            String group = Objects.requireNonNull( this.groupSelector.getSelectedItem() ).toString();
+            String femaleGender = String.valueOf(this.radioButtonFemale.isSelected());
+            String maleGender = String.valueOf(this.radioButtonMale.isSelected());
+            String year = Objects.requireNonNull(this.yearSelector.getSelectedItem()).toString();
+            String group = Objects.requireNonNull(this.groupSelector.getSelectedItem()).toString();
             String emailAddr = this.email.getText();
             String serialNumber = this.serialNumber.getText();
             String gpa = this.gpaField.getText();
@@ -235,16 +279,16 @@ public class StudRegistrationFrame extends JFrame {
             try {
                 if (serialNumber.length() > 0 && firstName.length() > 0 && lastName.length() > 0 && (femaleGender.equals("true") || maleGender.equals("true")) && year.length() > 0 && group.length() > 0 && emailAddr.length() > 0 && gpa.length() > 0) {
 
-                        for (int index = 0; index < gpa.length(); index++) {
+                    for (int index = 0; index < gpa.length(); index++) {
 
-                            if (gpa.charAt(index) == '0' || gpa.charAt(index) == '1' || gpa.charAt(index) == '2' || gpa.charAt(index) == '3' || gpa.charAt(index) == '4' || gpa.charAt(index) == '5' || gpa.charAt(index) == '6' || gpa.charAt(index) == '7' || gpa.charAt(index) == '8' || gpa.charAt(index) == '9' ) {
-                                countNumbers++;
-                            } else if (gpa.charAt(index)=='.') {
-                                count++;
-                            } else
-                                countDifCharacters++;
-                        }
-                    if (count == 1 && countDifCharacters == 0 && gpa.length() == (count + countNumbers) && gpa.charAt(1)=='.') {
+                        if (gpa.charAt(index) == '0' || gpa.charAt(index) == '1' || gpa.charAt(index) == '2' || gpa.charAt(index) == '3' || gpa.charAt(index) == '4' || gpa.charAt(index) == '5' || gpa.charAt(index) == '6' || gpa.charAt(index) == '7' || gpa.charAt(index) == '8' || gpa.charAt(index) == '9') {
+                            countNumbers++;
+                        } else if (gpa.charAt(index) == '.') {
+                            count++;
+                        } else
+                            countDifCharacters++;
+                    }
+                    if (count == 1 && countDifCharacters == 0 && gpa.length() == (count + countNumbers) && gpa.charAt(1) == '.') {
                         valid = true;
                     }
                     if (valid && !year.equals("Select year")) {

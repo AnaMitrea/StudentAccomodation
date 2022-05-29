@@ -5,6 +5,13 @@ import java.io.Serial;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
+/**
+ * This class provides the main menu for the graphical interface made in Swing.
+ * @author Mitrea Ana-Maria
+ * @author Ungureanu Diana-Cristina
+ * @version 1.32
+ * @since 2022-05-30
+ */
 public class MenuFrame extends JFrame {
     @Serial
     private static final long serialVersionUID = 1L;
@@ -27,8 +34,8 @@ public class MenuFrame extends JFrame {
      */
     private void settingTitle() {
         JLabel lblNewUserRegister = new JLabel("Student accommodation");
-        lblNewUserRegister.setFont(new Font("Helvetica Neue", Font.PLAIN, 35));
-        lblNewUserRegister.setBounds(453, 50, 375, 50);
+        lblNewUserRegister.setFont(new Font("Helvetica Neue", Font.PLAIN, 29));
+        lblNewUserRegister.setBounds(475, 50, 375, 50);
         lblNewUserRegister.setForeground(new Color(0x37B2DE));
         contentPane.add(lblNewUserRegister);
     }

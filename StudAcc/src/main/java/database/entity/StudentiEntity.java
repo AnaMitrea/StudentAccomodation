@@ -1,7 +1,17 @@
 package database.entity;
+
 import javax.persistence.*;
 import java.io.Serializable;
 
+/**
+ * StudentiEntity represents a table ( camine ) in a relational database, and each entity instance
+ * corresponds to a row in that table. The primary programming artifact of an entity is
+ * the entity class, although entities can use helper classes.
+ *  @author Mitrea Ana-Maria
+ *  @author Ungureanu Diana-Cristina
+ *  @version 1.32
+ *  @since 2022-05-30
+ */
 @Entity
 @NamedQuery(name = "CheckRegister", query = "SELECT c.inregistrat FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
 @NamedQuery(name = "StudentsShowAll", query = "SELECT c FROM StudentiEntity c")
@@ -10,16 +20,20 @@ import java.io.Serializable;
 @NamedQuery(name = "StudentsExistsById", query = "SELECT COUNT(c) FROM StudentiEntity c WHERE c.id=?1")
 @NamedQuery(name = "StudentsExistsBySerialNumber", query = "SELECT COUNT(c) FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
 @NamedQuery(name = "StudentsShowGPABySerialNumber", query = "SELECT c.medie FROM StudentiEntity c WHERE c.nrMatricol=:nrMatricol")
-@NamedQuery(name="StudentValidation", query = "SELECT count(c) FROM StudentiEntity c WHERE c.nrMatricol=:nr_matricol and c.nume=:nume and c.prenume=:prenume and c.gen=:gen and c.an=?1 and c.grupa=:grupa and c.dataNastere=:datanastere and c.email=:email and c.medie=?2")
-@NamedQuery(name="UpdateCamin", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin>0")
-@NamedQuery(name="UpdateCamin2", query = "SELECT c.medie FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
-@NamedQuery(name="UpdateCamin3", query = "SELECT c.camineByIdCamin FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
-@NamedQuery(name="StudentOrderByGender", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin > 0 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
-@NamedQuery(name="ShowStudentsDormitory1", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 1 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
-@NamedQuery(name="ShowStudentsDormitory2", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 2 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
-@NamedQuery(name="ShowStudentsDormitory3", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 3 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
-@NamedQuery(name="ShowStudentsDormitory4", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 4 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
-@NamedQuery(name="ShowStudentsDormitory5", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 5 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "StudentValidation", query = "SELECT count(c) FROM StudentiEntity c WHERE c.nrMatricol=:nr_matricol and c.nume=:nume and c.prenume=:prenume and c.gen=:gen and c.an=?1 and c.grupa=:grupa and c.dataNastere=:datanastere and c.email=:email and c.medie=?2")
+@NamedQuery(name = "UpdateCamin", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin=1")
+@NamedQuery(name = "UpdateCamin10", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin=2")
+@NamedQuery(name = "UpdateCamin20", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin=3")
+@NamedQuery(name = "UpdateCamin30", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin=4")
+@NamedQuery(name = "UpdateCamin40", query = "SELECT c.nrMatricol FROM StudentiEntity c WHERE c.camineByIdCamin=5")
+@NamedQuery(name = "UpdateCamin2", query = "SELECT c.medie FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
+@NamedQuery(name = "UpdateCamin3", query = "SELECT c.camineByIdCamin FROM StudentiEntity c WHERE c.nrMatricol=:matricol")
+@NamedQuery(name = "StudentOrderByGender", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin > 0 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "ShowStudentsDormitory1", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 1 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "ShowStudentsDormitory2", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 2 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "ShowStudentsDormitory3", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 3 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "ShowStudentsDormitory4", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 4 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
+@NamedQuery(name = "ShowStudentsDormitory5", query = "SELECT c from StudentiEntity c WHERE c.camineByIdCamin = 5 and c.inregistrat = true ORDER BY c.medie desc, c.gen")
 @Table(name = "studenti", schema = "public", catalog = "d4l5m503cets9j")
 public class StudentiEntity implements Serializable {
     @Basic
@@ -141,10 +155,14 @@ public class StudentiEntity implements Serializable {
         this.inregistrat = inregistrat;
     }
 
-    public String getGen() { return gen;   }
+    public String getGen() {
+        return gen;
+    }
 
 
-    public void setGen(String gen) {   this.gen = gen; }
+    public void setGen(String gen) {
+        this.gen = gen;
+    }
 
 
     @Override

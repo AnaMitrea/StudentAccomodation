@@ -5,9 +5,15 @@ import database.repository.StudentRepository;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.*;
-
+/**
+ * This class provides the distribution menu for the graphical interface made in Swing.
+ * @author Mitrea Ana-Maria
+ * @author Ungureanu Diana-Cristina
+ * @version 1.32
+ * @since 2022-05-30
+ */
 class StudentDistributionTableModel extends AbstractTableModel {
-    private final List<String> columnNames =  Arrays.asList("SERIAL NUMBER", "GPA", "ASSIGNED DORMITORY");
+    private final List<String> columnNames = Arrays.asList("SERIAL NUMBER", "GPA", "ASSIGNED DORMITORY");
 
     private List<List<Object>> data;
 
@@ -16,25 +22,25 @@ class StudentDistributionTableModel extends AbstractTableModel {
         StudentRepository studRepo = new StudentRepository();
         List<StudentiEntity> studs;
 
-        if(flag == 1) {
+        if (flag == 1) {
             studs = studRepo.ShowStudentsDormitory1();
-        } else if(flag == 2) {
+        } else if (flag == 2) {
             studs = studRepo.ShowStudentsDormitory2();
-        } else if(flag == 3) {
+        } else if (flag == 3) {
             studs = studRepo.ShowStudentsDormitory3();
-        } else if(flag == 4) {
+        } else if (flag == 4) {
             studs = studRepo.ShowStudentsDormitory4();
         } else {
             studs = studRepo.ShowStudentsDormitory5();
         }
 
-        for(StudentiEntity student : studs) {
-           List<Object> information = new ArrayList<>();
-           information.add(0,student.getNrMatricol());
-           information.add(1,student.getMedie());
-           information.add(2,"C" + student.getCamineByIdCamin());
+        for (StudentiEntity student : studs) {
+            List<Object> information = new ArrayList<>();
+            information.add(0, student.getNrMatricol());
+            information.add(1, student.getMedie());
+            information.add(2, "C" + student.getCamineByIdCamin());
 
-           data.add(information);
+            data.add(information);
         }
     }
 

@@ -3,6 +3,15 @@ package database.entity;
 import javax.persistence.*;
 import java.util.Collection;
 
+/**
+ * CamineEntity represents a table ( camine ) in a relational database, and each entity instance
+ * corresponds to a row in that table. The primary programming artifact of an entity is
+ * the entity class, although entities can use helper classes.
+ *  @author Mitrea Ana-Maria
+ *  @author Ungureanu Diana-Cristina
+ *  @version 1.32
+ *  @since 2022-05-30
+ */
 @Entity
 @NamedQuery(name = "GetIdCamin", query = "SELECT c.id FROM CamineEntity c WHERE c.denumire=:nume")
 @NamedQuery(name = "GetNumberC1", query = "SELECT c.capacitateTotala FROM CamineEntity c WHERE c.denumire=:nume")
@@ -16,7 +25,7 @@ import java.util.Collection;
 @NamedQuery(name = "Camine_FindByName", query = "SELECT c FROM CamineEntity c WHERE c.denumire=:denumire")
 @NamedQuery(name = "Camine_ExistsById", query = "SELECT COUNT(c) FROM CamineEntity c WHERE c.id=?1")
 @NamedQuery(name = "Camine_ExistsByName", query = "SELECT COUNT(c) FROM CamineEntity c WHERE c.denumire=:denumire")
-@Table(name =  "camine", schema = "public", catalog = "d4l5m503cets9j")
+@Table(name = "camine", schema = "public", catalog = "d4l5m503cets9j")
 public class CamineEntity {
     @Basic
     @Id

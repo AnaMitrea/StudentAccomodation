@@ -6,7 +6,13 @@ import javax.swing.table.TableColumnModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+/**
+ * This class provides the distribution menu for the graphical interface made in Swing.
+ * @author Mitrea Ana-Maria
+ * @author Ungureanu Diana-Cristina
+ * @version 1.32
+ * @since 2022-05-30
+ */
 public class DistributionFrame extends JPanel implements ActionListener {
     int flag = 0;
     JPanel buttonsPanel;
@@ -36,6 +42,9 @@ public class DistributionFrame extends JPanel implements ActionListener {
         frame.setBackground(new Color(0xD2D6D9));
     }
 
+    /**
+     * Buttons settings
+     */
     private void setupButtonsPanel() {
         buttonsPanel.setPreferredSize(new Dimension(1280, 50));
         buttonsPanel.setBackground(new Color(0xD2D6D9));
@@ -59,6 +68,9 @@ public class DistributionFrame extends JPanel implements ActionListener {
         jButton5.setForeground(new Color(0x37B2DE));
     }
 
+    /**
+     * Action Listener settings
+     */
     private void setupActionListener() {
         jButton1.addActionListener(this);
         jButton2.addActionListener(this);
@@ -67,6 +79,10 @@ public class DistributionFrame extends JPanel implements ActionListener {
         jButton5.addActionListener(this);
     }
 
+    /**
+     * Table settings
+     * @param columnModel
+     */
     private void setCenteredColumns(TableColumnModel columnModel) {
         DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
         centerRenderer.setHorizontalAlignment( SwingConstants.CENTER );
@@ -77,6 +93,10 @@ public class DistributionFrame extends JPanel implements ActionListener {
         }
     }
 
+    /**
+     * Table settings
+     * @param flag
+     */
     private void initializeTabel(int flag) {
         StudentDistributionTableModel tableModel = new StudentDistributionTableModel(flag);
         JTable table = new JTable(tableModel);
@@ -88,11 +108,17 @@ public class DistributionFrame extends JPanel implements ActionListener {
         tablePanel = new JScrollPane(table);
     }
 
+    /**
+     * Table settings
+     */
     private void setupTablePanel() {
         tablePanel.setPreferredSize(new Dimension(1280, 670));
         tablePanel.setBorder(BorderFactory.createMatteBorder(1, 0, 0, 0, Color.BLUE));
     }
 
+    /**
+     * Panel settings
+     */
     private void initializePanel() {
         buttonsPanel = new JPanel();
         setupButtonsPanel();
@@ -102,6 +128,10 @@ public class DistributionFrame extends JPanel implements ActionListener {
         setupActionListener();
     }
 
+    /**
+     * App settings
+     * @param flag
+     */
     private void drawApp(int flag) {
         buttonsPanel.add(jButton1);
         buttonsPanel.add(jButton2);
